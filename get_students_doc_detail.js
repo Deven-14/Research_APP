@@ -39,12 +39,6 @@ function authorize(credentials, callback) {
   });
 }
 
-/**
- * Get and store new token after prompting for user authorization, and then
- * execute the given callback with the authorized OAuth2 client.
- * @param {google.auth.OAuth2} oAuth2Client The OAuth2 client to get token for.
- * @param {getEventsCallback} callback The callback for the authorized client.
- */
 function getNewToken(oAuth2Client, callback) {
   const authUrl = oAuth2Client.generateAuthUrl({
     access_type: "offline",
@@ -85,14 +79,14 @@ function getAllData(auth, allFiles, ancestor_name, page_Token) {
       const activities = res.data.activities;
       if (activities) {
         console.log("Recent activity:");
-        people_id = [];
+        var people_id = [];
 
         //people_id = activity.actors[0].user.knownUser.split(" ");
         //console.log(people_id);
         activities.forEach((activity) => {
           //console.log(activity.timestamp);
           var name, title, ppl_id;
-          for (x in activity.targets[0].driveItem) {
+          for (var x in activity.targets[0].driveItem) {
             if (x == "title") title = activity.targets[0].driveItem[x];
             if (x == "name") name = activity.targets[0].driveItem[x];
             if (x == "file") break;
@@ -102,7 +96,7 @@ function getAllData(auth, allFiles, ancestor_name, page_Token) {
               ppl_id = activity.actors[0].user.knownUser[x];
           fs.appendFile(
             "student_details.txt",
-            `${activity.timestamp}, ${name}, ${title}, ${ppl_id}\n`,
+            `${activity.timestamp}**${name}**${title}**${ppl_id}\n`,
             (err) => {
               if (err) console.log(err);
             }
