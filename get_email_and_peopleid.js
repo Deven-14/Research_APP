@@ -1,3 +1,4 @@
+  
 const fs = require("fs");
 const readline = require("readline");
 const { google } = require("googleapis");
@@ -36,7 +37,7 @@ function authorize(credentials, callback) {
   fs.readFile(TOKEN_PATH, (err, token) => {
     if (err) return getNewToken(oAuth2Client, callback);
     oAuth2Client.setCredentials(JSON.parse(token));
-    callback(oAuth2Client);
+    callback(oAuth2Client); 
   });
 }
 
@@ -91,15 +92,6 @@ function getAllData(auth, allFiles, course_id, page_Token) {
           var people_id = [];
 
           students.forEach((student) => {
-            var name, ppl_id, email_id;
-            // for (var x in activity.targets[0].driveItem) {
-            //   if (x == "title") title = activity.targets[0].driveItem[x];
-            //   if (x == "name") name = activity.targets[0].driveItem[x];
-            //   if (x == "file") break;
-            // }
-            // for (x in activity.actors[0].user.knownUser)
-            //   if (x == "personName")
-            //     ppl_id = activity.actors[0].user.knownUser[x];
             console.log(
               student.userId,
               student.profile.emailAddress,
@@ -131,8 +123,8 @@ function getAllData(auth, allFiles, course_id, page_Token) {
 
 function listCourses(auth) {
   const classroom = google.classroom({ version: "v1", auth });
-  data = [];
-  d = getAllData(auth, data, "265849904082", "");
+  var data = [];
+  var d = getAllData(auth, data, "265849904082", "");
   d.then(function (values) {
     console.log("Happy! : )");
   });
