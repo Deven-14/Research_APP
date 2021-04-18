@@ -1,12 +1,11 @@
-  
+//This file gets the course names, sections, course ids, classroom drive ids of the required courses
+
 const fs = require("fs");
 const readline = require("readline");
 const { google } = require("googleapis");
 
 // If modifying these scopes, delete token.json.
-const SCOPES = [
-  "https://www.googleapis.com/auth/classroom.profile.emails https://www.googleapis.com/auth/classroom.profile.photos https://www.googleapis.com/auth/classroom.rosters https://www.googleapis.com/auth/classroom.rosters.readonly",
-];
+const SCOPES = ["https://www.googleapis.com/auth/classroom.courses.readonly"];
 // The file token.json stores the user's access and refresh tokens, and is
 // created automatically when the authorization flow completes for the first
 // time.
@@ -37,7 +36,7 @@ function authorize(credentials, callback) {
   fs.readFile(TOKEN_PATH, (err, token) => {
     if (err) return getNewToken(oAuth2Client, callback);
     oAuth2Client.setCredentials(JSON.parse(token));
-    callback(oAuth2Client); 
+    callback(oAuth2Client);
   });
 }
 
@@ -72,60 +71,36 @@ function getNewToken(oAuth2Client, callback) {
   });
 }
 
-function getAllData(auth, allFiles, course_id, page_Token) {
-  console.log("Me too!");
-  return new Promise((resolve, reject) => {
-    console.log("Me 3");
-    const classes = google.classroom({ version: "v1", auth });
-    const params = {
-      courseId: course_id,
-      pageSize: 1000,
-      pageToken: page_Token,
-    };
-    classes.courses.students.list(
-      { courseId: course_id, pageSize: 1000, pageToken: page_Token },
-      (err, res) => {
-        if (err) return console.error("The API returned an big error: " + err);
-        const students = res.data.students;
-        if (students) {
-          console.log("Recent activity:");
-          var people_id = [];
-
-          students.forEach((student) => {
-            console.log(
-              student.userId,
-              student.profile.emailAddress,
-              student.profile.name.fullName
-            );
-            fs.appendFile(
-              "student_email_name_id.txt",
-              `${student.userId}**${student.profile.emailAddress}**${student.profile.name.fullName}\n`,
-              (err) => {
-                if (err) console.log(err);
-              }
-            );
-            //people_id.
-          });
-        }
-        if (res.data.nextPageToken) {
-          getAllData(auth, allFiles, course_id, res.data.nextPageToken).then(
-            (resAllFiles) => {
-              resolve(resAllFiles);
-            }
-          );
-        } else {
-          resolve(allFiles);
-        }
-      }
-    );
-  });
-}
-
+/**
+ * Lists the first 10 courses the user has access to.
+ *
+ * @param {google.auth.OAuth2} auth An authorized OAuth2 client.
+ */
 function listCourses(auth) {
   const classroom = google.classroom({ version: "v1", auth });
-  var data = [];
-  var d = getAllData(auth, data, "265849904082", "");
-  d.then(function (values) {
-    console.log("Happy! : )");
-  });
+  classroom.courses.list(
+    {
+      pageSize: 10,
+    },
+    (err, res) => {
+      if (err) return console.error("The API returned an error: " + err);
+      const courses = res.data.courses;
+      if (courses && courses.length) {
+        console.log("Courses:");
+        courses.forEach((course) => {
+          if (course.name == "FourthSemester2021")
+            fs.appendFile(
+              "../data_files/classroom_details.txt",
+              `${course.name}, ${course.section}, ${course.id}, ${course.teacherFolder.id}\n`,
+              (err) => {
+                if (err) throw err;
+              }
+            );
+          console.log(`${course.name} ${course.section} (${course.id})`);
+        });
+      } else {
+        console.log("No courses found.");
+      }
+    }
+  );
 }

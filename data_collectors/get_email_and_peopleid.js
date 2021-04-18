@@ -1,9 +1,14 @@
+//This file traverses through all the required course ids, fetches the required student details in each section and puts the data in respective folders
 const fs = require("fs");
 const readline = require("readline");
 const { google } = require("googleapis");
+const LineReaderSync = require("line-reader-sync");
+const lineReaderSync = require("line-reader-sync");
 
 // If modifying these scopes, delete token.json.
-const SCOPES = ["https://www.googleapis.com/auth/classroom.courses.readonly"];
+const SCOPES = [
+  "https://www.googleapis.com/auth/classroom.profile.emails https://www.googleapis.com/auth/classroom.profile.photos https://www.googleapis.com/auth/classroom.rosters https://www.googleapis.com/auth/classroom.rosters.readonly",
+];
 // The file token.json stores the user's access and refresh tokens, and is
 // created automatically when the authorization flow completes for the first
 // time.
@@ -13,7 +18,7 @@ const TOKEN_PATH = "token.json";
 fs.readFile("credentials.json", (err, content) => {
   if (err) return console.log("Error loading client secret file:", err);
   // Authorize a client with credentials, then call the Google Classroom API.
-  authorize(JSON.parse(content), listCourses);
+  authorize(JSON.parse(content), list_students_in_course);
 });
 
 /**
@@ -69,36 +74,68 @@ function getNewToken(oAuth2Client, callback) {
   });
 }
 
-/**
- * Lists the first 10 courses the user has access to.
- *
- * @param {google.auth.OAuth2} auth An authorized OAuth2 client.
- */
-function listCourses(auth) {
-  const classroom = google.classroom({ version: "v1", auth });
-  classroom.courses.list(
-    {
-      pageSize: 10,
-    },
-    (err, res) => {
-      if (err) return console.error("The API returned an error: " + err);
-      const courses = res.data.courses;
-      if (courses && courses.length) {
-        console.log("Courses:");
-        courses.forEach((course) => {
-          if (course.name == "FourthSemester2021")
+function getAllData(auth, allFiles, course_section, course_id, page_Token) {
+  console.log("Me too!");
+  return new Promise((resolve, reject) => {
+    console.log("Me 3");
+    const classes = google.classroom({ version: "v1", auth });
+    const params = {
+      courseId: course_id,
+      pageSize: 1000,
+      pageToken: page_Token,
+    };
+    classes.courses.students.list(
+      { courseId: course_id, pageSize: 1000, pageToken: page_Token },
+      (err, res) => {
+        if (err) return console.error("The API returned an error: " + err);
+        const students = res.data.students;
+        if (students) {
+          console.log("Recent activity:");
+          students.forEach((student) => {
+            console.log(
+              student.userId,
+              student.profile.emailAddress,
+              student.profile.name.fullName
+            );
             fs.appendFile(
-              "classroom_student_details.txt",
-              `${course.name}, ${course.section}, ${course.id}, ${course.teacherFolder.id}\n`,
+              `../data_files/section_${course_section}/student_email_name_id.txt`,
+              `${student.userId}**${student.profile.emailAddress}**${student.profile.name.fullName}\n`,
               (err) => {
-                if (err) throw err;
+                if (err) console.log(err);
               }
             );
-          console.log(`${course.name} ${course.section} (${course.id})`);
-        });
-      } else {
-        console.log("No courses found.");
+          });
+        }
+        if (res.data.nextPageToken) {
+          getAllData(
+            auth,
+            allFiles,
+            course_section,
+            course_id,
+            res.data.nextPageToken
+          ).then((resAllFiles) => {
+            resolve(resAllFiles);
+          });
+        } else {
+          resolve(allFiles);
+        }
       }
-    }
-  );
+    );
+  });
+}
+
+function list_students_in_course(auth) {
+  const classroom = google.classroom({ version: "v1", auth });
+  var lrs = new lineReaderSync("../data_files/classroom_details.txt");
+  while (true) {
+    var data = [];
+    var line = lrs.readline();
+    if (line == null) break;
+    var values = line.split(", ");
+
+    var d = getAllData(auth, data, values[1], values[2], "");
+    d.then(function () {
+      console.log("Happy! : )");
+    });
+  }
 }
