@@ -20,16 +20,28 @@ function link_student_id(in_section, student_id, callback, superman, writer) {
 
 function compute_days_worked(data, total_days) {
   var complete_det = [];
+  var activity_dates = [];
+  var act_time_data = '';
+  var activity_dates_time = []
+  var comp_time_det = [];
   var act_data_time = data.split("?");
   act_data_time.forEach(function (v) {
     var activity = v.split("&");
     var activity_name = activity[0];
-    var activity_dates = activity[1].split("%");
-    //console.log(activity_dates);
-    activity_dates.forEach(function (vl) {
-      total_days.push(vl);
+    activity_dates_time = activity[1].split("%");
+
+    console.log(activity_dates);
+    activity_dates_time.forEach(function (vl) {
+      var act_dat_time = vl.split("<>");
+      //console.log(act_dat_time);
+      var act_date = act_dat_time[0];
+      activity_dates.push(act_date);
+      var activity_time = act_dat_time.length - 1;
+      act_time_data = [act_date, String(activity_time)].join(" : ");
+      comp_time_det.push(act_time_data);
+      total_days.push(act_date);
     });
-    complete_det.push(activity_name, activity_dates, activity_dates.length);
+    complete_det.push(activity_name, comp_time_det, activity_dates.length);
   });
   return complete_det;
 }
@@ -55,7 +67,7 @@ function student_find_activities(student_ID, section, batman) {
   }
   var total_unique_days = Array.from(new Set(total_days)).length;
   console.log("Total unique days: ", total_unique_days);
-  computed_data[0].unshift(total_unique_days);
+  computed_data.unshift(total_unique_days);
   console.log(computed_data);
   return computed_data[0];
 }

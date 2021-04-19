@@ -65,8 +65,8 @@ function getNewToken(oAuth2Client, callback) {
       if (err) return console.error("Error retrieving access token", err);
       oAuth2Client.setCredentials(token);
       // Store the token to disk for later program executions
-      fs.writeFile(TOKEN_PATH, JSON.stringify(token), (err) => {
-        if (err) return console.error(err);
+      fs.writeFile(TOKEN_PATH, JSON.stringify(token), (err2) => {
+        if (err2) return console.error(err2);
         console.log("Token stored to", TOKEN_PATH);
       });
       callback(oAuth2Client);
@@ -79,11 +79,6 @@ function getAllData(auth, allFiles, course_section, course_id, page_Token) {
   return new Promise((resolve, reject) => {
     console.log("Me 3");
     const classes = google.classroom({ version: "v1", auth });
-    const params = {
-      courseId: course_id,
-      pageSize: 1000,
-      pageToken: page_Token,
-    };
     classes.courses.students.list(
       { courseId: course_id, pageSize: 1000, pageToken: page_Token },
       (err, res) => {
@@ -100,8 +95,8 @@ function getAllData(auth, allFiles, course_section, course_id, page_Token) {
             fs.appendFile(
               `../data_files/section_${course_section}/student_email_name_id.txt`,
               `${student.userId}**${student.profile.emailAddress}**${student.profile.name.fullName}\n`,
-              (err) => {
-                if (err) console.log(err);
+              (err1) => {
+                if (err1) console.log(err1);
               }
             );
           });

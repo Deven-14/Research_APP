@@ -5,7 +5,7 @@ const fs = require("fs");
 function clean_it(course_section) {
   var final_list = [];
   var list_line_by_line = [];
-  lrs = new LineReaderSync(
+  var lrs = new LineReaderSync(
     `../data_files/section_${course_section}/student_activity_details.txt`
   );
   while (true) {
@@ -37,7 +37,7 @@ function clean_it(course_section) {
       break;
     } else {
       var student_id = line2.split("**")[0];
-      console.log(student_id);
+      //console.log(student_id);
       var strarr = [];
       var doc_name_arr = new Set();
       final_list.forEach(function (v) {
@@ -55,7 +55,7 @@ function clean_it(course_section) {
         strarr.forEach(function (j) {
           if (per_doc_name == j[0]) {
             var just_date = j[1].split("T")[0];
-            dates.push(just_date);
+            dates.push([just_date, j[1].split("T")[1]].join("<>"));
           }
         });
         dates = Array.from(new Set(dates));
@@ -67,13 +67,14 @@ function clean_it(course_section) {
   }
   // `../data_files/section_${course_section}/final_student_activities.txt`
 
-  var file = fs.createWriteStream("testing.txt");
+  var file = fs.createWriteStream(`../data_files/section_${course_section}/final_student_activities.txt`
+  );
   file.on("error", function (err) {
     console.log(err);
   });
   list_line_by_line.forEach(function (v) {
     file.write(v + "\n");
-    console.log(v);
+    //console.log(v);
   });
   file.end();
 }
@@ -85,8 +86,8 @@ function run() {
     if (line == null) break;
     var values = line.split(", ");
     console.log("values");
-    var d = clean_it(values[1]);
-    break;
+    console.log("Section",values[1]);
+    clean_it(values[1]);
   }
 }
 run();
