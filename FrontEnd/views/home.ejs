@@ -1,7 +1,9 @@
 <%- include("header.ejs") %>
 
     <p>Hello Worlddddddd!!!!!!!...</p>
-    <div class="g-signin2" data-onsuccess="onSignIn"></div>
+    <div id="signIn">
+        <div class="g-signin2" data-onsuccess="onSignIn"></div>
+    </div>
     <script>
         function onSignIn(googleUser) {
             var profile = googleUser.getBasicProfile();
@@ -9,6 +11,12 @@
             console.log('Name: ' + profile.getName());
             console.log('Image URL: ' + profile.getImageUrl());
             console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
+            document.getElementById("signIn").style.display="none";
+            document.getElementById("signOut").style.display="block";
+            document.getElementById("gid").innerHTML=profile.getId();
+            //document.getElementById("name").name=profile.getName();
+            document.getElementById("gimage").src=profile.getImageUrl();
+            document.getElementById("email").innerHTML=profile.getEmail();
         }
 
         function signOut() {
@@ -16,8 +24,26 @@
             auth2.signOut().then(function () {
             console.log('User signed out.');
             });
+            document.getElementById("signIn").style.display="block";
+            document.getElementById("signOut").style.display="none";
         }
     </script>
-    <a href="#" onclick="signOut();">Sign out</a>
+    <div id="signOut" style="display:none">
+        <a href="#" onclick="signOut();">Sign out</a>
+        <p id="gid"></p>
+        <form action="/" method="get">
+              <input
+                type="text"
+                name="name"
+                id="name"
+                placeholder="Enter student email"
+                val = "suhas marpalle"
+              />
+              <button type="submit" class="btn">SUBMIT</button>
+          </form>
+        <p id="email"></p>
+        <img src="#" id="gimage">
+    </div>
+
 </body>
 </html>
