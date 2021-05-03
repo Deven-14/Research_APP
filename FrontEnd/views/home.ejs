@@ -6,15 +6,10 @@
     <script>
         function onSignIn(googleUser) {
             var profile = googleUser.getBasicProfile();
-            console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
-            console.log('Name: ' + profile.getName());
-            console.log('Image URL: ' + profile.getImageUrl());
-            console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
             document.getElementById("signIn").style.display="none";
             document.getElementById("signOut").style.display="block";
-            document.getElementById("gid").innerHTML=profile.getId();
             document.getElementById("name").value=profile.getName();
-            document.getElementById("gimage").src=profile.getImageUrl();
+            document.getElementById("gimage").value=profile.getImageUrl();
             document.getElementById("email").innerHTML=profile.getEmail();
             document.getElementById("myForm").submit();
         }
@@ -30,13 +25,12 @@
     </script>
     <div id="signOut" style="display:none">
         <a href="#" onclick="signOut();">Sign out</a>
-        <p id="gid"></p>
         <form id="myForm" action="/user" method="post">
             <input type="hidden" id="name" name="name" value=""> 
+            <input type="hidden" id="email" name="email" value=""> 
+            <input type="hidden" id="gimage" name="gimage" value=""> 
             <input type="submit" value="submit" style="display: none;">
         </form>
-        <p id="email"></p>
-        <img src="#" id="gimage">
     </div>
 
 </body>

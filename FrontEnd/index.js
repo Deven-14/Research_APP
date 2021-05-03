@@ -11,16 +11,20 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.set("view engine", "ejs");
 
-app.get("/", (req, res) =>{
-    res.render("home.ejs");
+app.get("/", (req, res) => {
+  res.render("home.ejs");
 });
 
 app.post("/user", (req, res) => {
-    var n = req.body.name;
-    console.log(n);
-    console.log(getinfo.GetInfo(n));
-    res.render("user.ejs");
+  var name = req.body.name;
+  console.log(name);
+  console.log(getinfo.GetInfo(name));
+  res.render("user", {
+    Name: name,
+    Email: req.body.email,
+    img: req.body.gimage,
+  });
 });
 app.listen(port, () => {
-    console.log(`this log is working on ${port}`);
+  console.log(`this log is working on ${port}`);
 });
