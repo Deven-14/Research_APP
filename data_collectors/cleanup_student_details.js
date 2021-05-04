@@ -55,7 +55,7 @@ function clean_it(course_section) {
         strarr.forEach(function (j) {
           if (per_doc_name == j[0]) {
             var just_date = j[1].split("T")[0];
-            dates.push([just_date, j[1].split("T")[1]].join("<>"));
+            //dates.push([just_date, j[1].split("T")[1]].join("<>"));
           }
         });
         dates = Array.from(new Set(dates));
@@ -87,7 +87,7 @@ function run() {
     var values = line.split(", ");
     console.log("values");
     console.log("Section",values[1]);
-    clean_it(values[1]);
+    clean_it(values[1]); 
   }
 }
 run();
