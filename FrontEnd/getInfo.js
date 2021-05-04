@@ -4,7 +4,6 @@ function GetInfo(name, callback_function)
 {
     //var sections = ["A", "B", "C", "D", "E", "F", "G", "Master"];
     var sections = ["test"];
-    var unique_file_names = [];
     var details = [];
     var file_names = [];
     sections.every(function(section) {
@@ -31,10 +30,7 @@ function GetInfo(name, callback_function)
         return true;
     });
     callback_function(file_names, details);
-    //console.log(details);
-    
-    
-    //return details;
+    //return worked_dates;
 }
 
 function get_data(file_names, details){
@@ -54,10 +50,9 @@ function get_data(file_names, details){
         worked_dates.unshift((worked_dates.length - 1));
         worked_dates.push(sum_of_edits);
         console.log(worked_dates);
+        //return worked_dates;
     }
 }
 
 GetInfo("Sumedh D Karanth", get_data);
-
-//getInfo("S.Rohith Royal");
-//module.exports = {GetInfo};
+//module.exports = {GetInfo, get_data};

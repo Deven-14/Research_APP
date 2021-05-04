@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 app.post("/user", (req, res) => {
   var name = req.body.name;
   console.log(name);
-  console.log(getinfo.GetInfo(name));
+  console.log(getinfo.GetInfo(name, getinfo.get_data));
   res.render("user", {
     Name: name,
     Email: req.body.email,
