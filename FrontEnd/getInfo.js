@@ -2,8 +2,8 @@ const lineReaderSync = require("line-reader-sync");
 
 function GetInfo(name, callback_function)
 {
-    //var sections = ["A", "B", "C", "D", "E", "F", "G", "Master"];
-    var sections = ["test"];
+    var sections = ["A", "B", "C", "D", "E", "F", "G", "Master"];
+    //var sections = ["test"];
     var details = [];
     var file_names = [];
     sections.every(function(section) {
@@ -49,10 +49,9 @@ function get_data(file_names, details){
         });
         worked_dates.unshift((worked_dates.length - 1));
         worked_dates.push(sum_of_edits);
-        console.log(worked_dates);
-        //return worked_dates;
+        return worked_dates;
     }
 }
 
-GetInfo("Sumedh D Karanth", get_data);
-//module.exports = {GetInfo, get_data};
+//GetInfo("Sumedh D Karanth", get_data);
+module.exports = {GetInfo, get_data};
