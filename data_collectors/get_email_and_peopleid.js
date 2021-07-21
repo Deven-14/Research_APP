@@ -74,7 +74,7 @@ function getNewToken(oAuth2Client, callback) {
   });
 }
 
-function getAllData(auth, allFiles, course_section, course_id, page_Token) {
+function getAllData(auth, allFiles, name, course_section, course_id, page_Token) {
   console.log("Me too!");
   return new Promise((resolve, reject) => {
     console.log("Me 3");
@@ -91,14 +91,32 @@ function getAllData(auth, allFiles, course_section, course_id, page_Token) {
               student.userId,
               student.profile.emailAddress,
               student.profile.name.fullName
-            );
+            ); 
+              var rep = course_section
+              var dir = `../data_files/${name}_${course_section}`
+              if (fs.existsSync(dir)){
+                fs.appendFile(
+                  `../data_files/${name}_${rep}/class_details.txt`,
+                  `${student.userId}**${student.profile.emailAddress}**${student.profile.name.fullName}\n`,
+                  (err1) => {
+                    if (err1) console.log(err1);
+                  }
+                );
+              }
+              else{
+              fs.mkdir(dir , (err)=> {
+                if(err)
+                    console.log(err)
+                //console.log(`Created File ${s_name}`)
+            })
             fs.appendFile(
-              `../data_files/section_${course_section}/student_email_name_id.txt`,
+              `../data_files/${name}_${rep}/class_details.txt`,
               `${student.userId}**${student.profile.emailAddress}**${student.profile.name.fullName}\n`,
               (err1) => {
                 if (err1) console.log(err1);
               }
             );
+          }
           });
         }
         if (res.data.nextPageToken) {
@@ -125,12 +143,16 @@ function list_students_in_course(auth) {
   while (true) {
     var data = [];
     var line = lrs.readline();
-    if (line == null) break;
-    var values = line.split(", ");
+    if (line == null) 
+    break;
+    else{
+    var values = line.split(",");
 
-    var d = getAllData(auth, data, values[1], values[2], "");
+    var d = getAllData(auth, data, values[0], values[1], values[2], "");
     d.then(function () {
       console.log("Happy! : )");
     });
   }
 }
+}
+
