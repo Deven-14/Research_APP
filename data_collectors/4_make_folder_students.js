@@ -16,7 +16,7 @@ function make_directories()
         let name = list[0]
         if(list[1] !== "null")
             name += "_"+list[1]
-        var lrs2 = new lineReaderSync(`../data_files/${name}/student_details.csv`)
+        var lrs2 = new lineReaderSync(`../data_files/${name}/class_details.txt`)
         while(true)
         {
             var student = lrs2.readline()
