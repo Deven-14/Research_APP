@@ -5,7 +5,7 @@ const lineReaderSync = require('line-reader-sync')
 
 function make_directories()
 {
-    var lrs = new lineReaderSync("../data_files/classroom_details.csv")
+    var lrs = new lineReaderSync("../data_files/classroom_details.txt")
     while(true)
     {
         var line = lrs.readline();
