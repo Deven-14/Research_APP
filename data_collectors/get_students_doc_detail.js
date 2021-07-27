@@ -3,9 +3,10 @@ const fs = require("fs");
 const readline = require("readline");
 const { google } = require("googleapis");
 const lineReaderSync = require("line-reader-sync");
+var sleep = require('system-sleep');
 
-const SCOPES = [  "https://www.googleapis.com/auth/classroom.profile.emails https://www.googleapis.com/auth/drive.activity https://www.googleapis.com/auth/classroom.courses https://www.googleapis.com/auth/classroom.profile.photos https://www.googleapis.com/auth/classroom.rosters https://www.googleapis.com/auth/drive.activity.readonly https://www.googleapis.com/auth/classroom.rosters.readonly",
-];
+const SCOPES = ["https://www.googleapis.com/auth/drive.activity.readonly https://www.googleapis.com/auth/classroom.profile.emails https://www.googleapis.com/auth/classroom.profile.photos https://www.googleapis.com/auth/classroom.rosters https://www.googleapis.com/auth/classroom.rosters.readonly https://www.googleapis.com/auth/classroom.courses.readonly https://www.googleapis.com/auth/classroom.coursework.students.readonly https://www.googleapis.com/auth/classroom.coursework.me.readonly https://www.googleapis.com/auth/classroom.coursework.students https://www.googleapis.com/auth/classroom.coursework.me",]
+
 const TOKEN_PATH = "token.json";
 
 fs.readFile("credentials.json", (err, content) => {
@@ -52,7 +53,8 @@ function getNewToken(oAuth2Client, callback) {
   });
 }
 
-function getAllData(auth, allFiles, sname, ancestor_name, page_Token) {
+
+function getAllData(auth, allFiles, sname, ancestor_name, acname, page_Token) {
   console.log("Me too!");
   return new Promise((resolve, reject) => {
       console.log("Me 3");
@@ -83,15 +85,15 @@ function getAllData(auth, allFiles, sname, ancestor_name, page_Token) {
                 if (x == "personName"){
                   ppl_id = activity.actors[0].user.knownUser[x];
                   //console.log(ppl_id.slice(7)) 
-                  allFiles = `${ppl_id.slice(7)}**${activity.timestamp}**${name}**${title}\n`;
+                  allFiles = `${ppl_id.slice(7)}**${activity.timestamp}**${name}**${acname}\n`;
                   console.log(allFiles)
-              //   fs.appendFileSync(
-              //   `../data_files/${sname.trim()}/student_activity_details.txt`,
-              //   allFiles,
-              //   (err) => {
-              //     if (err) console.log(err);
-              //   }
-              // );
+                fs.appendFileSync(
+                `../data_files/${sname.trim()}/student_activity_details.txt`,
+                allFiles,
+                (err) => {
+                  if (err) console.log(err);
+                }
+              );
                 }
               }
             
@@ -118,6 +120,7 @@ function listDriveActivity(auth) {
   console.log("Me love mangoes");
   var lrs = new lineReaderSync("../data_files/classroom_details.txt");
   while (true) {
+    console.log("Hi!")
     var data = []; 
     var line = lrs.readline();
     if (line == null) break;
@@ -125,18 +128,21 @@ function listDriveActivity(auth) {
     let name = list[0]
         if(list[1] !== "null")
             name += "_"+list[1]
-    if(fs.existsSync(`../data_files/${name}/Activity.csv`)){
-    var lrs2 = new lineReaderSync(`../data_files/${name}/Activity.csv`);
+    console.log(name)
+    if(fs.existsSync(`../data_files/${name}/Activities.csv`)){
+    var lrs2 = new lineReaderSync(`../data_files/${name}/Activities.csv`);
     while (true) {
       var line1 = lrs2.readline();
       if (line1 == null) break;
       list1 = line1.split("**")
-    var d = getAllData(auth, data, name, list[1], "");
+    var d = getAllData(auth, data, name, list1[1], list1[0], "");
+    sleep(500)
     //console.log(d)
     d.then(function () {
       console.log("Happy! : )");
     });
   }
 }
+sleep(900)
   }
 }
