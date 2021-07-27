@@ -52,7 +52,7 @@ function getNewToken(oAuth2Client, callback) {
   });
 }
 
-function getAllData(auth, allFiles, sname, course_section, ancestor_name, page_Token) {
+function getAllData(auth, allFiles, sname, ancestor_name, page_Token) {
   console.log("Me too!");
   return new Promise((resolve, reject) => {
       console.log("Me 3");
@@ -79,23 +79,22 @@ function getAllData(auth, allFiles, sname, course_section, ancestor_name, page_T
               if (x == "file") break;
             }
             //console.log("Me 6");
-            if(title.includes("test2")){
               for (x in activity.actors[0].user.knownUser){
                 if (x == "personName"){
                   ppl_id = activity.actors[0].user.knownUser[x];
-                  //console.log(ppl_id.slice(7))
+                  //console.log(ppl_id.slice(7)) 
                   allFiles = `${ppl_id.slice(7)}**${activity.timestamp}**${name}**${title}\n`;
-                  //console.log(allFiles)
-                fs.appendFile(
-                `../data_files/${sname.trim()}_${course_section.trim()}/student_activity_details.txt`,
-                allFiles,
-                (err) => {
-                  if (err) console.log(err);
-                }
-              );
+                  console.log(allFiles)
+              //   fs.appendFileSync(
+              //   `../data_files/${sname.trim()}/student_activity_details.txt`,
+              //   allFiles,
+              //   (err) => {
+              //     if (err) console.log(err);
+              //   }
+              // );
                 }
               }
-            }
+            
           });
         }
         if (res.data.nextPageToken) {
@@ -119,15 +118,25 @@ function listDriveActivity(auth) {
   console.log("Me love mangoes");
   var lrs = new lineReaderSync("../data_files/classroom_details.txt");
   while (true) {
-    var data = [];
+    var data = []; 
     var line = lrs.readline();
     if (line == null) break;
-    var values = line.split(",");
-
-    var d = getAllData(auth, data, values[0], values[1], values[3], "");
+    var list = line.split(",");
+    let name = list[0]
+        if(list[1] !== "null")
+            name += "_"+list[1]
+    if(fs.existsSync(`../data_files/${name}/Activity.csv`)){
+    var lrs2 = new lineReaderSync(`../data_files/${name}/Activity.csv`);
+    while (true) {
+      var line1 = lrs2.readline();
+      if (line1 == null) break;
+      list1 = line1.split("**")
+    var d = getAllData(auth, data, name, list[1], "");
     //console.log(d)
     d.then(function () {
       console.log("Happy! : )");
     });
+  }
+}
   }
 }

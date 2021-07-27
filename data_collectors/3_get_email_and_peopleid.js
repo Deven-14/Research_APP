@@ -92,7 +92,6 @@ function getAllData(auth, allFiles, name, course_id, page_Token) {
               student.profile.emailAddress,
               student.profile.name.fullName
             );
-              var dir = `../data_files/${name}`
                 fs.appendFile(
                   `../data_files/${name}/class_details.txt`,
                   `${student.userId}**${student.profile.emailAddress}**${student.profile.name.fullName}\n`,
@@ -133,7 +132,7 @@ function list_students_in_course(auth) {
     var list = line.split(",");
     let name = list[0]
         if(list[1] !== "null")
-            name += "_"+list[1]
+            name += "_"+list[1] 
     var d = getAllData(auth, data, name, list[2], "");
     d.then(function () {
       console.log("Happy! : )");

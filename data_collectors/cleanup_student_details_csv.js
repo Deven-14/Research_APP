@@ -3,12 +3,12 @@ const LineReaderSync = require("line-reader-sync");
 const fs = require("fs");
 //const path = require("path/posix");
 
-function clean_it(course_name, course_section) {
+function clean_it(course_name) {
   var final_list = [];
   var list_line_by_line = [];
-  path = `../data_files/${course_name}_${course_section}/student_activity_details.txt`
+  path = `../data_files/${course_name}/student_activity_details.txt`
   if(fs.existsSync(path)){
-    console.log(course_name+" "+course_section);
+    console.log(course_name);
     var lrs = new LineReaderSync(path);
     while (true) {
       var line = lrs.readline();
@@ -33,7 +33,7 @@ function clean_it(course_name, course_section) {
     //console.log(final_list);
 
     var lrs2 = new LineReaderSync(
-      `../data_files/${course_name}_${course_section}/class_details.txt`
+      `../data_files/${course_name}/class_details.txt`
     );
     while (true) {
       var line2 = lrs2.readline();
@@ -80,21 +80,22 @@ function clean_it(course_name, course_section) {
         list_line_by_line.push([name.trim(), email.trim(), final_count.join(", "), String(total_days)].join(", "));
           
   }
+}
 
   console.log(list_line_by_line);
         
-          var file = fs.createWriteStream(`../data_files/${course_name}_${course_section}/final_student_data.csv`
-            );
-            file.on("error", function (err) {
-              console.log(err);
-            });
-            list_line_by_line.forEach(function (v) {
-              file.write(v +"\n");
-              //console.log(v);
-            });
-            file.end();
+          // var file = fs.createWriteStream(`../data_files/${course_name}/final_student_data.csv`
+          //   );
+          //   file.on("error", function (err) {
+          //     console.log(err);
+          //   });
+          //   list_line_by_line.forEach(function (v) {
+          //     file.write(v +"\n");
+          //     //console.log(v);
+          //   });
+          //   file.end();
 
-     }
+     
   }
     
  // `../data_files/section_${course_section}/final_student_activities.txt`
@@ -105,9 +106,11 @@ function run() {
     //var data = [];
     var line = lrs_main.readline();
     if (line == null) break;
-    var values = line.split(",");
-    //console.log("values");
-    clean_it(values[0], values[1]); 
+    var list = line.split(",");
+    let name = list[0]
+    if(list[1] !== "null")
+        name += "_"+list[1]
+    clean_it(name); 
   }
 }
 run();
