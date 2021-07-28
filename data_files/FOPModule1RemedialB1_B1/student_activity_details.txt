@@ -1,4 +1,8 @@
+103179098491128028427**2021-07-27T18:50:04.313Z**items/1qghE9vJ6dWkqXw7b82QQ3S3_rNtIGsctizEVAKCG0hg**Activity57: Write a function to compare two strings. ( Do not use std library function)
+103179098491128028427**2021-07-27T18:47:02.433Z**items/1qghE9vJ6dWkqXw7b82QQ3S3_rNtIGsctizEVAKCG0hg**Activity57: Write a function to compare two strings. ( Do not use std library function)
 116731512937443379380**2021-07-26T04:16:50.144Z**items/1DIgy5g3Eaf74l48BNUlZiPjDxNn20BH7gSFY1_MM10c**Activity54: Write a program using  functions to add 2 fractions.
+103179098491128028427**2021-07-27T20:13:08.551Z**items/1a95fEPisfxtBY8Acv7yB15SeOVRGmxwg_RzLWMGSZgk**Activity53: Write a program using functions to calculate total distance given N points.
+103179098491128028427**2021-07-27T20:10:07.059Z**items/1a95fEPisfxtBY8Acv7yB15SeOVRGmxwg_RzLWMGSZgk**Activity53: Write a program using functions to calculate total distance given N points.
 101639778504969097110**2021-07-27T15:09:20.068Z**items/1I3ciszphSoVLdLAgLf8LVU9VTL7soY2ztofGOnq2QpA**Activity53: Write a program using functions to calculate total distance given N points.
 101639778504969097110**2021-07-27T15:00:00.520Z**items/1I3ciszphSoVLdLAgLf8LVU9VTL7soY2ztofGOnq2QpA**Activity53: Write a program using functions to calculate total distance given N points.
 101639778504969097110**2021-07-27T14:56:59.179Z**items/1I3ciszphSoVLdLAgLf8LVU9VTL7soY2ztofGOnq2QpA**Activity53: Write a program using functions to calculate total distance given N points.
@@ -89,6 +93,8 @@
 114859604874599713615**2021-07-19T12:44:25.231Z**items/1TafbkhozwydV1TYG4OWnx_Fg7RKhCPwgS7faw1WT8P4**test 3
 114859604874599713615**2021-07-19T12:38:04.370Z**items/1TafbkhozwydV1TYG4OWnx_Fg7RKhCPwgS7faw1WT8P4**test 3
 102727136573305537384**2021-07-19T12:13:52.100Z**items/1xTRCtzwbXPDgccQE-K4kEFJwXOFonE8a_o4N-ocpWNQ**test 3
+103179098491128028427**2021-07-27T20:09:36.377Z**items/1PKc5slprcVgeHUUVTR2iCqir1XXZZjhuel6t46_ms0U**Activity47: Write a function to find the product of two matrices.
+103179098491128028427**2021-07-27T20:06:34.882Z**items/1PKc5slprcVgeHUUVTR2iCqir1XXZZjhuel6t46_ms0U**Activity47: Write a function to find the product of two matrices.
 105296133831147122427**2021-07-26T14:00:46.044Z**items/1GrID-RoCpOvBdGYDGbrMRAYUv8gXs9hgWMhyeJmuwU8**Activity47: Write a function to find the product of two matrices.
 105296133831147122427**2021-07-26T13:57:45.167Z**items/1GrID-RoCpOvBdGYDGbrMRAYUv8gXs9hgWMhyeJmuwU8**Activity47: Write a function to find the product of two matrices.
 105296133831147122427**2021-07-26T13:54:43.745Z**items/1GrID-RoCpOvBdGYDGbrMRAYUv8gXs9hgWMhyeJmuwU8**Activity47: Write a function to find the product of two matrices.
@@ -102,6 +108,9 @@
 101639778504969097110**2021-07-20T01:59:45.247Z**items/1aizZFA4ZxZIeb4qBxqUkOFjhlpDb6FNTqNirbqvpObQ**Activity47: Write a function to find the product of two matrices.
 101639778504969097110**2021-07-20T01:56:44.296Z**items/1aizZFA4ZxZIeb4qBxqUkOFjhlpDb6FNTqNirbqvpObQ**Activity47: Write a function to find the product of two matrices.
 101639778504969097110**2021-07-20T01:51:28.143Z**items/1aizZFA4ZxZIeb4qBxqUkOFjhlpDb6FNTqNirbqvpObQ**Activity47: Write a function to find the product of two matrices.
+109297344877312419113**2021-07-28T04:57:09.157Z**items/1_0Vf3P03yHjkc6X4IH58N04fYW4rJ1qhrAiKa5fnSwc**Activity46: Write a program to add two matrices.
+109297344877312419113**2021-07-28T04:54:07.613Z**items/1_0Vf3P03yHjkc6X4IH58N04fYW4rJ1qhrAiKa5fnSwc**Activity46: Write a program to add two matrices.
+109297344877312419113**2021-07-28T04:44:17.141Z**items/1_0Vf3P03yHjkc6X4IH58N04fYW4rJ1qhrAiKa5fnSwc**Activity46: Write a program to add two matrices.
 103179098491128028427**2021-07-27T06:53:55.621Z**items/1EulND8rv9tvcQHoAmCxmu3b1ym7v4FiRwarfpr6Yl1g**Activity46: Write a program to add two matrices.
 103179098491128028427**2021-07-27T06:53:20.652Z**items/1EulND8rv9tvcQHoAmCxmu3b1ym7v4FiRwarfpr6Yl1g**Activity46: Write a program to add two matrices.
 103179098491128028427**2021-07-27T06:50:54.476Z**items/1EulND8rv9tvcQHoAmCxmu3b1ym7v4FiRwarfpr6Yl1g**Activity46: Write a program to add two matrices.
@@ -138,6 +147,8 @@
 109297344877312419113**2021-07-19T04:02:18.228Z**items/1A6uRBxBEQKq5Xq3dW_L9pwCrWufcLrEzhcJi113x0mg**Activity48: Write a program to reverse the contents an array.
 110150142529919826069**2021-07-19T02:54:29.945Z**items/164AiaegWIJzGMYVbEqy558xVO8JG78twq_gX-CGrTKQ**Activity48: Write a program to reverse the contents an array.
 110150142529919826069**2021-07-19T02:51:28.716Z**items/164AiaegWIJzGMYVbEqy558xVO8JG78twq_gX-CGrTKQ**Activity48: Write a program to reverse the contents an array.
+111071837347062022901**2021-07-28T06:23:01.645Z**items/1EqcFGsSbqF06PoBF75jKoK-yROczTGJ_tnQBDldOXGg**Activity45: Write a program to find the largest two numbers out of N numbers.
+111071837347062022901**2021-07-28T06:20:00.278Z**items/1EqcFGsSbqF06PoBF75jKoK-yROczTGJ_tnQBDldOXGg**Activity45: Write a program to find the largest two numbers out of N numbers.
 105296133831147122427**2021-07-27T10:32:35.341Z**items/1n2NM7M-ndiBQPAqyBvHXdzoSb4mB1-HvqK6gqOeWVJ0**Activity45: Write a program to find the largest two numbers out of N numbers.
 105296133831147122427**2021-07-27T10:29:33.740Z**items/1n2NM7M-ndiBQPAqyBvHXdzoSb4mB1-HvqK6gqOeWVJ0**Activity45: Write a program to find the largest two numbers out of N numbers.
 105296133831147122427**2021-07-24T12:54:43.206Z**items/1n2NM7M-ndiBQPAqyBvHXdzoSb4mB1-HvqK6gqOeWVJ0**Activity45: Write a program to find the largest two numbers out of N numbers.
@@ -480,6 +491,8 @@
 105714135961513036402**2021-07-15T11:32:35.035Z**items/10-ZB5bUBtTTiEisaQeSHJ34KJr21ZNFfwGZo-hyOOME**test 2
 111071837347062022901**2021-07-15T11:25:30.732Z**items/1fWjAZ34HXcMhUScjvcRnH7bJyietQIh-fdvd6qh5I88**test 2
 102727136573305537384**2021-07-15T11:24:37.216Z**items/1XldQP_TskE5R_OA9NiDQ3GdR_oChXNOLGhQiOmYl1ok**test 2
+111071837347062022901**2021-07-28T06:22:26.105Z**items/1yb851lvVFHLeOxgSZNqk3UdEHVTdVhzL6fC6djFXDto**Activity34: Write a program using four functions to determine if a number is prime or not.
+111071837347062022901**2021-07-28T06:12:38.414Z**items/1yb851lvVFHLeOxgSZNqk3UdEHVTdVhzL6fC6djFXDto**Activity34: Write a program using four functions to determine if a number is prime or not.
 109389731071019996582**2021-07-27T05:59:20.445Z**items/1NxQzi-ApjeThYB2KM-ZmEDMqdGzpWj0x9IPzkvgmKv4**Activity34: Write a program using four functions to determine if a number is prime or not.
 109389731071019996582**2021-07-27T05:56:19.489Z**items/1NxQzi-ApjeThYB2KM-ZmEDMqdGzpWj0x9IPzkvgmKv4**Activity34: Write a program using four functions to determine if a number is prime or not.
 109389731071019996582**2021-07-27T05:53:18.011Z**items/1NxQzi-ApjeThYB2KM-ZmEDMqdGzpWj0x9IPzkvgmKv4**Activity34: Write a program using four functions to determine if a number is prime or not.
@@ -513,6 +526,8 @@
 101639778504969097110**2021-07-16T04:52:22.551Z**items/1hS05lj7X8NqAZo7zibDtTxCAkVLzotHgfFEV0UF3298**Activity34: Write a program using four functions to determine if a number is prime or not.
 101639778504969097110**2021-07-16T04:49:21.505Z**items/1hS05lj7X8NqAZo7zibDtTxCAkVLzotHgfFEV0UF3298**Activity34: Write a program using four functions to determine if a number is prime or not.
 101639778504969097110**2021-07-16T04:46:19.701Z**items/1hS05lj7X8NqAZo7zibDtTxCAkVLzotHgfFEV0UF3298**Activity34: Write a program using four functions to determine if a number is prime or not.
+111071837347062022901**2021-07-28T06:11:25.383Z**items/13YNCug-ihJtp2TLg99BhddWzyDnT9Duewn7hLft2Y_c**Activity33: Write a  function to calculate the GCD of two numbers.
+111071837347062022901**2021-07-28T06:08:23.289Z**items/13YNCug-ihJtp2TLg99BhddWzyDnT9Duewn7hLft2Y_c**Activity33: Write a  function to calculate the GCD of two numbers.
 103865704796856640634**2021-07-26T06:17:28.233Z**items/1XAezKPyDmcUWbYwKaY-g9jkTmR4bV2dVn-QNHa9QFB4**Activity33: Write a  function to calculate the GCD of two numbers.
 103865704796856640634**2021-07-26T06:14:26.882Z**items/1XAezKPyDmcUWbYwKaY-g9jkTmR4bV2dVn-QNHa9QFB4**Activity33: Write a  function to calculate the GCD of two numbers.
 111071837347062022901**2021-07-26T04:55:56.442Z**items/13YNCug-ihJtp2TLg99BhddWzyDnT9Duewn7hLft2Y_c**Activity33: Write a  function to calculate the GCD of two numbers.
@@ -604,6 +619,9 @@
 110150142529919826069**2021-07-15T01:43:01.123Z**items/1tFZB430MM6fAyp1JAgvQadGBo5iA0V7V4eOYaigV8WY**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
 110150142529919826069**2021-07-15T01:39:59.754Z**items/1tFZB430MM6fAyp1JAgvQadGBo5iA0V7V4eOYaigV8WY**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
 101004685331759797826**2021-07-13T06:28:08.992Z**items/1x6GPLQyN-tnco-FumfdGmvGO1w_Ty_RtbFw5FSM0dPk**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+117028178248308451222**2021-07-28T05:44:11.208Z**items/10xSiwl2MFSz9puPqoj1v6_oIgzbJ-xoHvP_1S5QvC9g**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+117028178248308451222**2021-07-28T05:41:10.462Z**items/10xSiwl2MFSz9puPqoj1v6_oIgzbJ-xoHvP_1S5QvC9g**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+117028178248308451222**2021-07-28T05:38:09.054Z**items/10xSiwl2MFSz9puPqoj1v6_oIgzbJ-xoHvP_1S5QvC9g**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 117028178248308451222**2021-07-27T09:11:44.468Z**items/10xSiwl2MFSz9puPqoj1v6_oIgzbJ-xoHvP_1S5QvC9g**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 117028178248308451222**2021-07-25T04:32:54.268Z**items/10xSiwl2MFSz9puPqoj1v6_oIgzbJ-xoHvP_1S5QvC9g**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 117028178248308451222**2021-07-25T04:29:56.970Z**items/10xSiwl2MFSz9puPqoj1v6_oIgzbJ-xoHvP_1S5QvC9g**Activity20: Write a program using four functions to distinguish between vowels and consonants.
@@ -904,6 +922,7 @@
 101639778504969097110**2021-07-13T05:00:30.215Z**items/17WfKbbgNtl5DqPIigNJLZcTnPObZv8dnOe7l0WN-m9A**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101639778504969097110**2021-07-13T04:57:29.249Z**items/17WfKbbgNtl5DqPIigNJLZcTnPObZv8dnOe7l0WN-m9A**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101639778504969097110**2021-07-13T04:54:27.389Z**items/17WfKbbgNtl5DqPIigNJLZcTnPObZv8dnOe7l0WN-m9A**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+111071837347062022901**2021-07-28T06:03:01.214Z**items/1tnnVIpS5NL_W8GFIvNpB2ZAwinvqbo_b-kRgIO1LrYM**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 101812238626114147426**2021-07-20T06:26:57.690Z**items/1DzC9b_-xP56KlKF-9TPMmU62UUC4-mbfQuKI7qgnaXc**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 103865704796856640634**2021-07-19T03:39:23.987Z**items/16P-HT_WCKc-t3gv76t4aAfI_hKCZCOG-OY-5nmi14R8**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 103865704796856640634**2021-07-19T03:36:22.173Z**items/16P-HT_WCKc-t3gv76t4aAfI_hKCZCOG-OY-5nmi14R8**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
@@ -1239,6 +1258,8 @@
 109389731071019996582**2021-07-07T10:08:35.109Z**items/1gPQVQeCxP2O-4sAxrfuhWSXC4WbHPDQzvxeR7uoxEXY**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 109389731071019996582**2021-07-07T10:05:33.263Z**items/1gPQVQeCxP2O-4sAxrfuhWSXC4WbHPDQzvxeR7uoxEXY**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 113869448974798600059**2021-07-07T07:00:59.072Z**items/1Cz7XreULRyISuxhZvjEqCwBlq8oFNDdv5_0iY8blm2k**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
+117028178248308451222**2021-07-28T05:50:18.366Z**items/1cqas_FDSVtRNmVJiSPDoV7l9ToqK9xgKn7gTfgYfqiQ**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
+117028178248308451222**2021-07-28T05:47:16.660Z**items/1cqas_FDSVtRNmVJiSPDoV7l9ToqK9xgKn7gTfgYfqiQ**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 101812238626114147426**2021-07-19T07:57:20.280Z**items/1BqIv_IqrEc-YIGJDN9bN4GRsYZw3pLlIGNbOuQJ5ZIk**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 101812238626114147426**2021-07-19T07:55:26.773Z**items/1BqIv_IqrEc-YIGJDN9bN4GRsYZw3pLlIGNbOuQJ5ZIk**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 101812238626114147426**2021-07-19T07:54:18.728Z**items/1BqIv_IqrEc-YIGJDN9bN4GRsYZw3pLlIGNbOuQJ5ZIk**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.

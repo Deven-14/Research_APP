@@ -39,7 +39,7 @@ function getItCleaned(course, name)
 
 function getActivities(name)
 {
-  var lrs = new lineReaderSync(`../data_files/${name}/Activities.csv`)
+  var lrs = new lineReaderSync(`../data_files/${name}/Activities.txt`)
   var acts = []
   while(true)
   {

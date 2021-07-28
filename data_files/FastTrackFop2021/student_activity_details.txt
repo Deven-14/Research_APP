@@ -4160,162 +4160,6 @@
 108551453120033327406**2021-05-18T13:33:55.518Z**items/1AJrICS9Rxz_471aB7fS8vQOITdeEXBODsU5l3gZGJ9w**Activity1: Write a program to print your name.
 106672269069571187542**2021-05-18T13:22:02.975Z**items/1iMA9VFXOUrXgeEFBWQTBmJjDi_JYddlMLFFzs2plUeI**Activity1: Write a program to print your name.
 106672269069571187542**2021-05-18T13:19:22.405Z**items/1iMA9VFXOUrXgeEFBWQTBmJjDi_JYddlMLFFzs2plUeI**Activity1: Write a program to print your name.
-109810744438763880168**2021-05-24T11:56:11.856Z**items/1LbplR63RtBfrp9Z4uqfRPOVMXANTkSZLYGtOP2Jux_E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109810744438763880168**2021-05-24T11:53:25.180Z**items/1LbplR63RtBfrp9Z4uqfRPOVMXANTkSZLYGtOP2Jux_E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-102019472241138721808**2021-05-23T14:52:02.664Z**items/1DgoRz1ARico29KrLJ3ptDhPTeCvYPcsFqKR5MiEJIYQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-102019472241138721808**2021-05-23T14:49:01.916Z**items/1DgoRz1ARico29KrLJ3ptDhPTeCvYPcsFqKR5MiEJIYQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-102019472241138721808**2021-05-23T14:46:36.866Z**items/1DgoRz1ARico29KrLJ3ptDhPTeCvYPcsFqKR5MiEJIYQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-23T07:14:17.658Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-23T07:11:16.206Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116427048835848598260**2021-05-22T04:53:10.162Z**items/17NPxoS2j0kjtJCZESBBfsolLOHv-WKNOb0YWLLSUsYY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116453384805760229051**2021-05-21T05:38:01.930Z**items/1wZT03w6Qm6xyCxVVW-ZBl_di7B3F8PI-prIJmtSV2iI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-106672269069571187542**2021-05-20T16:36:46.906Z**items/1w0TNvoeVIhXkOiC1amzCq4btdi3D_nIRoTJD6Q1RYFs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-106672269069571187542**2021-05-20T16:33:46.064Z**items/1w0TNvoeVIhXkOiC1amzCq4btdi3D_nIRoTJD6Q1RYFs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-106672269069571187542**2021-05-20T16:31:00.303Z**items/1w0TNvoeVIhXkOiC1amzCq4btdi3D_nIRoTJD6Q1RYFs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-114521583213439169277**2021-05-20T12:20:12.531Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-114521583213439169277**2021-05-20T12:17:11.398Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-112614490222171506354**2021-05-19T18:34:53.209Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-112614490222171506354**2021-05-19T18:31:51.438Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-103090550615419013731**2021-05-19T15:29:07.153Z**items/17U0AdGypczU-7GiOv8O4-13jFvtK_TDYdl_5bzqGg6A**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-103090550615419013731**2021-05-19T15:26:05.692Z**items/17U0AdGypczU-7GiOv8O4-13jFvtK_TDYdl_5bzqGg6A**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113088548601168170669**2021-05-19T12:55:50.966Z**items/107bBn7YPgbHrtwpmgExCZHXiWC9a28DMAUUQSBlbjXo**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-112614490222171506354**2021-05-18T18:38:40.750Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-112614490222171506354**2021-05-18T18:35:56.329Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-114136340080814909527**2021-05-17T14:06:32.320Z**items/1Ei1bw0wZ44sA6iiL4ozpcB9k2YbhmAvj3rNHxFu8awQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-112051505297247304544**2021-05-17T10:30:12.147Z**items/19lB5b1o4otdAJ2lOH0BkDD4NxMLJ0JpIO9_OjS-NbYo**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-118434796241519246698**2021-05-16T17:09:47.116Z**items/1MEk4B8ZUTfs_ZUP79SJGMgBLurLlfCofPOrwxuteuMk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-117344074569653119097**2021-05-16T15:05:35.888Z**items/1nIzaW5qbjYwpNRq9N6tR9uqmFmd2OXm8AmZZBEkNn0Q**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-117344074569653119097**2021-05-16T15:02:55.623Z**items/1nIzaW5qbjYwpNRq9N6tR9uqmFmd2OXm8AmZZBEkNn0Q**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116731512937443379380**2021-05-16T12:54:05.661Z**items/1jlsdZkGzyNMi8whvdInqmDrFtIC51m9h3xJDIklAw00**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116731512937443379380**2021-05-16T10:53:38.858Z**items/1jlsdZkGzyNMi8whvdInqmDrFtIC51m9h3xJDIklAw00**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-103090550615419013731**2021-05-16T10:02:40.498Z**items/17U0AdGypczU-7GiOv8O4-13jFvtK_TDYdl_5bzqGg6A**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-103090550615419013731**2021-05-16T08:29:49.765Z**items/1dH2_-vcRbcf4Drid99h2XKGUDt0bBWLi7aH-r46MzoM**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-103090550615419013731**2021-05-16T08:27:28.655Z**items/1dH2_-vcRbcf4Drid99h2XKGUDt0bBWLi7aH-r46MzoM**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-16T07:31:24.612Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-16T07:28:59.813Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-16T07:28:23.772Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-16T07:25:22.179Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-16T07:17:52.956Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-16T07:14:51.405Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113583108843514915792**2021-05-15T16:31:24.233Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113583108843514915792**2021-05-15T16:28:22.941Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113101915400566932086**2021-05-15T15:29:06.535Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113101915400566932086**2021-05-15T15:27:15.905Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113101915400566932086**2021-05-15T15:26:05.110Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113583108843514915792**2021-05-15T13:50:17.575Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113583108843514915792**2021-05-15T13:47:16.351Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-15T11:31:49.008Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-15T11:28:47.705Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-110171791905300738800**2021-05-15T08:45:36.933Z**items/1yoxByURqvWayko3vn_JFim0mXspMpFOrenbbAt4U_Pc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-110171791905300738800**2021-05-15T08:42:35.501Z**items/1yoxByURqvWayko3vn_JFim0mXspMpFOrenbbAt4U_Pc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116117392679957468652**2021-05-15T06:14:11.418Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116117392679957468652**2021-05-15T06:11:10.069Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116117392679957468652**2021-05-15T06:02:10.787Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116117392679957468652**2021-05-15T05:59:09.468Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-103039123324371079430**2021-05-15T04:38:56.324Z**items/1zIk5KOLHIx_LGrY-gly8hC2AwKo_b36QqdRAA762Nv0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113101915400566932086**2021-05-14T20:50:35.358Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113101915400566932086**2021-05-14T20:47:50.126Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113583108843514915792**2021-05-14T16:53:17.248Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113583108843514915792**2021-05-14T16:50:15.881Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T14:28:57.174Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T14:25:55.255Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-14T14:15:33.313Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115932754617588013139**2021-05-14T14:13:51.055Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105714135961513036402**2021-05-14T12:52:57.831Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116278352384957379394**2021-05-14T12:52:49.524Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105714135961513036402**2021-05-14T12:49:56.036Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116278352384957379394**2021-05-14T12:49:47.740Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100998757712006207376**2021-05-14T12:08:01.604Z**items/1RehQYaRhK5sAUy-dmPhwTsYyDPDjIsq7YD2BocT7AKs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100998757712006207376**2021-05-14T12:05:16.628Z**items/1RehQYaRhK5sAUy-dmPhwTsYyDPDjIsq7YD2BocT7AKs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115341681670052406149**2021-05-14T11:54:42.413Z**items/1t9__l25UK-YXbIYiFmQExAO4yhUP2Xys7mFyLruQ1fU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115341681670052406149**2021-05-14T11:51:41.162Z**items/1t9__l25UK-YXbIYiFmQExAO4yhUP2Xys7mFyLruQ1fU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T11:47:01.985Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T11:43:59.842Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-117837813195985112365**2021-05-14T11:41:58.844Z**items/10362PaxPWW70IuyhKk047GB5zkVvThKaXYbAMjA5z_E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T10:15:38.193Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T10:12:37.466Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T10:06:28.713Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T10:03:27.495Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T09:47:02.799Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T09:34:50.783Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T09:32:06.004Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116063977315962812490**2021-05-14T09:32:04.189Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-117837813195985112365**2021-05-14T09:29:32.455Z**items/1V97lho6DnUeigog6RT88bYVeaVH_pCEX-xoM7oQP_xM**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T08:18:37.567Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-111249968083735744621**2021-05-14T08:18:01.098Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-111249968083735744621**2021-05-14T08:14:59.550Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-14T08:13:10.919Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113613694303259306471**2021-05-14T08:10:50.078Z**items/1PJxt5PvFenKOA1Ftb9Gg-rXpMOg1a9k7uZ3UMedm2cI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-14T08:10:10.097Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113613694303259306471**2021-05-14T08:07:48.966Z**items/1PJxt5PvFenKOA1Ftb9Gg-rXpMOg1a9k7uZ3UMedm2cI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T08:00:09.574Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T08:00:05.778Z**items/1E5oeKvsW01t4EH6wpBNkyNzlGHE__n5fkCz7vEbHUqg**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T07:59:04.277Z**items/1E5oeKvsW01t4EH6wpBNkyNzlGHE__n5fkCz7vEbHUqg**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T07:58:18.017Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T07:57:09.069Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-14T07:55:37.486Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T07:54:08.005Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115957230339487859719**2021-05-14T07:53:02.742Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T07:52:38.548Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-14T07:52:36.376Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-14T07:50:32.388Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T07:49:36.964Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101147286935790689839**2021-05-14T07:48:14.672Z**items/1X1kQSsOvnrsJ6vYid4Yp1RHUZklzqJoWJg8VG6ifAwY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-14T07:47:30.992Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115957230339487859719**2021-05-14T07:47:17.626Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115957230339487859719**2021-05-14T07:46:29.238Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101147286935790689839**2021-05-14T07:45:24.326Z**items/1X1kQSsOvnrsJ6vYid4Yp1RHUZklzqJoWJg8VG6ifAwY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T07:44:26.212Z**items/1tgU_eom7Kz3z5g0T7On8mbXepuwnTR4yG32CfuQAW8E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100031458588225555734**2021-05-14T07:42:55.940Z**items/1tgU_eom7Kz3z5g0T7On8mbXepuwnTR4yG32CfuQAW8E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105949623976061422872**2021-05-14T07:27:34.147Z**items/1pDTSN_XwcpSmZ3dj015ssvfNTXp8xWKEK8J1lnBYZhs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113178847676308333869**2021-05-14T07:14:20.274Z**items/1O1akqpC496Qwde6XA8yQ8CDHKJQlmhRvHIvEiq52jGQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113178847676308333869**2021-05-14T07:04:41.352Z**items/1O1akqpC496Qwde6XA8yQ8CDHKJQlmhRvHIvEiq52jGQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116278352384957379394**2021-05-14T07:03:50.402Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113178847676308333869**2021-05-14T07:01:56.454Z**items/1O1akqpC496Qwde6XA8yQ8CDHKJQlmhRvHIvEiq52jGQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116278352384957379394**2021-05-14T07:00:48.984Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-14T06:58:09.046Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-14T06:55:07.694Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100947729365450621025**2021-05-14T06:45:38.644Z**items/1LeVuJ0p_FEJ1UdvUf5tRWmR3iB6wR9rDEJnWPmL2QAs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100947729365450621025**2021-05-14T06:42:37.305Z**items/1LeVuJ0p_FEJ1UdvUf5tRWmR3iB6wR9rDEJnWPmL2QAs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-113613694303259306471**2021-05-14T06:33:54.040Z**items/1PJxt5PvFenKOA1Ftb9Gg-rXpMOg1a9k7uZ3UMedm2cI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-104964684791860982088**2021-05-14T06:32:36.588Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-104964684791860982088**2021-05-14T06:29:35.252Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-104964684791860982088**2021-05-14T06:19:01.152Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-104964684791860982088**2021-05-14T05:51:11.190Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116278352384957379394**2021-05-14T05:23:31.408Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116117392679957468652**2021-05-14T04:32:14.613Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115957230339487859719**2021-05-14T04:06:17.110Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115957230339487859719**2021-05-14T04:03:28.043Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T04:00:04.176Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-14T03:57:02.290Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-13T20:32:16.323Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116868084082873866126**2021-05-13T20:29:14.677Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-111249968083735744621**2021-05-13T18:30:54.560Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-111249968083735744621**2021-05-13T18:28:03.110Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-114521583213439169277**2021-05-13T17:36:58.330Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-114521583213439169277**2021-05-13T17:33:56.877Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-115341681670052406149**2021-05-13T17:26:23.260Z**items/1Duru232JHZoCrknCWR67b5qxJtvWIfNIvRmPw6yUImc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-13T17:25:25.436Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-101773290570348052194**2021-05-13T17:22:54.166Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-114521583213439169277**2021-05-13T16:35:01.231Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105714135961513036402**2021-05-13T16:30:11.321Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105714135961513036402**2021-05-13T16:25:27.543Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105714135961513036402**2021-05-13T16:22:26.789Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-100947729365450621025**2021-05-13T16:21:14.400Z**items/1LeVuJ0p_FEJ1UdvUf5tRWmR3iB6wR9rDEJnWPmL2QAs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-105714135961513036402**2021-05-13T16:19:44.176Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-117837813195985112365**2021-05-13T16:16:12.429Z**items/1_OfQX1vMQr7Ivsf2ibkqW-sbKV16XcEuxMNHjd4C2y0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-13T16:07:24.999Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-13T16:04:24.320Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-13T16:01:23.625Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-13T15:58:23Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-109182559317668859876**2021-05-13T15:55:42.298Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-110171791905300738800**2021-05-13T15:29:11.160Z**items/1yoxByURqvWayko3vn_JFim0mXspMpFOrenbbAt4U_Pc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-110316479281185902990**2021-05-13T15:00:47.720Z**items/1g3XmaQAmhFA6_uOLn9i66Lj49ktN5rFN2iUpSHUrrFU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116737723439458209366**2021-05-13T14:36:26.726Z**items/1iYWp2zfX4v-T4hUFv5ULvV1_k_RXLdAwWcFcx4xsXSI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116737723439458209366**2021-05-13T14:33:33.704Z**items/1iYWp2zfX4v-T4hUFv5ULvV1_k_RXLdAwWcFcx4xsXSI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116737723439458209366**2021-05-13T13:57:27.076Z**items/1XNTdjWlm1waSTKzkFvmaKlsbmGymmyk-vUeopxqD13c**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116737723439458209366**2021-05-13T13:55:01.657Z**items/1XNTdjWlm1waSTKzkFvmaKlsbmGymmyk-vUeopxqD13c**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
-116737723439458209366**2021-05-13T13:54:25.246Z**items/1XNTdjWlm1waSTKzkFvmaKlsbmGymmyk-vUeopxqD13c**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
 103039123324371079430**2021-06-26T09:49:40.441Z**items/1QHXdQTeODI-K99nXfYPQyEH6MY-_OJ0WfvCglvhfxc8**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 118434796241519246698**2021-06-23T14:37:07.088Z**items/12ZzuI3L7OROqwvHqz_KNul0nQ9vXQlqs8QgIlwBgCjo**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 118434796241519246698**2021-06-23T14:34:05.762Z**items/12ZzuI3L7OROqwvHqz_KNul0nQ9vXQlqs8QgIlwBgCjo**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
@@ -4505,6 +4349,162 @@
 110316479281185902990**2021-05-13T15:19:08.466Z**items/1Qe3EBJ-0_wMyE2OORLJZMbpTIl4LXzZoNcSOy68YvbA**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 116737723439458209366**2021-05-13T14:08:17.952Z**items/1pZZmfrKzwxYUlIHE_AQRF_583tMjA1BX0D_gF4AjKPU**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 113613694303259306471**2021-05-13T13:16:48.687Z**items/1CoT-qCdBbq_t6ZzgIiV0314uiJuzLnEVsAXIP5aNiLQ**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
+109810744438763880168**2021-05-24T11:56:11.856Z**items/1LbplR63RtBfrp9Z4uqfRPOVMXANTkSZLYGtOP2Jux_E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109810744438763880168**2021-05-24T11:53:25.180Z**items/1LbplR63RtBfrp9Z4uqfRPOVMXANTkSZLYGtOP2Jux_E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+102019472241138721808**2021-05-23T14:52:02.664Z**items/1DgoRz1ARico29KrLJ3ptDhPTeCvYPcsFqKR5MiEJIYQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+102019472241138721808**2021-05-23T14:49:01.916Z**items/1DgoRz1ARico29KrLJ3ptDhPTeCvYPcsFqKR5MiEJIYQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+102019472241138721808**2021-05-23T14:46:36.866Z**items/1DgoRz1ARico29KrLJ3ptDhPTeCvYPcsFqKR5MiEJIYQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-23T07:14:17.658Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-23T07:11:16.206Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116427048835848598260**2021-05-22T04:53:10.162Z**items/17NPxoS2j0kjtJCZESBBfsolLOHv-WKNOb0YWLLSUsYY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116453384805760229051**2021-05-21T05:38:01.930Z**items/1wZT03w6Qm6xyCxVVW-ZBl_di7B3F8PI-prIJmtSV2iI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+106672269069571187542**2021-05-20T16:36:46.906Z**items/1w0TNvoeVIhXkOiC1amzCq4btdi3D_nIRoTJD6Q1RYFs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+106672269069571187542**2021-05-20T16:33:46.064Z**items/1w0TNvoeVIhXkOiC1amzCq4btdi3D_nIRoTJD6Q1RYFs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+106672269069571187542**2021-05-20T16:31:00.303Z**items/1w0TNvoeVIhXkOiC1amzCq4btdi3D_nIRoTJD6Q1RYFs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+114521583213439169277**2021-05-20T12:20:12.531Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+114521583213439169277**2021-05-20T12:17:11.398Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+112614490222171506354**2021-05-19T18:34:53.209Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+112614490222171506354**2021-05-19T18:31:51.438Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+103090550615419013731**2021-05-19T15:29:07.153Z**items/17U0AdGypczU-7GiOv8O4-13jFvtK_TDYdl_5bzqGg6A**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+103090550615419013731**2021-05-19T15:26:05.692Z**items/17U0AdGypczU-7GiOv8O4-13jFvtK_TDYdl_5bzqGg6A**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113088548601168170669**2021-05-19T12:55:50.966Z**items/107bBn7YPgbHrtwpmgExCZHXiWC9a28DMAUUQSBlbjXo**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+112614490222171506354**2021-05-18T18:38:40.750Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+112614490222171506354**2021-05-18T18:35:56.329Z**items/1sIL3DrlGh4IvLYe6MKEW8Nk8DEdTGo_jV5DOkaowMsw**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+114136340080814909527**2021-05-17T14:06:32.320Z**items/1Ei1bw0wZ44sA6iiL4ozpcB9k2YbhmAvj3rNHxFu8awQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+112051505297247304544**2021-05-17T10:30:12.147Z**items/19lB5b1o4otdAJ2lOH0BkDD4NxMLJ0JpIO9_OjS-NbYo**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+118434796241519246698**2021-05-16T17:09:47.116Z**items/1MEk4B8ZUTfs_ZUP79SJGMgBLurLlfCofPOrwxuteuMk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+117344074569653119097**2021-05-16T15:05:35.888Z**items/1nIzaW5qbjYwpNRq9N6tR9uqmFmd2OXm8AmZZBEkNn0Q**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+117344074569653119097**2021-05-16T15:02:55.623Z**items/1nIzaW5qbjYwpNRq9N6tR9uqmFmd2OXm8AmZZBEkNn0Q**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116731512937443379380**2021-05-16T12:54:05.661Z**items/1jlsdZkGzyNMi8whvdInqmDrFtIC51m9h3xJDIklAw00**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116731512937443379380**2021-05-16T10:53:38.858Z**items/1jlsdZkGzyNMi8whvdInqmDrFtIC51m9h3xJDIklAw00**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+103090550615419013731**2021-05-16T10:02:40.498Z**items/17U0AdGypczU-7GiOv8O4-13jFvtK_TDYdl_5bzqGg6A**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+103090550615419013731**2021-05-16T08:29:49.765Z**items/1dH2_-vcRbcf4Drid99h2XKGUDt0bBWLi7aH-r46MzoM**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+103090550615419013731**2021-05-16T08:27:28.655Z**items/1dH2_-vcRbcf4Drid99h2XKGUDt0bBWLi7aH-r46MzoM**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-16T07:31:24.612Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-16T07:28:59.813Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-16T07:28:23.772Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-16T07:25:22.179Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-16T07:17:52.956Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-16T07:14:51.405Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113583108843514915792**2021-05-15T16:31:24.233Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113583108843514915792**2021-05-15T16:28:22.941Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113101915400566932086**2021-05-15T15:29:06.535Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113101915400566932086**2021-05-15T15:27:15.905Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113101915400566932086**2021-05-15T15:26:05.110Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113583108843514915792**2021-05-15T13:50:17.575Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113583108843514915792**2021-05-15T13:47:16.351Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-15T11:31:49.008Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-15T11:28:47.705Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+110171791905300738800**2021-05-15T08:45:36.933Z**items/1yoxByURqvWayko3vn_JFim0mXspMpFOrenbbAt4U_Pc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+110171791905300738800**2021-05-15T08:42:35.501Z**items/1yoxByURqvWayko3vn_JFim0mXspMpFOrenbbAt4U_Pc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116117392679957468652**2021-05-15T06:14:11.418Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116117392679957468652**2021-05-15T06:11:10.069Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116117392679957468652**2021-05-15T06:02:10.787Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116117392679957468652**2021-05-15T05:59:09.468Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+103039123324371079430**2021-05-15T04:38:56.324Z**items/1zIk5KOLHIx_LGrY-gly8hC2AwKo_b36QqdRAA762Nv0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113101915400566932086**2021-05-14T20:50:35.358Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113101915400566932086**2021-05-14T20:47:50.126Z**items/1PLW_dhr4lm59ZSz-yt5vQb5ilnimH6vzclFStT3ThDk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113583108843514915792**2021-05-14T16:53:17.248Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113583108843514915792**2021-05-14T16:50:15.881Z**items/1cDMlUoNtx8Frge7yPjTSMxS36BDxxebw_zfEbc95_b0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T14:28:57.174Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T14:25:55.255Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-14T14:15:33.313Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115932754617588013139**2021-05-14T14:13:51.055Z**items/1ZZ0J8E6ErAx6R-MSmKuFkcwnbNxsC44AvXEfFcnY680**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105714135961513036402**2021-05-14T12:52:57.831Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116278352384957379394**2021-05-14T12:52:49.524Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105714135961513036402**2021-05-14T12:49:56.036Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116278352384957379394**2021-05-14T12:49:47.740Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100998757712006207376**2021-05-14T12:08:01.604Z**items/1RehQYaRhK5sAUy-dmPhwTsYyDPDjIsq7YD2BocT7AKs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100998757712006207376**2021-05-14T12:05:16.628Z**items/1RehQYaRhK5sAUy-dmPhwTsYyDPDjIsq7YD2BocT7AKs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115341681670052406149**2021-05-14T11:54:42.413Z**items/1t9__l25UK-YXbIYiFmQExAO4yhUP2Xys7mFyLruQ1fU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115341681670052406149**2021-05-14T11:51:41.162Z**items/1t9__l25UK-YXbIYiFmQExAO4yhUP2Xys7mFyLruQ1fU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T11:47:01.985Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T11:43:59.842Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+117837813195985112365**2021-05-14T11:41:58.844Z**items/10362PaxPWW70IuyhKk047GB5zkVvThKaXYbAMjA5z_E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T10:15:38.193Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T10:12:37.466Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T10:06:28.713Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T10:03:27.495Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T09:47:02.799Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T09:34:50.783Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T09:32:06.004Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116063977315962812490**2021-05-14T09:32:04.189Z**items/1-xIqwbjz0PAuaSFCrwSfd-ZnZ2cFhxVF5O-f2yd5_c8**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+117837813195985112365**2021-05-14T09:29:32.455Z**items/1V97lho6DnUeigog6RT88bYVeaVH_pCEX-xoM7oQP_xM**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T08:18:37.567Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+111249968083735744621**2021-05-14T08:18:01.098Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+111249968083735744621**2021-05-14T08:14:59.550Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-14T08:13:10.919Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113613694303259306471**2021-05-14T08:10:50.078Z**items/1PJxt5PvFenKOA1Ftb9Gg-rXpMOg1a9k7uZ3UMedm2cI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-14T08:10:10.097Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113613694303259306471**2021-05-14T08:07:48.966Z**items/1PJxt5PvFenKOA1Ftb9Gg-rXpMOg1a9k7uZ3UMedm2cI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T08:00:09.574Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T08:00:05.778Z**items/1E5oeKvsW01t4EH6wpBNkyNzlGHE__n5fkCz7vEbHUqg**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T07:59:04.277Z**items/1E5oeKvsW01t4EH6wpBNkyNzlGHE__n5fkCz7vEbHUqg**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T07:58:18.017Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T07:57:09.069Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-14T07:55:37.486Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T07:54:08.005Z**items/12gZaa2EghzW6Rd2R8Yd5kTDCoL5kINvaCwtswoU_OE0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115957230339487859719**2021-05-14T07:53:02.742Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T07:52:38.548Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-14T07:52:36.376Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-14T07:50:32.388Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T07:49:36.964Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101147286935790689839**2021-05-14T07:48:14.672Z**items/1X1kQSsOvnrsJ6vYid4Yp1RHUZklzqJoWJg8VG6ifAwY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-14T07:47:30.992Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115957230339487859719**2021-05-14T07:47:17.626Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115957230339487859719**2021-05-14T07:46:29.238Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101147286935790689839**2021-05-14T07:45:24.326Z**items/1X1kQSsOvnrsJ6vYid4Yp1RHUZklzqJoWJg8VG6ifAwY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T07:44:26.212Z**items/1tgU_eom7Kz3z5g0T7On8mbXepuwnTR4yG32CfuQAW8E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100031458588225555734**2021-05-14T07:42:55.940Z**items/1tgU_eom7Kz3z5g0T7On8mbXepuwnTR4yG32CfuQAW8E**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105949623976061422872**2021-05-14T07:27:34.147Z**items/1pDTSN_XwcpSmZ3dj015ssvfNTXp8xWKEK8J1lnBYZhs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113178847676308333869**2021-05-14T07:14:20.274Z**items/1O1akqpC496Qwde6XA8yQ8CDHKJQlmhRvHIvEiq52jGQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113178847676308333869**2021-05-14T07:04:41.352Z**items/1O1akqpC496Qwde6XA8yQ8CDHKJQlmhRvHIvEiq52jGQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116278352384957379394**2021-05-14T07:03:50.402Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113178847676308333869**2021-05-14T07:01:56.454Z**items/1O1akqpC496Qwde6XA8yQ8CDHKJQlmhRvHIvEiq52jGQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116278352384957379394**2021-05-14T07:00:48.984Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-14T06:58:09.046Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-14T06:55:07.694Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100947729365450621025**2021-05-14T06:45:38.644Z**items/1LeVuJ0p_FEJ1UdvUf5tRWmR3iB6wR9rDEJnWPmL2QAs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100947729365450621025**2021-05-14T06:42:37.305Z**items/1LeVuJ0p_FEJ1UdvUf5tRWmR3iB6wR9rDEJnWPmL2QAs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+113613694303259306471**2021-05-14T06:33:54.040Z**items/1PJxt5PvFenKOA1Ftb9Gg-rXpMOg1a9k7uZ3UMedm2cI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+104964684791860982088**2021-05-14T06:32:36.588Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+104964684791860982088**2021-05-14T06:29:35.252Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+104964684791860982088**2021-05-14T06:19:01.152Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+104964684791860982088**2021-05-14T05:51:11.190Z**items/1T2RY_TdbdkEDHCGeL0egrEAdF517H1hwcfpv0AhXLiQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116278352384957379394**2021-05-14T05:23:31.408Z**items/1faW9yj0XYs_MUESF4CtapBY7e5IjZH2PZJc0f4-HBP0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116117392679957468652**2021-05-14T04:32:14.613Z**items/1AszEmeXFdHfYCyCXPPjKAkRaTzQRuV6LDqw--TXR4aI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115957230339487859719**2021-05-14T04:06:17.110Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115957230339487859719**2021-05-14T04:03:28.043Z**items/1bCltMeOv3Augvvgz_h44C1IP0iq2cC1-1V_33anOPFQ**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T04:00:04.176Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-14T03:57:02.290Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-13T20:32:16.323Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116868084082873866126**2021-05-13T20:29:14.677Z**items/1inNJqDI39UbbNWZu0V96TRos3-yokbHgjrbevc3XlzU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+111249968083735744621**2021-05-13T18:30:54.560Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+111249968083735744621**2021-05-13T18:28:03.110Z**items/1OPUEhJISkpREtqgCcMQZU_WCXJRYWZ6JcDhLCenFMU4**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+114521583213439169277**2021-05-13T17:36:58.330Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+114521583213439169277**2021-05-13T17:33:56.877Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+115341681670052406149**2021-05-13T17:26:23.260Z**items/1Duru232JHZoCrknCWR67b5qxJtvWIfNIvRmPw6yUImc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-13T17:25:25.436Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+101773290570348052194**2021-05-13T17:22:54.166Z**items/1f139Cwbpk7jEcgFJxzL6kYYzmFQuLUye5xfzGNPKs8M**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+114521583213439169277**2021-05-13T16:35:01.231Z**items/1QiISRU0DEzsDr9vWyHD2tlfBzlWR1OsiJ4DrEBtRnbk**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105714135961513036402**2021-05-13T16:30:11.321Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105714135961513036402**2021-05-13T16:25:27.543Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105714135961513036402**2021-05-13T16:22:26.789Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+100947729365450621025**2021-05-13T16:21:14.400Z**items/1LeVuJ0p_FEJ1UdvUf5tRWmR3iB6wR9rDEJnWPmL2QAs**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+105714135961513036402**2021-05-13T16:19:44.176Z**items/1Nus2XzvtsyMZi56RPZm0k8jRWZs9kuaK7Tp9lYdwNJA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+117837813195985112365**2021-05-13T16:16:12.429Z**items/1_OfQX1vMQr7Ivsf2ibkqW-sbKV16XcEuxMNHjd4C2y0**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-13T16:07:24.999Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-13T16:04:24.320Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-13T16:01:23.625Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-13T15:58:23Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+109182559317668859876**2021-05-13T15:55:42.298Z**items/1WfuzOoQKQCWWhd0kNUjZgTTflT0a4V1PSz33cf4a0lY**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+110171791905300738800**2021-05-13T15:29:11.160Z**items/1yoxByURqvWayko3vn_JFim0mXspMpFOrenbbAt4U_Pc**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+110316479281185902990**2021-05-13T15:00:47.720Z**items/1g3XmaQAmhFA6_uOLn9i66Lj49ktN5rFN2iUpSHUrrFU**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116737723439458209366**2021-05-13T14:36:26.726Z**items/1iYWp2zfX4v-T4hUFv5ULvV1_k_RXLdAwWcFcx4xsXSI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116737723439458209366**2021-05-13T14:33:33.704Z**items/1iYWp2zfX4v-T4hUFv5ULvV1_k_RXLdAwWcFcx4xsXSI**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116737723439458209366**2021-05-13T13:57:27.076Z**items/1XNTdjWlm1waSTKzkFvmaKlsbmGymmyk-vUeopxqD13c**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116737723439458209366**2021-05-13T13:55:01.657Z**items/1XNTdjWlm1waSTKzkFvmaKlsbmGymmyk-vUeopxqD13c**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
+116737723439458209366**2021-05-13T13:54:25.246Z**items/1XNTdjWlm1waSTKzkFvmaKlsbmGymmyk-vUeopxqD13c**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
 112100238280675956209**2021-07-11T08:08:40.591Z**items/1h-NJyGJLzInx_I1ZMy7cVltcJotl1xQTQwrBhidnq-4**Activity8: Write a program to multiply two complex numbers.
 112100238280675956209**2021-07-11T08:05:57.771Z**items/1h-NJyGJLzInx_I1ZMy7cVltcJotl1xQTQwrBhidnq-4**Activity8: Write a program to multiply two complex numbers.
 112051505297247304544**2021-05-30T13:06:37.836Z**items/1kdyJJr585Dq4qCSFPVyVz1O-xQokcFSCxjXV6WqD8H8**Activity8: Write a program to multiply two complex numbers.
@@ -5045,145 +5045,6 @@
 116737723439458209366**2021-05-13T12:59:52.160Z**items/1zYUGoCe2t6zYMLW4oICM-EbmhbCZEEVMbNbfsrmie28**Activity6: Write a program to the find distance between two points on x, y plane
 116737723439458209366**2021-05-13T12:56:51.449Z**items/1zYUGoCe2t6zYMLW4oICM-EbmhbCZEEVMbNbfsrmie28**Activity6: Write a program to the find distance between two points on x, y plane
 116737723439458209366**2021-05-13T12:53:59.571Z**items/1zYUGoCe2t6zYMLW4oICM-EbmhbCZEEVMbNbfsrmie28**Activity6: Write a program to the find distance between two points on x, y plane
-112100238280675956209**2021-07-11T08:05:52.616Z**items/1LprvSR_68H5OFrDr4itxNnCO3Wv0G_Ht43TJq_Wr8nk**Activity4: Write a program to calculate the area of a triangle
-112100238280675956209**2021-07-11T08:03:16.918Z**items/1LprvSR_68H5OFrDr4itxNnCO3Wv0G_Ht43TJq_Wr8nk**Activity4: Write a program to calculate the area of a triangle
-116737723439458209366**2021-05-26T12:10:07.095Z**items/1tBSqEcefvPuSMMyWdhGa6UMPr1ySLx33skz_TKcGrxY**Activity4: Write a program to calculate the area of a triangle
-109810744438763880168**2021-05-24T11:24:49.497Z**items/1q4CF4w0lqi2b548VwdYDx8oAY1sR5ZNN4PzDgue6Cho**Activity4: Write a program to calculate the area of a triangle
-109810744438763880168**2021-05-24T11:22:09.566Z**items/1q4CF4w0lqi2b548VwdYDx8oAY1sR5ZNN4PzDgue6Cho**Activity4: Write a program to calculate the area of a triangle
-116595188470002531098**2021-05-22T07:37:23.414Z**items/1Oh0m8UTOBF7CmERWeew4jW6o50NxnHUgpkMT0LVYwzU**Activity4: Write a program to calculate the area of a triangle
-116595188470002531098**2021-05-22T07:34:32.083Z**items/1Oh0m8UTOBF7CmERWeew4jW6o50NxnHUgpkMT0LVYwzU**Activity4: Write a program to calculate the area of a triangle
-116427048835848598260**2021-05-22T04:11:13.894Z**items/1YAGQ6sU6ySPVObIKuZ4414QkDfUr2wuzkkMR9s8KBqw**Activity4: Write a program to calculate the area of a triangle
-111808588770635156861**2021-05-19T11:46:59.210Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
-111170091059794405623**2021-05-19T09:58:45.922Z**items/1HKEGgSu3DgeuWbk5fky-2YlFBNSjBiIz9MryFgl4KDE**Activity4: Write a program to calculate the area of a triangle
-111170091059794405623**2021-05-19T09:55:58.206Z**items/1HKEGgSu3DgeuWbk5fky-2YlFBNSjBiIz9MryFgl4KDE**Activity4: Write a program to calculate the area of a triangle
-112614490222171506354**2021-05-18T14:55:13.632Z**items/1kvufHPNunSEF2rUPTXSBMHDmdxivDoa8P-l70JIQp9g**Activity4: Write a program to calculate the area of a triangle
-112614490222171506354**2021-05-18T14:52:12.874Z**items/1kvufHPNunSEF2rUPTXSBMHDmdxivDoa8P-l70JIQp9g**Activity4: Write a program to calculate the area of a triangle
-112614490222171506354**2021-05-18T14:49:30.805Z**items/1kvufHPNunSEF2rUPTXSBMHDmdxivDoa8P-l70JIQp9g**Activity4: Write a program to calculate the area of a triangle
-106672269069571187542**2021-05-18T13:49:46.968Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
-106672269069571187542**2021-05-18T13:46:46.085Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
-106672269069571187542**2021-05-18T13:44:02.273Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
-113101915400566932086**2021-05-18T12:42:01.149Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
-113101915400566932086**2021-05-18T12:38:59.678Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
-114136340080814909527**2021-05-17T12:49:16.911Z**items/1uD63lf4tPq0mOReGVMoUCByUbC0xqAtzxiTIDWv84g0**Activity4: Write a program to calculate the area of a triangle
-112051505297247304544**2021-05-17T07:54:36.808Z**items/16dfWOMd4SXBNYyNOCZkONQihHW1m7CcNfU76TniCW-A**Activity4: Write a program to calculate the area of a triangle
-116453384805760229051**2021-05-17T04:59:15.755Z**items/1z5AVLLL1e4PQWDeRwE1Tsba7NSLsAQtFv70GWAdD_50**Activity4: Write a program to calculate the area of a triangle
-116731512937443379380**2021-05-16T13:09:47.076Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
-116731512937443379380**2021-05-16T13:06:45.620Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
-114521583213439169277**2021-05-16T12:09:24.181Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
-114521583213439169277**2021-05-16T12:06:22.855Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
-117344074569653119097**2021-05-16T10:59:06.131Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
-117344074569653119097**2021-05-16T10:56:05.615Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
-117344074569653119097**2021-05-16T10:53:04.921Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
-117344074569653119097**2021-05-16T10:50:15.216Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
-116731512937443379380**2021-05-16T10:40:49.786Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
-116731512937443379380**2021-05-16T10:37:48.824Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
-116731512937443379380**2021-05-16T10:17:14.153Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
-103090550615419013731**2021-05-16T08:25:21.836Z**items/1CfdtHWvU3bG722plNr50J8cdS_KYVWLJW-qKHKKqk4U**Activity4: Write a program to calculate the area of a triangle
-103090550615419013731**2021-05-16T08:22:54.617Z**items/1CfdtHWvU3bG722plNr50J8cdS_KYVWLJW-qKHKKqk4U**Activity4: Write a program to calculate the area of a triangle
-116278352384957379394**2021-05-16T06:16:45.611Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
-116278352384957379394**2021-05-16T06:13:44.359Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
-115932754617588013139**2021-05-15T12:17:31.802Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
-115932754617588013139**2021-05-15T12:14:30.092Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
-110171791905300738800**2021-05-15T08:36:00.290Z**items/1S0t0RQprWGhDLLLmSROUVsV_O1tUgwHtQ2z4WLFssqA**Activity4: Write a program to calculate the area of a triangle
-110171791905300738800**2021-05-15T08:32:59.347Z**items/1S0t0RQprWGhDLLLmSROUVsV_O1tUgwHtQ2z4WLFssqA**Activity4: Write a program to calculate the area of a triangle
-118244238289409563179**2021-05-14T16:19:49.687Z**items/13Oobw2VZF46DY9rboLfP3zPrhjycp0CtPYHiDTZhNSU**Activity4: Write a program to calculate the area of a triangle
-118244238289409563179**2021-05-14T16:16:48.183Z**items/13Oobw2VZF46DY9rboLfP3zPrhjycp0CtPYHiDTZhNSU**Activity4: Write a program to calculate the area of a triangle
-113101915400566932086**2021-05-14T16:13:19.574Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
-113101915400566932086**2021-05-14T16:10:18.272Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
-118244238289409563179**2021-05-14T15:47:34.427Z**items/13Oobw2VZF46DY9rboLfP3zPrhjycp0CtPYHiDTZhNSU**Activity4: Write a program to calculate the area of a triangle
-117837813195985112365**2021-05-14T14:59:56.340Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
-117837813195985112365**2021-05-14T14:56:54.813Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
-115932754617588013139**2021-05-14T11:49:44.106Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
-115932754617588013139**2021-05-14T11:40:26.002Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
-115932754617588013139**2021-05-14T11:29:37.594Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
-117837813195985112365**2021-05-14T09:27:27.303Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
-117837813195985112365**2021-05-14T09:24:25.794Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
-100031458588225555734**2021-05-14T07:34:10.945Z**items/1zWYtqm-irMydRD8S31xNHLQSHvIvVIT5Di0DsEJJID0**Activity4: Write a program to calculate the area of a triangle
-116278352384957379394**2021-05-14T07:05:39.231Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
-116278352384957379394**2021-05-14T07:02:37.805Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
-100947729365450621025**2021-05-14T06:49:11.337Z**items/1QJegQVViUiYKQq9yTijfXuDq_u-zY6VTyLS4vCyVFh0**Activity4: Write a program to calculate the area of a triangle
-100947729365450621025**2021-05-14T06:46:10.044Z**items/1QJegQVViUiYKQq9yTijfXuDq_u-zY6VTyLS4vCyVFh0**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-14T06:41:46.032Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-14T06:39:58.757Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-14T06:39:24.806Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-14T06:38:44.861Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-14T06:38:44.450Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-104964684791860982088**2021-05-14T06:37:01.312Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-14T06:36:23.412Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-104964684791860982088**2021-05-14T06:34:00.119Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
-116117392679957468652**2021-05-14T06:13:24.834Z**items/1atjmWCDEvpSjTmBsigx55wFj7wd9mS9TI8NM8w0ohHY**Activity4: Write a program to calculate the area of a triangle
-116117392679957468652**2021-05-14T06:10:23.475Z**items/1atjmWCDEvpSjTmBsigx55wFj7wd9mS9TI8NM8w0ohHY**Activity4: Write a program to calculate the area of a triangle
-113178847676308333869**2021-05-14T06:09:43.372Z**items/1s6WsEQTqsm0QO2dhFl6uPhefrh6H22i6K5fm_54YXTU**Activity4: Write a program to calculate the area of a triangle
-113178847676308333869**2021-05-14T06:06:55.624Z**items/1s6WsEQTqsm0QO2dhFl6uPhefrh6H22i6K5fm_54YXTU**Activity4: Write a program to calculate the area of a triangle
-113178847676308333869**2021-05-14T06:06:42.694Z**items/1s6WsEQTqsm0QO2dhFl6uPhefrh6H22i6K5fm_54YXTU**Activity4: Write a program to calculate the area of a triangle
-113613694303259306471**2021-05-14T06:04:48.332Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
-113613694303259306471**2021-05-14T06:02:13.615Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
-113613694303259306471**2021-05-14T06:01:47.450Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
-113613694303259306471**2021-05-14T05:58:46.100Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
-101147286935790689839**2021-05-14T05:45:28.113Z**items/1ysoG_ilYFqGfCvydS9Rk7Q_H-7L__oz1Ybt2dBIHH0s**Activity4: Write a program to calculate the area of a triangle
-103039123324371079430**2021-05-14T04:41:45.987Z**items/1fISMk_REKs6vSrIUZRZZsy-SWsEAoTDDsPmodpwXTjg**Activity4: Write a program to calculate the area of a triangle
-103039123324371079430**2021-05-14T04:39:06.725Z**items/1fISMk_REKs6vSrIUZRZZsy-SWsEAoTDDsPmodpwXTjg**Activity4: Write a program to calculate the area of a triangle
-118434796241519246698**2021-05-14T04:20:29.362Z**items/13QQGp5I57ipn4Bw9q65fBlg9FzwuDInNXTUWgqvJ_u0**Activity4: Write a program to calculate the area of a triangle
-104964684791860982088**2021-05-14T04:19:51.867Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-14T04:18:38.841Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-14T04:15:37.413Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-100998757712006207376**2021-05-14T04:08:32.844Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
-100998757712006207376**2021-05-14T04:05:31.302Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
-103039123324371079430**2021-05-14T03:56:40.367Z**items/1wt__-uh3QzHyjMMeyxM_9eIgwcnfzauxOHLUF2FlOZo**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-14T03:56:12.271Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-103039123324371079430**2021-05-14T03:53:49.118Z**items/1wt__-uh3QzHyjMMeyxM_9eIgwcnfzauxOHLUF2FlOZo**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-14T03:53:10.605Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T03:49:33.019Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T03:46:31.424Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-111249968083735744621**2021-05-14T03:41:06.571Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
-111249968083735744621**2021-05-14T03:38:05.318Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T03:00:57.062Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T02:59:17.537Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T02:57:56.017Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T02:57:42.128Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T02:54:55.421Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-115957230339487859719**2021-05-14T02:52:17.689Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
-113583108843514915792**2021-05-14T02:49:07.471Z**items/1-PzkUeH0hCoWlVFvL2Z-mbwXvaKq3PEis7s4CevPzEA**Activity4: Write a program to calculate the area of a triangle
-113583108843514915792**2021-05-14T02:46:06.157Z**items/1-PzkUeH0hCoWlVFvL2Z-mbwXvaKq3PEis7s4CevPzEA**Activity4: Write a program to calculate the area of a triangle
-111249968083735744621**2021-05-13T17:22:31.619Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
-111249968083735744621**2021-05-13T17:19:40.377Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
-116063977315962812490**2021-05-13T17:13:30.480Z**items/1zkaxUaq5UUQJetNJ0WhqpLepqjkZJEHDGc6mAcZKEMQ**Activity4: Write a program to calculate the area of a triangle
-116063977315962812490**2021-05-13T17:10:29.107Z**items/1zkaxUaq5UUQJetNJ0WhqpLepqjkZJEHDGc6mAcZKEMQ**Activity4: Write a program to calculate the area of a triangle
-105714135961513036402**2021-05-13T15:58:49.340Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
-105714135961513036402**2021-05-13T15:55:46.797Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
-105385542175717598574**2021-05-13T15:47:35.887Z**items/1MWkf-aHyCyqVVKyQUnng2QSVJJZrO6JmR_6fVAVhw34**Activity4: Write a program to calculate the area of a triangle
-104964684791860982088**2021-05-13T15:43:11.249Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
-104964684791860982088**2021-05-13T15:40:34.620Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-13T15:15:11.773Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-116117392679957468652**2021-05-13T15:12:45.676Z**items/1atjmWCDEvpSjTmBsigx55wFj7wd9mS9TI8NM8w0ohHY**Activity4: Write a program to calculate the area of a triangle
-116868084082873866126**2021-05-13T15:12:10.183Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
-117837813195985112365**2021-05-13T15:06:49.006Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
-116278352384957379394**2021-05-13T14:48:40.199Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
-116278352384957379394**2021-05-13T14:46:00.092Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
-105714135961513036402**2021-05-13T14:29:37.034Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
-105714135961513036402**2021-05-13T14:26:36.270Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
-100947729365450621025**2021-05-13T14:25:00.370Z**items/1QJegQVViUiYKQq9yTijfXuDq_u-zY6VTyLS4vCyVFh0**Activity4: Write a program to calculate the area of a triangle
-105714135961513036402**2021-05-13T14:20:03.202Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
-105714135961513036402**2021-05-13T14:18:26.667Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
-109182559317668859876**2021-05-13T14:03:48.230Z**items/18TV_p5O2GxZrkR6Xtop1lZlpJuLruAKp8dJyma2X2oo**Activity4: Write a program to calculate the area of a triangle
-109182559317668859876**2021-05-13T14:00:58.946Z**items/18TV_p5O2GxZrkR6Xtop1lZlpJuLruAKp8dJyma2X2oo**Activity4: Write a program to calculate the area of a triangle
-114521583213439169277**2021-05-13T13:34:29.231Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
-114521583213439169277**2021-05-13T13:31:28.106Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
-112016947136748623417**2021-05-13T13:21:15.189Z**items/1UOfdYOP8qn0MObSdOadsF9t4y1BrSpAN6CXttnDV90c**Activity4: Write a program to calculate the area of a triangle
-110171791905300738800**2021-05-13T13:09:07.761Z**items/1S0t0RQprWGhDLLLmSROUVsV_O1tUgwHtQ2z4WLFssqA**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-13T12:52:35.737Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-110316479281185902990**2021-05-13T12:52:06.965Z**items/1FtLuaGmb6Aa0aTBtgN71Oa7YDv7T--JAw2Qcxfqwy5c**Activity4: Write a program to calculate the area of a triangle
-101773290570348052194**2021-05-13T12:49:43.770Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
-110316479281185902990**2021-05-13T12:49:05.490Z**items/1FtLuaGmb6Aa0aTBtgN71Oa7YDv7T--JAw2Qcxfqwy5c**Activity4: Write a program to calculate the area of a triangle
-116737723439458209366**2021-05-13T12:44:46.843Z**items/1tBSqEcefvPuSMMyWdhGa6UMPr1ySLx33skz_TKcGrxY**Activity4: Write a program to calculate the area of a triangle
-116737723439458209366**2021-05-13T12:41:58.010Z**items/1tBSqEcefvPuSMMyWdhGa6UMPr1ySLx33skz_TKcGrxY**Activity4: Write a program to calculate the area of a triangle
-103039123324371079430**2021-05-13T12:34:24.334Z**items/1UbOBx6TyIAZov8au7Ry2Y8U89IOaoHLkJd6SZ00b76Y**Activity4: Write a program to calculate the area of a triangle
-100998757712006207376**2021-05-13T12:33:28.175Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
-100998757712006207376**2021-05-13T12:31:43.597Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
-103039123324371079430**2021-05-13T12:31:39.609Z**items/1UbOBx6TyIAZov8au7Ry2Y8U89IOaoHLkJd6SZ00b76Y**Activity4: Write a program to calculate the area of a triangle
-100998757712006207376**2021-05-13T12:30:26.746Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
-118434796241519246698**2021-05-13T12:29:55.230Z**items/1UBWB8oIcLYCGw5vkDMjrzIgkjMDxycrQ9lAo9Q11QNU**Activity4: Write a program to calculate the area of a triangle
-113613694303259306471**2021-05-13T12:29:05.248Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
 109182559317668859876**2021-06-15T06:52:44.444Z**items/1Cc6C9Jk5mcJPl31hzbzvmLUzlLZNwpEaKxhgFhrhIYE**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
 109182559317668859876**2021-06-15T06:49:42.863Z**items/1Cc6C9Jk5mcJPl31hzbzvmLUzlLZNwpEaKxhgFhrhIYE**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
 109810744438763880168**2021-05-24T11:26:13.611Z**items/1d5HPDJz4bn4qfMwlzASOyuQqoerd61oAsVfwhn5uWsE**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
@@ -5335,6 +5196,145 @@
 116737723439458209366**2021-05-13T12:45:07.759Z**items/1rOIbpDU7uOCgnMIGgyKn4Q1w73ZugS5N0r9MK2FEo0Y**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
 103039123324371079430**2021-05-13T12:44:37.432Z**items/18nAdgKbJeJq0s7fS1aTiNEQtdqm3zcyT9FJYb9MvWbY**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
 113613694303259306471**2021-05-13T12:43:10.425Z**items/1aBe_jCvgk5y0YfsxR-Gc81p5sRMjnWNwNMx5iBsH0aU**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
+112100238280675956209**2021-07-11T08:05:52.616Z**items/1LprvSR_68H5OFrDr4itxNnCO3Wv0G_Ht43TJq_Wr8nk**Activity4: Write a program to calculate the area of a triangle
+112100238280675956209**2021-07-11T08:03:16.918Z**items/1LprvSR_68H5OFrDr4itxNnCO3Wv0G_Ht43TJq_Wr8nk**Activity4: Write a program to calculate the area of a triangle
+116737723439458209366**2021-05-26T12:10:07.095Z**items/1tBSqEcefvPuSMMyWdhGa6UMPr1ySLx33skz_TKcGrxY**Activity4: Write a program to calculate the area of a triangle
+109810744438763880168**2021-05-24T11:24:49.497Z**items/1q4CF4w0lqi2b548VwdYDx8oAY1sR5ZNN4PzDgue6Cho**Activity4: Write a program to calculate the area of a triangle
+109810744438763880168**2021-05-24T11:22:09.566Z**items/1q4CF4w0lqi2b548VwdYDx8oAY1sR5ZNN4PzDgue6Cho**Activity4: Write a program to calculate the area of a triangle
+116595188470002531098**2021-05-22T07:37:23.414Z**items/1Oh0m8UTOBF7CmERWeew4jW6o50NxnHUgpkMT0LVYwzU**Activity4: Write a program to calculate the area of a triangle
+116595188470002531098**2021-05-22T07:34:32.083Z**items/1Oh0m8UTOBF7CmERWeew4jW6o50NxnHUgpkMT0LVYwzU**Activity4: Write a program to calculate the area of a triangle
+116427048835848598260**2021-05-22T04:11:13.894Z**items/1YAGQ6sU6ySPVObIKuZ4414QkDfUr2wuzkkMR9s8KBqw**Activity4: Write a program to calculate the area of a triangle
+111808588770635156861**2021-05-19T11:46:59.210Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
+111170091059794405623**2021-05-19T09:58:45.922Z**items/1HKEGgSu3DgeuWbk5fky-2YlFBNSjBiIz9MryFgl4KDE**Activity4: Write a program to calculate the area of a triangle
+111170091059794405623**2021-05-19T09:55:58.206Z**items/1HKEGgSu3DgeuWbk5fky-2YlFBNSjBiIz9MryFgl4KDE**Activity4: Write a program to calculate the area of a triangle
+112614490222171506354**2021-05-18T14:55:13.632Z**items/1kvufHPNunSEF2rUPTXSBMHDmdxivDoa8P-l70JIQp9g**Activity4: Write a program to calculate the area of a triangle
+112614490222171506354**2021-05-18T14:52:12.874Z**items/1kvufHPNunSEF2rUPTXSBMHDmdxivDoa8P-l70JIQp9g**Activity4: Write a program to calculate the area of a triangle
+112614490222171506354**2021-05-18T14:49:30.805Z**items/1kvufHPNunSEF2rUPTXSBMHDmdxivDoa8P-l70JIQp9g**Activity4: Write a program to calculate the area of a triangle
+106672269069571187542**2021-05-18T13:49:46.968Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
+106672269069571187542**2021-05-18T13:46:46.085Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
+106672269069571187542**2021-05-18T13:44:02.273Z**items/1guo1SVLCFCbsIeQwMKttho1MmOJvvi_QpOIUDeOlom4**Activity4: Write a program to calculate the area of a triangle
+113101915400566932086**2021-05-18T12:42:01.149Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
+113101915400566932086**2021-05-18T12:38:59.678Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
+114136340080814909527**2021-05-17T12:49:16.911Z**items/1uD63lf4tPq0mOReGVMoUCByUbC0xqAtzxiTIDWv84g0**Activity4: Write a program to calculate the area of a triangle
+112051505297247304544**2021-05-17T07:54:36.808Z**items/16dfWOMd4SXBNYyNOCZkONQihHW1m7CcNfU76TniCW-A**Activity4: Write a program to calculate the area of a triangle
+116453384805760229051**2021-05-17T04:59:15.755Z**items/1z5AVLLL1e4PQWDeRwE1Tsba7NSLsAQtFv70GWAdD_50**Activity4: Write a program to calculate the area of a triangle
+116731512937443379380**2021-05-16T13:09:47.076Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
+116731512937443379380**2021-05-16T13:06:45.620Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
+114521583213439169277**2021-05-16T12:09:24.181Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
+114521583213439169277**2021-05-16T12:06:22.855Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
+117344074569653119097**2021-05-16T10:59:06.131Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
+117344074569653119097**2021-05-16T10:56:05.615Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
+117344074569653119097**2021-05-16T10:53:04.921Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
+117344074569653119097**2021-05-16T10:50:15.216Z**items/1z1yAiWm7oJ9ghAMVATUAf4KRoeIXCyk-vDTBvzMekVI**Activity4: Write a program to calculate the area of a triangle
+116731512937443379380**2021-05-16T10:40:49.786Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
+116731512937443379380**2021-05-16T10:37:48.824Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
+116731512937443379380**2021-05-16T10:17:14.153Z**items/1PKE9yS8QLMdj1REUeP2LNE1pe66sJsjavUZLMHXZ8cA**Activity4: Write a program to calculate the area of a triangle
+103090550615419013731**2021-05-16T08:25:21.836Z**items/1CfdtHWvU3bG722plNr50J8cdS_KYVWLJW-qKHKKqk4U**Activity4: Write a program to calculate the area of a triangle
+103090550615419013731**2021-05-16T08:22:54.617Z**items/1CfdtHWvU3bG722plNr50J8cdS_KYVWLJW-qKHKKqk4U**Activity4: Write a program to calculate the area of a triangle
+116278352384957379394**2021-05-16T06:16:45.611Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
+116278352384957379394**2021-05-16T06:13:44.359Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
+115932754617588013139**2021-05-15T12:17:31.802Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
+115932754617588013139**2021-05-15T12:14:30.092Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
+110171791905300738800**2021-05-15T08:36:00.290Z**items/1S0t0RQprWGhDLLLmSROUVsV_O1tUgwHtQ2z4WLFssqA**Activity4: Write a program to calculate the area of a triangle
+110171791905300738800**2021-05-15T08:32:59.347Z**items/1S0t0RQprWGhDLLLmSROUVsV_O1tUgwHtQ2z4WLFssqA**Activity4: Write a program to calculate the area of a triangle
+118244238289409563179**2021-05-14T16:19:49.687Z**items/13Oobw2VZF46DY9rboLfP3zPrhjycp0CtPYHiDTZhNSU**Activity4: Write a program to calculate the area of a triangle
+118244238289409563179**2021-05-14T16:16:48.183Z**items/13Oobw2VZF46DY9rboLfP3zPrhjycp0CtPYHiDTZhNSU**Activity4: Write a program to calculate the area of a triangle
+113101915400566932086**2021-05-14T16:13:19.574Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
+113101915400566932086**2021-05-14T16:10:18.272Z**items/1p9FeCFtJiqjgUwHD0MkoQc3J9s8qGzWVAc4FH81tOBI**Activity4: Write a program to calculate the area of a triangle
+118244238289409563179**2021-05-14T15:47:34.427Z**items/13Oobw2VZF46DY9rboLfP3zPrhjycp0CtPYHiDTZhNSU**Activity4: Write a program to calculate the area of a triangle
+117837813195985112365**2021-05-14T14:59:56.340Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
+117837813195985112365**2021-05-14T14:56:54.813Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
+115932754617588013139**2021-05-14T11:49:44.106Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
+115932754617588013139**2021-05-14T11:40:26.002Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
+115932754617588013139**2021-05-14T11:29:37.594Z**items/135LzdXkxLdn0klsUD0cNHOsJO3Ghx9C-AG0gY5P_Zpc**Activity4: Write a program to calculate the area of a triangle
+117837813195985112365**2021-05-14T09:27:27.303Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
+117837813195985112365**2021-05-14T09:24:25.794Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
+100031458588225555734**2021-05-14T07:34:10.945Z**items/1zWYtqm-irMydRD8S31xNHLQSHvIvVIT5Di0DsEJJID0**Activity4: Write a program to calculate the area of a triangle
+116278352384957379394**2021-05-14T07:05:39.231Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
+116278352384957379394**2021-05-14T07:02:37.805Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
+100947729365450621025**2021-05-14T06:49:11.337Z**items/1QJegQVViUiYKQq9yTijfXuDq_u-zY6VTyLS4vCyVFh0**Activity4: Write a program to calculate the area of a triangle
+100947729365450621025**2021-05-14T06:46:10.044Z**items/1QJegQVViUiYKQq9yTijfXuDq_u-zY6VTyLS4vCyVFh0**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-14T06:41:46.032Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-14T06:39:58.757Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-14T06:39:24.806Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-14T06:38:44.861Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-14T06:38:44.450Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+104964684791860982088**2021-05-14T06:37:01.312Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-14T06:36:23.412Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+104964684791860982088**2021-05-14T06:34:00.119Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
+116117392679957468652**2021-05-14T06:13:24.834Z**items/1atjmWCDEvpSjTmBsigx55wFj7wd9mS9TI8NM8w0ohHY**Activity4: Write a program to calculate the area of a triangle
+116117392679957468652**2021-05-14T06:10:23.475Z**items/1atjmWCDEvpSjTmBsigx55wFj7wd9mS9TI8NM8w0ohHY**Activity4: Write a program to calculate the area of a triangle
+113178847676308333869**2021-05-14T06:09:43.372Z**items/1s6WsEQTqsm0QO2dhFl6uPhefrh6H22i6K5fm_54YXTU**Activity4: Write a program to calculate the area of a triangle
+113178847676308333869**2021-05-14T06:06:55.624Z**items/1s6WsEQTqsm0QO2dhFl6uPhefrh6H22i6K5fm_54YXTU**Activity4: Write a program to calculate the area of a triangle
+113178847676308333869**2021-05-14T06:06:42.694Z**items/1s6WsEQTqsm0QO2dhFl6uPhefrh6H22i6K5fm_54YXTU**Activity4: Write a program to calculate the area of a triangle
+113613694303259306471**2021-05-14T06:04:48.332Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
+113613694303259306471**2021-05-14T06:02:13.615Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
+113613694303259306471**2021-05-14T06:01:47.450Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
+113613694303259306471**2021-05-14T05:58:46.100Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
+101147286935790689839**2021-05-14T05:45:28.113Z**items/1ysoG_ilYFqGfCvydS9Rk7Q_H-7L__oz1Ybt2dBIHH0s**Activity4: Write a program to calculate the area of a triangle
+103039123324371079430**2021-05-14T04:41:45.987Z**items/1fISMk_REKs6vSrIUZRZZsy-SWsEAoTDDsPmodpwXTjg**Activity4: Write a program to calculate the area of a triangle
+103039123324371079430**2021-05-14T04:39:06.725Z**items/1fISMk_REKs6vSrIUZRZZsy-SWsEAoTDDsPmodpwXTjg**Activity4: Write a program to calculate the area of a triangle
+118434796241519246698**2021-05-14T04:20:29.362Z**items/13QQGp5I57ipn4Bw9q65fBlg9FzwuDInNXTUWgqvJ_u0**Activity4: Write a program to calculate the area of a triangle
+104964684791860982088**2021-05-14T04:19:51.867Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-14T04:18:38.841Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-14T04:15:37.413Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+100998757712006207376**2021-05-14T04:08:32.844Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
+100998757712006207376**2021-05-14T04:05:31.302Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
+103039123324371079430**2021-05-14T03:56:40.367Z**items/1wt__-uh3QzHyjMMeyxM_9eIgwcnfzauxOHLUF2FlOZo**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-14T03:56:12.271Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+103039123324371079430**2021-05-14T03:53:49.118Z**items/1wt__-uh3QzHyjMMeyxM_9eIgwcnfzauxOHLUF2FlOZo**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-14T03:53:10.605Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T03:49:33.019Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T03:46:31.424Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+111249968083735744621**2021-05-14T03:41:06.571Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
+111249968083735744621**2021-05-14T03:38:05.318Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T03:00:57.062Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T02:59:17.537Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T02:57:56.017Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T02:57:42.128Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T02:54:55.421Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+115957230339487859719**2021-05-14T02:52:17.689Z**items/127_SrEogF9HIYYMmuK7b5qjcKf8m8idiAa0VPISugSM**Activity4: Write a program to calculate the area of a triangle
+113583108843514915792**2021-05-14T02:49:07.471Z**items/1-PzkUeH0hCoWlVFvL2Z-mbwXvaKq3PEis7s4CevPzEA**Activity4: Write a program to calculate the area of a triangle
+113583108843514915792**2021-05-14T02:46:06.157Z**items/1-PzkUeH0hCoWlVFvL2Z-mbwXvaKq3PEis7s4CevPzEA**Activity4: Write a program to calculate the area of a triangle
+111249968083735744621**2021-05-13T17:22:31.619Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
+111249968083735744621**2021-05-13T17:19:40.377Z**items/1YWrhJFTWDbedh8yIKHOnegaNzM9OW9fcrrxYFOz-IHo**Activity4: Write a program to calculate the area of a triangle
+116063977315962812490**2021-05-13T17:13:30.480Z**items/1zkaxUaq5UUQJetNJ0WhqpLepqjkZJEHDGc6mAcZKEMQ**Activity4: Write a program to calculate the area of a triangle
+116063977315962812490**2021-05-13T17:10:29.107Z**items/1zkaxUaq5UUQJetNJ0WhqpLepqjkZJEHDGc6mAcZKEMQ**Activity4: Write a program to calculate the area of a triangle
+105714135961513036402**2021-05-13T15:58:49.340Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
+105714135961513036402**2021-05-13T15:55:46.797Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
+105385542175717598574**2021-05-13T15:47:35.887Z**items/1MWkf-aHyCyqVVKyQUnng2QSVJJZrO6JmR_6fVAVhw34**Activity4: Write a program to calculate the area of a triangle
+104964684791860982088**2021-05-13T15:43:11.249Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
+104964684791860982088**2021-05-13T15:40:34.620Z**items/18R4UmSnVAn6AaJfbb5_NSU2aYVHTadwoEuIpkgaZ1UA**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-13T15:15:11.773Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+116117392679957468652**2021-05-13T15:12:45.676Z**items/1atjmWCDEvpSjTmBsigx55wFj7wd9mS9TI8NM8w0ohHY**Activity4: Write a program to calculate the area of a triangle
+116868084082873866126**2021-05-13T15:12:10.183Z**items/1-RtkcMy5a7QqPZdnx8jfdt_FT2MSUHa1SH30zm5makA**Activity4: Write a program to calculate the area of a triangle
+117837813195985112365**2021-05-13T15:06:49.006Z**items/1lXfDB1kWTYeHaFChHwilwXZcBHSsL9-uWoOm7Cu0F2M**Activity4: Write a program to calculate the area of a triangle
+116278352384957379394**2021-05-13T14:48:40.199Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
+116278352384957379394**2021-05-13T14:46:00.092Z**items/1Pm7fMRxhVtUvX9O50JwSAVL7_OTCB-mbiWUIRr50h94**Activity4: Write a program to calculate the area of a triangle
+105714135961513036402**2021-05-13T14:29:37.034Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
+105714135961513036402**2021-05-13T14:26:36.270Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
+100947729365450621025**2021-05-13T14:25:00.370Z**items/1QJegQVViUiYKQq9yTijfXuDq_u-zY6VTyLS4vCyVFh0**Activity4: Write a program to calculate the area of a triangle
+105714135961513036402**2021-05-13T14:20:03.202Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
+105714135961513036402**2021-05-13T14:18:26.667Z**items/1T_5epssaXmStanBPglkFeAQjtswINsYnQYkK-cSG-84**Activity4: Write a program to calculate the area of a triangle
+109182559317668859876**2021-05-13T14:03:48.230Z**items/18TV_p5O2GxZrkR6Xtop1lZlpJuLruAKp8dJyma2X2oo**Activity4: Write a program to calculate the area of a triangle
+109182559317668859876**2021-05-13T14:00:58.946Z**items/18TV_p5O2GxZrkR6Xtop1lZlpJuLruAKp8dJyma2X2oo**Activity4: Write a program to calculate the area of a triangle
+114521583213439169277**2021-05-13T13:34:29.231Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
+114521583213439169277**2021-05-13T13:31:28.106Z**items/1g9gKQaY-q-c6rNBhCV-TC9FbOJYUIHL-2D8ELmfjVy4**Activity4: Write a program to calculate the area of a triangle
+112016947136748623417**2021-05-13T13:21:15.189Z**items/1UOfdYOP8qn0MObSdOadsF9t4y1BrSpAN6CXttnDV90c**Activity4: Write a program to calculate the area of a triangle
+110171791905300738800**2021-05-13T13:09:07.761Z**items/1S0t0RQprWGhDLLLmSROUVsV_O1tUgwHtQ2z4WLFssqA**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-13T12:52:35.737Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+110316479281185902990**2021-05-13T12:52:06.965Z**items/1FtLuaGmb6Aa0aTBtgN71Oa7YDv7T--JAw2Qcxfqwy5c**Activity4: Write a program to calculate the area of a triangle
+101773290570348052194**2021-05-13T12:49:43.770Z**items/1ZI1hnDkVwZ33svn8vkfsC1bkGNAozFGyedv_1fGIRv0**Activity4: Write a program to calculate the area of a triangle
+110316479281185902990**2021-05-13T12:49:05.490Z**items/1FtLuaGmb6Aa0aTBtgN71Oa7YDv7T--JAw2Qcxfqwy5c**Activity4: Write a program to calculate the area of a triangle
+116737723439458209366**2021-05-13T12:44:46.843Z**items/1tBSqEcefvPuSMMyWdhGa6UMPr1ySLx33skz_TKcGrxY**Activity4: Write a program to calculate the area of a triangle
+116737723439458209366**2021-05-13T12:41:58.010Z**items/1tBSqEcefvPuSMMyWdhGa6UMPr1ySLx33skz_TKcGrxY**Activity4: Write a program to calculate the area of a triangle
+103039123324371079430**2021-05-13T12:34:24.334Z**items/1UbOBx6TyIAZov8au7Ry2Y8U89IOaoHLkJd6SZ00b76Y**Activity4: Write a program to calculate the area of a triangle
+100998757712006207376**2021-05-13T12:33:28.175Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
+100998757712006207376**2021-05-13T12:31:43.597Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
+103039123324371079430**2021-05-13T12:31:39.609Z**items/1UbOBx6TyIAZov8au7Ry2Y8U89IOaoHLkJd6SZ00b76Y**Activity4: Write a program to calculate the area of a triangle
+100998757712006207376**2021-05-13T12:30:26.746Z**items/1dZijJVHaIrYJ5wp3HD3phqLIwzp_z9_CPQcv1R5cRTw**Activity4: Write a program to calculate the area of a triangle
+118434796241519246698**2021-05-13T12:29:55.230Z**items/1UBWB8oIcLYCGw5vkDMjrzIgkjMDxycrQ9lAo9Q11QNU**Activity4: Write a program to calculate the area of a triangle
+113613694303259306471**2021-05-13T12:29:05.248Z**items/1FG_DpdxxAZaiHSE-B6UtcF5MnK4I1BaCxCa0oVafHTY**Activity4: Write a program to calculate the area of a triangle
 114521583213439169277**2021-07-19T19:22:14.250Z**items/1q5LSWIQ90jsC9s-DHovm_v7NsZCjWyD4FlduDjKtOyg**Activity2: Write a program to add two numbers and print the sum.
 114521583213439169277**2021-07-19T19:15:49.743Z**items/1q5LSWIQ90jsC9s-DHovm_v7NsZCjWyD4FlduDjKtOyg**Activity2: Write a program to add two numbers and print the sum.
 114521583213439169277**2021-07-19T19:05:49.205Z**items/1q5LSWIQ90jsC9s-DHovm_v7NsZCjWyD4FlduDjKtOyg**Activity2: Write a program to add two numbers and print the sum.

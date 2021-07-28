@@ -115,6 +115,8 @@
 105385542175717598574**2021-07-18T17:25:42.825Z**items/18Z0o2hZOXQ3K7mX-H9RENCD0K5Y3fNH9tBmBgcZ1Tb8**Activity56: Write a function to find the length of a string. ( Do not use std library function)
 105385542175717598574**2021-07-18T17:22:35.083Z**items/18Z0o2hZOXQ3K7mX-H9RENCD0K5Y3fNH9tBmBgcZ1Tb8**Activity56: Write a function to find the length of a string. ( Do not use std library function)
 105385542175717598574**2021-07-18T17:19:40.617Z**items/18Z0o2hZOXQ3K7mX-H9RENCD0K5Y3fNH9tBmBgcZ1Tb8**Activity56: Write a function to find the length of a string. ( Do not use std library function)
+106190260249225410197**2021-07-28T05:31:58.469Z**items/1BKEy75P-L1mJ5snAnUUuy-D_bvoeVwiyJnlLXfQSQ1A**Activity55: Write a program using functions to add N fractions.
+106190260249225410197**2021-07-28T05:28:57.105Z**items/1BKEy75P-L1mJ5snAnUUuy-D_bvoeVwiyJnlLXfQSQ1A**Activity55: Write a program using functions to add N fractions.
 105385542175717598574**2021-07-26T12:58:16.942Z**items/1CP72ns-rt5U_ue0yQq4dub6JFprSdW4tPcEuD_F2a2s**Activity55: Write a program using functions to add N fractions.
 105385542175717598574**2021-07-26T12:55:16.131Z**items/1CP72ns-rt5U_ue0yQq4dub6JFprSdW4tPcEuD_F2a2s**Activity55: Write a program using functions to add N fractions.
 105385542175717598574**2021-07-26T12:50:40.566Z**items/1CP72ns-rt5U_ue0yQq4dub6JFprSdW4tPcEuD_F2a2s**Activity55: Write a program using functions to add N fractions.
@@ -1592,6 +1594,124 @@
 118409371345488704652**2021-05-26T13:38:41.157Z**items/1BZV5G2hqiSk7WPq8PWtKr6K9Z4HMAsyMJkj4bbaDV0Y**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 115884847104939171953**2021-05-26T13:38:01.235Z**items/17AAly0on--yriOmKElihc3K7sonCEleFhGHeFe3q5os**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 101369868465963170627**2021-05-26T13:36:33.813Z**items/140YyhbrvH7kmubhvY0AjVYyh8r8VZWkozxLGAN1C8Ls**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
+114521583213439169277**2021-07-04T08:21:54.195Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
+105339126856403768995**2021-06-28T12:22:11.842Z**items/16HBJ82_8V5MCUCYGuc-wCKXog9R4eGOwZ7GJN958mzg**Activity11: Write a program to add two numbers using four functions and only pass by value
+105339126856403768995**2021-06-28T12:19:10.504Z**items/16HBJ82_8V5MCUCYGuc-wCKXog9R4eGOwZ7GJN958mzg**Activity11: Write a program to add two numbers using four functions and only pass by value
+102439080975878416416**2021-06-24T13:32:34.707Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
+102439080975878416416**2021-06-24T13:29:32.788Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
+107842215556892103876**2021-06-10T12:25:12.127Z**items/19joeiUER6lI_3HgZhic1QnTvoYOXo00k2eQpBgCdxe8**Activity11: Write a program to add two numbers using four functions and only pass by value
+107842215556892103876**2021-06-10T12:22:11.176Z**items/19joeiUER6lI_3HgZhic1QnTvoYOXo00k2eQpBgCdxe8**Activity11: Write a program to add two numbers using four functions and only pass by value
+107842215556892103876**2021-06-10T12:17:34.610Z**items/19joeiUER6lI_3HgZhic1QnTvoYOXo00k2eQpBgCdxe8**Activity11: Write a program to add two numbers using four functions and only pass by value
+105675849446201636725**2021-06-08T12:17:22.153Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
+105675849446201636725**2021-06-08T12:14:20.354Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
+111113360274677659432**2021-06-07T14:27:41.492Z**items/1i1dFIss10syn5XlydFqG1v2MssKgBx4lk5sYswaV-j8**Activity11: Write a program to add two numbers using four functions and only pass by value
+111113360274677659432**2021-06-07T14:24:39.652Z**items/1i1dFIss10syn5XlydFqG1v2MssKgBx4lk5sYswaV-j8**Activity11: Write a program to add two numbers using four functions and only pass by value
+102439080975878416416**2021-06-02T05:19:58.199Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
+102439080975878416416**2021-06-02T05:16:56.764Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
+106190260249225410197**2021-05-31T12:55:48.608Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
+108551453120033327406**2021-05-31T12:28:13.475Z**items/1Isd1QD_1uavDqKsCaKDRsmO7RvcP9m6glQwkMzy1gkU**Activity11: Write a program to add two numbers using four functions and only pass by value
+108551453120033327406**2021-05-31T12:26:23.097Z**items/1Isd1QD_1uavDqKsCaKDRsmO7RvcP9m6glQwkMzy1gkU**Activity11: Write a program to add two numbers using four functions and only pass by value
+108551453120033327406**2021-05-31T12:25:11.869Z**items/1Isd1QD_1uavDqKsCaKDRsmO7RvcP9m6glQwkMzy1gkU**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-28T13:15:53.453Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-28T13:12:51.674Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+113585561475558191766**2021-05-28T06:55:58.485Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
+113585561475558191766**2021-05-28T06:52:57.701Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
+113585561475558191766**2021-05-28T06:49:57.027Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
+113585561475558191766**2021-05-28T06:46:55.700Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-27T13:37:19.173Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-27T13:34:18.360Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-27T13:31:16.898Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+102439080975878416416**2021-05-27T10:35:18.446Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
+102439080975878416416**2021-05-27T10:32:16.803Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
+100944041182625260784**2021-05-27T10:19:21.326Z**items/1J6JrKTYjBsyVWHPB_OdTgC00Y6Su_n43LGPLt64Rs6U**Activity11: Write a program to add two numbers using four functions and only pass by value
+100944041182625260784**2021-05-27T10:16:19.971Z**items/1J6JrKTYjBsyVWHPB_OdTgC00Y6Su_n43LGPLt64Rs6U**Activity11: Write a program to add two numbers using four functions and only pass by value
+113585561475558191766**2021-05-26T18:23:14.889Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
+113585561475558191766**2021-05-26T18:20:13.271Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
+108049304266886881329**2021-05-26T14:54:06.498Z**items/1DfNXQMJjeQlNEqEpvE9cXJ81Wx9rcWPB8OCmYizS2k8**Activity11: Write a program to add two numbers using four functions and only pass by value
+103173313764043917405**2021-05-26T14:04:52.873Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
+103173313764043917405**2021-05-26T14:02:37.678Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
+103173313764043917405**2021-05-26T14:01:51.299Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-26T13:42:44.457Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105675849446201636725**2021-05-26T13:41:11.232Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-26T13:39:43.433Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105675849446201636725**2021-05-26T13:39:27.754Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:38:39.489Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+105675849446201636725**2021-05-26T13:38:09.851Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:35:38.581Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-26T13:33:24.198Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:32:37.691Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-26T13:28:17.925Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+116567405683626505547**2021-05-26T13:25:50.511Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-26T13:25:28.938Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-26T13:24:07.285Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+116567405683626505547**2021-05-26T13:22:48.682Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:22:26.014Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-26T13:22:25.716Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:19:25.227Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-26T13:19:25.063Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-26T13:16:24.391Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:16:24.381Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+106596847425762363883**2021-05-26T13:13:29.439Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-26T13:13:23.089Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+112591413034360385001**2021-05-26T13:13:22.895Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-26T13:10:28.636Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-26T13:08:37.047Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+109044651938605325064**2021-05-26T13:07:32.176Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
+109044651938605325064**2021-05-26T13:06:07.745Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
+102161508227940611963**2021-05-26T13:02:07.355Z**items/1ZBCNDwbE8mH-ciA2WHsU9Mrc2oRZERAT2DTlrZSuNoI**Activity11: Write a program to add two numbers using four functions and only pass by value
+102161508227940611963**2021-05-26T12:59:05.468Z**items/1ZBCNDwbE8mH-ciA2WHsU9Mrc2oRZERAT2DTlrZSuNoI**Activity11: Write a program to add two numbers using four functions and only pass by value
+116567405683626505547**2021-05-26T12:15:47.565Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
+116567405683626505547**2021-05-26T12:12:46.695Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
+116567405683626505547**2021-05-26T12:09:45.849Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
+116567405683626505547**2021-05-26T12:06:43.877Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
+106672269069571187542**2021-05-26T12:01:37.606Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
+106672269069571187542**2021-05-26T11:58:35.983Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
+106190260249225410197**2021-05-26T10:46:04.703Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
+106190260249225410197**2021-05-26T10:43:02.804Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
+113338395036525037997**2021-05-26T06:54:42.026Z**items/1koh_PiAwvgmDKU2QR1MkSW4DsxgWHqEv1Q7EUujemc4**Activity11: Write a program to add two numbers using four functions and only pass by value
+103173313764043917405**2021-05-26T04:58:02.724Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
+103173313764043917405**2021-05-26T04:55:01.372Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-25T16:49:43.815Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+111251150643823088656**2021-05-25T16:46:42.218Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
+107229854942834973031**2021-05-25T16:35:22.149Z**items/1JK4EBrTO6zNLdJ5ZZbLKbCJeqld7q711GXjlWLUZ0hQ**Activity11: Write a program to add two numbers using four functions and only pass by value
+107229854942834973031**2021-05-25T16:32:20.331Z**items/1JK4EBrTO6zNLdJ5ZZbLKbCJeqld7q711GXjlWLUZ0hQ**Activity11: Write a program to add two numbers using four functions and only pass by value
+106044258723601509861**2021-05-25T16:17:48.402Z**items/1ll8bdcSbZKqBU63Gi9y5zUFLf-K5ztB3YiHt1O7Kc1s**Activity11: Write a program to add two numbers using four functions and only pass by value
+106044258723601509861**2021-05-25T16:14:47.579Z**items/1ll8bdcSbZKqBU63Gi9y5zUFLf-K5ztB3YiHt1O7Kc1s**Activity11: Write a program to add two numbers using four functions and only pass by value
+109835665188063634607**2021-05-25T16:12:14.494Z**items/1bv3M2iayznGs4rtNzP9Pz-BkbgnbEMCSLqH1LfpYkzQ**Activity11: Write a program to add two numbers using four functions and only pass by value
+106044258723601509861**2021-05-25T16:11:46.052Z**items/1ll8bdcSbZKqBU63Gi9y5zUFLf-K5ztB3YiHt1O7Kc1s**Activity11: Write a program to add two numbers using four functions and only pass by value
+109835665188063634607**2021-05-25T16:09:13.695Z**items/1bv3M2iayznGs4rtNzP9Pz-BkbgnbEMCSLqH1LfpYkzQ**Activity11: Write a program to add two numbers using four functions and only pass by value
+109835665188063634607**2021-05-25T16:06:12.159Z**items/1bv3M2iayznGs4rtNzP9Pz-BkbgnbEMCSLqH1LfpYkzQ**Activity11: Write a program to add two numbers using four functions and only pass by value
+102161508227940611963**2021-05-25T15:34:32.772Z**items/1ZBCNDwbE8mH-ciA2WHsU9Mrc2oRZERAT2DTlrZSuNoI**Activity11: Write a program to add two numbers using four functions and only pass by value
+109044651938605325064**2021-05-25T15:21:12.856Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
+109044651938605325064**2021-05-25T15:18:11.458Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
+109698859550477349673**2021-05-25T14:55:10.076Z**items/1R0ru6axveaUOP0LzbEi2TCaG4owLRsFI_DufaTBscD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+109698859550477349673**2021-05-25T14:52:09.141Z**items/1R0ru6axveaUOP0LzbEi2TCaG4owLRsFI_DufaTBscD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+109698859550477349673**2021-05-25T14:48:28.596Z**items/1R0ru6axveaUOP0LzbEi2TCaG4owLRsFI_DufaTBscD0**Activity11: Write a program to add two numbers using four functions and only pass by value
+102261080886468435211**2021-05-25T14:38:53.218Z**items/1-SngAO5-1zgOCt_Hg-0t0ltTkH53wTFv3Y7aLabJ65A**Activity11: Write a program to add two numbers using four functions and only pass by value
+115498508418767010640**2021-05-25T14:03:29.868Z**items/19smC3RiyUPt_N1V1UK5YZJkI8ZNyptLOzJjBQjSbIBk**Activity11: Write a program to add two numbers using four functions and only pass by value
+115498508418767010640**2021-05-25T14:00:28.249Z**items/19smC3RiyUPt_N1V1UK5YZJkI8ZNyptLOzJjBQjSbIBk**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:33:14.027Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:30:13.136Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+107561476941516001225**2021-05-25T13:30:05.709Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
+107561476941516001225**2021-05-25T13:27:42.427Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
+107561476941516001225**2021-05-25T13:27:05.043Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
+107561476941516001225**2021-05-25T13:24:04.255Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
+106672269069571187542**2021-05-25T13:23:28.692Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
+106672269069571187542**2021-05-25T13:20:27.228Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:19:23.244Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+107561476941516001225**2021-05-25T13:17:40.281Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:16:22.394Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+107561476941516001225**2021-05-25T13:14:39Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:13:21.511Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:10:20.701Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+117438915772244669467**2021-05-25T13:08:16.582Z**items/1zDvXj5gCZ7d0hunDkew2Z-2VXyMFKUKaSsvVi0wjdmw**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:07:20.012Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+105385542175717598574**2021-05-25T13:07:11.567Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
+104074153226926058345**2021-05-25T13:05:59.915Z**items/1yTwcpp43fpFIHPVvBKXEt13jSLqX8bxPIbE751q9B9c**Activity11: Write a program to add two numbers using four functions and only pass by value
+102055259463454073307**2021-05-25T13:05:54.290Z**items/1Lov798RIOG00KlyDqXcUIv5rKQr0Li1vfcba7jJ-92I**Activity11: Write a program to add two numbers using four functions and only pass by value
+116926036473103908724**2021-05-25T13:05:53.008Z**items/1DJEf1Cy6Y4-Pg4vFztHQvYHonTaQ-j_83qpSzGzXD84**Activity11: Write a program to add two numbers using four functions and only pass by value
+113338395036525037997**2021-05-25T13:05:51.991Z**items/1koh_PiAwvgmDKU2QR1MkSW4DsxgWHqEv1Q7EUujemc4**Activity11: Write a program to add two numbers using four functions and only pass by value
+102784182922943120077**2021-05-25T13:05:43.494Z**items/1t9wxdP1WPA-pDJlu_nK8XeC-ph7gXBEZluDN_qAFiwY**Activity11: Write a program to add two numbers using four functions and only pass by value
 105385542175717598574**2021-07-18T16:43:58.543Z**items/1hyjJ1TomweyjZihg9PVbPyqQP8f5mSVAjvAhl17TXuU**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 105339126856403768995**2021-06-23T13:31:35.270Z**items/1xUgc3H0T2ZCjKhyb1lLS3N8oOfXYbZBm1fEoJpT_Rok**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 105339126856403768995**2021-06-23T13:28:34.459Z**items/1xUgc3H0T2ZCjKhyb1lLS3N8oOfXYbZBm1fEoJpT_Rok**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
@@ -1814,124 +1934,6 @@
 117424243701386702057**2021-05-24T13:05:47.704Z**items/1Wss3K6ACifGHfIZ-ySLKqULLxIF-KoES-E-35sOp9hU**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 115150883899438888798**2021-05-24T13:05:45.583Z**items/1IR6AcBQ3vKYgHPjUIjYroS8pInrTPV_BJP1ijr0aSTI**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 112591413034360385001**2021-05-24T13:04:43.664Z**items/1hhm8PGQikLoFHCt9uqM1RL_EKQnC328hdRORiQC5m8w**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
-114521583213439169277**2021-07-04T08:21:54.195Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
-105339126856403768995**2021-06-28T12:22:11.842Z**items/16HBJ82_8V5MCUCYGuc-wCKXog9R4eGOwZ7GJN958mzg**Activity11: Write a program to add two numbers using four functions and only pass by value
-105339126856403768995**2021-06-28T12:19:10.504Z**items/16HBJ82_8V5MCUCYGuc-wCKXog9R4eGOwZ7GJN958mzg**Activity11: Write a program to add two numbers using four functions and only pass by value
-102439080975878416416**2021-06-24T13:32:34.707Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
-102439080975878416416**2021-06-24T13:29:32.788Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
-107842215556892103876**2021-06-10T12:25:12.127Z**items/19joeiUER6lI_3HgZhic1QnTvoYOXo00k2eQpBgCdxe8**Activity11: Write a program to add two numbers using four functions and only pass by value
-107842215556892103876**2021-06-10T12:22:11.176Z**items/19joeiUER6lI_3HgZhic1QnTvoYOXo00k2eQpBgCdxe8**Activity11: Write a program to add two numbers using four functions and only pass by value
-107842215556892103876**2021-06-10T12:17:34.610Z**items/19joeiUER6lI_3HgZhic1QnTvoYOXo00k2eQpBgCdxe8**Activity11: Write a program to add two numbers using four functions and only pass by value
-105675849446201636725**2021-06-08T12:17:22.153Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
-105675849446201636725**2021-06-08T12:14:20.354Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
-111113360274677659432**2021-06-07T14:27:41.492Z**items/1i1dFIss10syn5XlydFqG1v2MssKgBx4lk5sYswaV-j8**Activity11: Write a program to add two numbers using four functions and only pass by value
-111113360274677659432**2021-06-07T14:24:39.652Z**items/1i1dFIss10syn5XlydFqG1v2MssKgBx4lk5sYswaV-j8**Activity11: Write a program to add two numbers using four functions and only pass by value
-102439080975878416416**2021-06-02T05:19:58.199Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
-102439080975878416416**2021-06-02T05:16:56.764Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
-106190260249225410197**2021-05-31T12:55:48.608Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
-108551453120033327406**2021-05-31T12:28:13.475Z**items/1Isd1QD_1uavDqKsCaKDRsmO7RvcP9m6glQwkMzy1gkU**Activity11: Write a program to add two numbers using four functions and only pass by value
-108551453120033327406**2021-05-31T12:26:23.097Z**items/1Isd1QD_1uavDqKsCaKDRsmO7RvcP9m6glQwkMzy1gkU**Activity11: Write a program to add two numbers using four functions and only pass by value
-108551453120033327406**2021-05-31T12:25:11.869Z**items/1Isd1QD_1uavDqKsCaKDRsmO7RvcP9m6glQwkMzy1gkU**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-28T13:15:53.453Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-28T13:12:51.674Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-113585561475558191766**2021-05-28T06:55:58.485Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
-113585561475558191766**2021-05-28T06:52:57.701Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
-113585561475558191766**2021-05-28T06:49:57.027Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
-113585561475558191766**2021-05-28T06:46:55.700Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-27T13:37:19.173Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-27T13:34:18.360Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-27T13:31:16.898Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-102439080975878416416**2021-05-27T10:35:18.446Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
-102439080975878416416**2021-05-27T10:32:16.803Z**items/19R7k2kicRreBeljrK2F-0b1-jfJcETaWo3FmjLGjz6A**Activity11: Write a program to add two numbers using four functions and only pass by value
-100944041182625260784**2021-05-27T10:19:21.326Z**items/1J6JrKTYjBsyVWHPB_OdTgC00Y6Su_n43LGPLt64Rs6U**Activity11: Write a program to add two numbers using four functions and only pass by value
-100944041182625260784**2021-05-27T10:16:19.971Z**items/1J6JrKTYjBsyVWHPB_OdTgC00Y6Su_n43LGPLt64Rs6U**Activity11: Write a program to add two numbers using four functions and only pass by value
-113585561475558191766**2021-05-26T18:23:14.889Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
-113585561475558191766**2021-05-26T18:20:13.271Z**items/1JYe8VumU2HheAwo6qO8nbQAPbrE7YXsHabSLjw7AWDs**Activity11: Write a program to add two numbers using four functions and only pass by value
-108049304266886881329**2021-05-26T14:54:06.498Z**items/1DfNXQMJjeQlNEqEpvE9cXJ81Wx9rcWPB8OCmYizS2k8**Activity11: Write a program to add two numbers using four functions and only pass by value
-103173313764043917405**2021-05-26T14:04:52.873Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
-103173313764043917405**2021-05-26T14:02:37.678Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
-103173313764043917405**2021-05-26T14:01:51.299Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-26T13:42:44.457Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105675849446201636725**2021-05-26T13:41:11.232Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-26T13:39:43.433Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105675849446201636725**2021-05-26T13:39:27.754Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:38:39.489Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-105675849446201636725**2021-05-26T13:38:09.851Z**items/1Vr6N4T6xHoX-VaB-SFi_gUjYjfIHIB8dMt5as5kcFfY**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:35:38.581Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-26T13:33:24.198Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:32:37.691Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-26T13:28:17.925Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-116567405683626505547**2021-05-26T13:25:50.511Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-26T13:25:28.938Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-26T13:24:07.285Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-116567405683626505547**2021-05-26T13:22:48.682Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:22:26.014Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-26T13:22:25.716Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:19:25.227Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-26T13:19:25.063Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-26T13:16:24.391Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:16:24.381Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-106596847425762363883**2021-05-26T13:13:29.439Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-26T13:13:23.089Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-112591413034360385001**2021-05-26T13:13:22.895Z**items/12lCq1r0TGTgBnSaX0O4Es68zH73FhOK3c9Xmu-c6BD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-26T13:10:28.636Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-26T13:08:37.047Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-109044651938605325064**2021-05-26T13:07:32.176Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
-109044651938605325064**2021-05-26T13:06:07.745Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
-102161508227940611963**2021-05-26T13:02:07.355Z**items/1ZBCNDwbE8mH-ciA2WHsU9Mrc2oRZERAT2DTlrZSuNoI**Activity11: Write a program to add two numbers using four functions and only pass by value
-102161508227940611963**2021-05-26T12:59:05.468Z**items/1ZBCNDwbE8mH-ciA2WHsU9Mrc2oRZERAT2DTlrZSuNoI**Activity11: Write a program to add two numbers using four functions and only pass by value
-116567405683626505547**2021-05-26T12:15:47.565Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
-116567405683626505547**2021-05-26T12:12:46.695Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
-116567405683626505547**2021-05-26T12:09:45.849Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
-116567405683626505547**2021-05-26T12:06:43.877Z**items/1TyD2bszmmX7QQvPjlXOS9xIQ_W7PFK6rDDJJquETvJY**Activity11: Write a program to add two numbers using four functions and only pass by value
-106672269069571187542**2021-05-26T12:01:37.606Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
-106672269069571187542**2021-05-26T11:58:35.983Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
-106190260249225410197**2021-05-26T10:46:04.703Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
-106190260249225410197**2021-05-26T10:43:02.804Z**items/1MaL5YGHIFg2jYeX3b13EqMuGLl4adiOjPIBXhpO0ndw**Activity11: Write a program to add two numbers using four functions and only pass by value
-113338395036525037997**2021-05-26T06:54:42.026Z**items/1koh_PiAwvgmDKU2QR1MkSW4DsxgWHqEv1Q7EUujemc4**Activity11: Write a program to add two numbers using four functions and only pass by value
-103173313764043917405**2021-05-26T04:58:02.724Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
-103173313764043917405**2021-05-26T04:55:01.372Z**items/1O8kKe88OY316kBnClhvtcDYMCyeUiUpWNy9jfHr3t7U**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-25T16:49:43.815Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-111251150643823088656**2021-05-25T16:46:42.218Z**items/1E_YviFOrJLlqnp7sNaewUzOGbDv0mZi1G2jViE96_RY**Activity11: Write a program to add two numbers using four functions and only pass by value
-107229854942834973031**2021-05-25T16:35:22.149Z**items/1JK4EBrTO6zNLdJ5ZZbLKbCJeqld7q711GXjlWLUZ0hQ**Activity11: Write a program to add two numbers using four functions and only pass by value
-107229854942834973031**2021-05-25T16:32:20.331Z**items/1JK4EBrTO6zNLdJ5ZZbLKbCJeqld7q711GXjlWLUZ0hQ**Activity11: Write a program to add two numbers using four functions and only pass by value
-106044258723601509861**2021-05-25T16:17:48.402Z**items/1ll8bdcSbZKqBU63Gi9y5zUFLf-K5ztB3YiHt1O7Kc1s**Activity11: Write a program to add two numbers using four functions and only pass by value
-106044258723601509861**2021-05-25T16:14:47.579Z**items/1ll8bdcSbZKqBU63Gi9y5zUFLf-K5ztB3YiHt1O7Kc1s**Activity11: Write a program to add two numbers using four functions and only pass by value
-109835665188063634607**2021-05-25T16:12:14.494Z**items/1bv3M2iayznGs4rtNzP9Pz-BkbgnbEMCSLqH1LfpYkzQ**Activity11: Write a program to add two numbers using four functions and only pass by value
-106044258723601509861**2021-05-25T16:11:46.052Z**items/1ll8bdcSbZKqBU63Gi9y5zUFLf-K5ztB3YiHt1O7Kc1s**Activity11: Write a program to add two numbers using four functions and only pass by value
-109835665188063634607**2021-05-25T16:09:13.695Z**items/1bv3M2iayznGs4rtNzP9Pz-BkbgnbEMCSLqH1LfpYkzQ**Activity11: Write a program to add two numbers using four functions and only pass by value
-109835665188063634607**2021-05-25T16:06:12.159Z**items/1bv3M2iayznGs4rtNzP9Pz-BkbgnbEMCSLqH1LfpYkzQ**Activity11: Write a program to add two numbers using four functions and only pass by value
-102161508227940611963**2021-05-25T15:34:32.772Z**items/1ZBCNDwbE8mH-ciA2WHsU9Mrc2oRZERAT2DTlrZSuNoI**Activity11: Write a program to add two numbers using four functions and only pass by value
-109044651938605325064**2021-05-25T15:21:12.856Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
-109044651938605325064**2021-05-25T15:18:11.458Z**items/1BoWqyAeg4zfJyBpDI2D15U7c_8Aa-frCBL5XEvZXHw4**Activity11: Write a program to add two numbers using four functions and only pass by value
-109698859550477349673**2021-05-25T14:55:10.076Z**items/1R0ru6axveaUOP0LzbEi2TCaG4owLRsFI_DufaTBscD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-109698859550477349673**2021-05-25T14:52:09.141Z**items/1R0ru6axveaUOP0LzbEi2TCaG4owLRsFI_DufaTBscD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-109698859550477349673**2021-05-25T14:48:28.596Z**items/1R0ru6axveaUOP0LzbEi2TCaG4owLRsFI_DufaTBscD0**Activity11: Write a program to add two numbers using four functions and only pass by value
-102261080886468435211**2021-05-25T14:38:53.218Z**items/1-SngAO5-1zgOCt_Hg-0t0ltTkH53wTFv3Y7aLabJ65A**Activity11: Write a program to add two numbers using four functions and only pass by value
-115498508418767010640**2021-05-25T14:03:29.868Z**items/19smC3RiyUPt_N1V1UK5YZJkI8ZNyptLOzJjBQjSbIBk**Activity11: Write a program to add two numbers using four functions and only pass by value
-115498508418767010640**2021-05-25T14:00:28.249Z**items/19smC3RiyUPt_N1V1UK5YZJkI8ZNyptLOzJjBQjSbIBk**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:33:14.027Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:30:13.136Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-107561476941516001225**2021-05-25T13:30:05.709Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
-107561476941516001225**2021-05-25T13:27:42.427Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
-107561476941516001225**2021-05-25T13:27:05.043Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
-107561476941516001225**2021-05-25T13:24:04.255Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
-106672269069571187542**2021-05-25T13:23:28.692Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
-106672269069571187542**2021-05-25T13:20:27.228Z**items/1RI8qvtyaif1CvjO9Og20MqcMBf0eZaCcEEzEFSRD4ME**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:19:23.244Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-107561476941516001225**2021-05-25T13:17:40.281Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:16:22.394Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-107561476941516001225**2021-05-25T13:14:39Z**items/1rtOKA_NLYE771VsuCaFw6Uckx1EweHhYhtC-iOl88po**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:13:21.511Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:10:20.701Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-117438915772244669467**2021-05-25T13:08:16.582Z**items/1zDvXj5gCZ7d0hunDkew2Z-2VXyMFKUKaSsvVi0wjdmw**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:07:20.012Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-105385542175717598574**2021-05-25T13:07:11.567Z**items/1iAwXz6uNEoHnWD0xwimuJrJL4pIg4o3I5DeQa6Moa4g**Activity11: Write a program to add two numbers using four functions and only pass by value
-104074153226926058345**2021-05-25T13:05:59.915Z**items/1yTwcpp43fpFIHPVvBKXEt13jSLqX8bxPIbE751q9B9c**Activity11: Write a program to add two numbers using four functions and only pass by value
-102055259463454073307**2021-05-25T13:05:54.290Z**items/1Lov798RIOG00KlyDqXcUIv5rKQr0Li1vfcba7jJ-92I**Activity11: Write a program to add two numbers using four functions and only pass by value
-116926036473103908724**2021-05-25T13:05:53.008Z**items/1DJEf1Cy6Y4-Pg4vFztHQvYHonTaQ-j_83qpSzGzXD84**Activity11: Write a program to add two numbers using four functions and only pass by value
-113338395036525037997**2021-05-25T13:05:51.991Z**items/1koh_PiAwvgmDKU2QR1MkSW4DsxgWHqEv1Q7EUujemc4**Activity11: Write a program to add two numbers using four functions and only pass by value
-102784182922943120077**2021-05-25T13:05:43.494Z**items/1t9wxdP1WPA-pDJlu_nK8XeC-ph7gXBEZluDN_qAFiwY**Activity11: Write a program to add two numbers using four functions and only pass by value
 105339126856403768995**2021-06-23T13:16:30.988Z**items/1Bd39dw45fLtPKi1q78Wtm5KlCsCRzz4M2Drnv7_xLbA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
 105339126856403768995**2021-06-23T13:13:30.047Z**items/1Bd39dw45fLtPKi1q78Wtm5KlCsCRzz4M2Drnv7_xLbA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
 105339126856403768995**2021-06-23T13:08:16.194Z**items/1Bd39dw45fLtPKi1q78Wtm5KlCsCRzz4M2Drnv7_xLbA**Activity9: Write a program to compute the time for completion of the work by two workers given individual times to complete work.
@@ -2306,344 +2308,6 @@
 109011621720521387762**2021-05-20T12:47:38.376Z**items/1HA8NWna7o_IUaix3eI_RmO4JPh0hDTauPfQpAICN_cY**Activity8: Write a program to multiply two complex numbers.
 109835665188063634607**2021-05-20T12:47:37.473Z**items/17xMQDqqgEe-4th6NFhJjMBwXI3YWASyognInRQiPwPc**Activity8: Write a program to multiply two complex numbers.
 107842215556892103876**2021-05-20T12:47:26.157Z**items/16001mqTR4iP0r3EeHEzpcIn_Ij-jchLSZwvEO4J8Go4**Activity8: Write a program to multiply two complex numbers.
-105339126856403768995**2021-06-22T13:59:33.561Z**items/1RFEeqSS-VvAr8NhvIwlVJpk6j0w_xU8HfwS2ELRkyj0**Activity6: Write a program to the find distance between two points on x, y plane
-105339126856403768995**2021-06-22T13:56:32.132Z**items/1RFEeqSS-VvAr8NhvIwlVJpk6j0w_xU8HfwS2ELRkyj0**Activity6: Write a program to the find distance between two points on x, y plane
-102784182922943120077**2021-06-16T04:08:37.373Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
-107561476941516001225**2021-06-11T02:06:11.381Z**items/1Te6VD8Ufc4VQoS_PRtCMC7s25uGOW6Jiedod4fKC6zs**Activity6: Write a program to the find distance between two points on x, y plane
-107842215556892103876**2021-06-07T15:03:48.726Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-107842215556892103876**2021-06-07T15:00:46.536Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-107842215556892103876**2021-06-07T13:44:38.798Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-107842215556892103876**2021-06-07T13:41:43.006Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-107842215556892103876**2021-06-07T13:41:37.897Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-107842215556892103876**2021-06-07T13:38:35.799Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-102641484502798472042**2021-06-07T13:13:43.017Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-31T13:43:41.518Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-31T13:41:09.771Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-31T13:40:39.810Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-26T13:32:51.125Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-26T13:29:48.998Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-26T12:54:23.119Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-26T12:51:29.794Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-25T16:40:37.592Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-25T16:37:36.305Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-113410947269055369028**2021-05-25T13:21:54.229Z**items/14jt8UIqco-iTBt_s3IVvvgwGDrgtgnCMJV7Jq5FpuwI**Activity6: Write a program to the find distance between two points on x, y plane
-104561109117013086102**2021-05-23T14:47:39.518Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
-104561109117013086102**2021-05-23T14:44:38.781Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
-104561109117013086102**2021-05-23T14:41:17.678Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
-104561109117013086102**2021-05-23T14:38:39.762Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
-113236281388571858144**2021-05-23T12:00:57.344Z**items/1gTMDcOrXiP8Dmh06Q0l5swyJ_fqqaTyKtxn0z82Jlh0**Activity6: Write a program to the find distance between two points on x, y plane
-113236281388571858144**2021-05-23T11:57:55.506Z**items/1gTMDcOrXiP8Dmh06Q0l5swyJ_fqqaTyKtxn0z82Jlh0**Activity6: Write a program to the find distance between two points on x, y plane
-111395749801805737134**2021-05-23T09:09:38.188Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
-111395749801805737134**2021-05-23T09:06:37.476Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
-111395749801805737134**2021-05-23T09:03:35.994Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
-100615148994865213831**2021-05-23T08:47:50.814Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
-100615148994865213831**2021-05-23T08:44:49.406Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
-111395749801805737134**2021-05-23T04:53:23.761Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
-111395749801805737134**2021-05-23T04:51:54.635Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-21T14:06:27.333Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-21T14:03:26.354Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-21T13:56:09.131Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-21T13:49:10.852Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-108551453120033327406**2021-05-21T13:47:48.913Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
-107819134971406838825**2021-05-21T13:41:16.588Z**items/16O1g0Ns0FGVw820zs5_sWk98Wh36o2JyT8FxRW6ondM**Activity6: Write a program to the find distance between two points on x, y plane
-107819134971406838825**2021-05-21T13:39:43.873Z**items/16O1g0Ns0FGVw820zs5_sWk98Wh36o2JyT8FxRW6ondM**Activity6: Write a program to the find distance between two points on x, y plane
-102019472241138721808**2021-05-21T10:06:37.280Z**items/1M5ZmxqCkS815CqHXKe9YH7l5kmvE-3KTO38-nTcaFNE**Activity6: Write a program to the find distance between two points on x, y plane
-102019472241138721808**2021-05-21T10:03:36.001Z**items/1M5ZmxqCkS815CqHXKe9YH7l5kmvE-3KTO38-nTcaFNE**Activity6: Write a program to the find distance between two points on x, y plane
-102019472241138721808**2021-05-21T09:53:27.764Z**items/1M5ZmxqCkS815CqHXKe9YH7l5kmvE-3KTO38-nTcaFNE**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-21T01:03:23.684Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-21T01:00:22.981Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-21T00:57:21.882Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-21T00:54:20.983Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-21T00:31:41.290Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-116387061330410417130**2021-05-20T17:17:07.193Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
-116387061330410417130**2021-05-20T17:14:06.070Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
-116387061330410417130**2021-05-20T17:01:29.224Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
-116387061330410417130**2021-05-20T16:59:51.435Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
-104695427811925328313**2021-05-20T14:10:18.176Z**items/1fIBjdu9USy0pXs-qz80Rh0Z5OXSC5muq3sHb2AJW2pw**Activity6: Write a program to the find distance between two points on x, y plane
-104695427811925328313**2021-05-20T14:07:17.422Z**items/1fIBjdu9USy0pXs-qz80Rh0Z5OXSC5muq3sHb2AJW2pw**Activity6: Write a program to the find distance between two points on x, y plane
-104695427811925328313**2021-05-20T14:04:43.065Z**items/1fIBjdu9USy0pXs-qz80Rh0Z5OXSC5muq3sHb2AJW2pw**Activity6: Write a program to the find distance between two points on x, y plane
-118409371345488704652**2021-05-20T03:42:11.370Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-118409371345488704652**2021-05-20T03:39:09.772Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-20T01:33:51.541Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-20T00:11:29.821Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-20T00:08:27.631Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-102784182922943120077**2021-05-19T15:42:21.995Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
-102784182922943120077**2021-05-19T15:39:21.242Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-19T15:37:37.153Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-102784182922943120077**2021-05-19T15:36:19.998Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
-102967145538899663138**2021-05-19T14:06:44.079Z**items/1pzcJ5xaqanG-Mr3cjabEAx6h3xmfyEBpzoC9nwm1tvM**Activity6: Write a program to the find distance between two points on x, y plane
-102967145538899663138**2021-05-19T14:03:43.349Z**items/1pzcJ5xaqanG-Mr3cjabEAx6h3xmfyEBpzoC9nwm1tvM**Activity6: Write a program to the find distance between two points on x, y plane
-102784182922943120077**2021-05-19T14:01:06.774Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
-102967145538899663138**2021-05-19T14:00:42.161Z**items/1pzcJ5xaqanG-Mr3cjabEAx6h3xmfyEBpzoC9nwm1tvM**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-19T13:23:23.526Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-19T13:21:55.510Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-19T12:21:13.409Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-19T12:18:12.013Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-19T12:15:03.570Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-19T12:12:15.380Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-108419192795627718524**2021-05-19T11:38:42.828Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-19T09:21:02.058Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T08:39:09.742Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T08:36:08.050Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-100305458731778042105**2021-05-19T08:28:52.647Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
-100305458731778042105**2021-05-19T08:25:50.987Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-19T07:52:22.262Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-100799166992958723744**2021-05-19T07:50:18.768Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-100305458731778042105**2021-05-19T07:47:50.469Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
-100799166992958723744**2021-05-19T07:47:44.605Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-100305458731778042105**2021-05-19T07:44:48.757Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
-104074153226926058345**2021-05-19T07:33:58.147Z**items/1cA0j1pOa03BhoSKSqb-ZpRcPe4xaTpLEFnt7jMa2If0**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-19T07:31:01.145Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-104074153226926058345**2021-05-19T07:30:56.738Z**items/1cA0j1pOa03BhoSKSqb-ZpRcPe4xaTpLEFnt7jMa2If0**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-19T07:28:04.911Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-118409371345488704652**2021-05-19T07:18:34.090Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-100958701170817825695**2021-05-19T06:58:26.532Z**items/14z_OvN_SCLK9cbsKjG4RguypABt2MaCPcUnr46SRMWw**Activity6: Write a program to the find distance between two points on x, y plane
-105973094874718102215**2021-05-19T06:57:55.175Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
-111659988813798349870**2021-05-19T06:55:04.135Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
-111659988813798349870**2021-05-19T06:54:41.202Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
-118274374766322243767**2021-05-19T06:39:38.567Z**items/1yAYJBsARCo5XxF2u2SCVldUoBQJ4aIkFh1DN6wqGszI**Activity6: Write a program to the find distance between two points on x, y plane
-118274374766322243767**2021-05-19T06:35:22.281Z**items/1yAYJBsARCo5XxF2u2SCVldUoBQJ4aIkFh1DN6wqGszI**Activity6: Write a program to the find distance between two points on x, y plane
-118274374766322243767**2021-05-19T06:32:13.190Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
-118274374766322243767**2021-05-19T06:29:45.501Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-19T05:33:24.357Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-19T05:30:22.627Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T05:17:46.424Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T05:15:26.133Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T05:14:45.616Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T05:11:43.916Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-103173313764043917405**2021-05-19T05:05:37.942Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
-103173313764043917405**2021-05-19T05:02:36.883Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
-103173313764043917405**2021-05-19T04:59:36.259Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
-100799166992958723744**2021-05-19T04:58:34.411Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-103173313764043917405**2021-05-19T04:56:34.924Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
-118409371345488704652**2021-05-19T04:55:58.553Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-118409371345488704652**2021-05-19T04:55:32.630Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-106190260249225410197**2021-05-19T04:44:26.322Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-19T04:38:53.889Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-19T04:37:41.034Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-112321766685739799454**2021-05-19T04:31:32.541Z**items/1eFvOZM91QwmtCZNuUMUjF64kwbgQnhSiKIam3zgcmH0**Activity6: Write a program to the find distance between two points on x, y plane
-112321766685739799454**2021-05-19T04:28:31.057Z**items/1eFvOZM91QwmtCZNuUMUjF64kwbgQnhSiKIam3zgcmH0**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-19T04:14:27.357Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-19T04:11:25.745Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-103173313764043917405**2021-05-19T04:00:08.405Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
-103173313764043917405**2021-05-19T03:57:07.022Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-19T03:42:16.333Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-19T03:39:14.347Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-118274374766322243767**2021-05-19T03:25:23.659Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
-118274374766322243767**2021-05-19T03:23:29.043Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
-100958701170817825695**2021-05-19T03:12:06.971Z**items/14z_OvN_SCLK9cbsKjG4RguypABt2MaCPcUnr46SRMWw**Activity6: Write a program to the find distance between two points on x, y plane
-100958701170817825695**2021-05-19T03:09:05.649Z**items/14z_OvN_SCLK9cbsKjG4RguypABt2MaCPcUnr46SRMWw**Activity6: Write a program to the find distance between two points on x, y plane
-111659988813798349870**2021-05-19T02:59:10.611Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
-111659988813798349870**2021-05-19T02:56:09.612Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
-111659988813798349870**2021-05-19T02:53:07.865Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-19T00:06:20.681Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-19T00:03:19.075Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T18:42:27.189Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T18:40:09.977Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-118098156811418864586**2021-05-18T18:35:35.652Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T18:23:37.876Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T18:21:55.043Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T18:20:36.930Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-115150883899438888798**2021-05-18T18:18:06.179Z**items/19bmxFJ66sg1wzzRQ5ckHkh-badhy5WF-pHkb3ymHmjU**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T18:17:35.006Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-115150883899438888798**2021-05-18T18:15:04.997Z**items/19bmxFJ66sg1wzzRQ5ckHkh-badhy5WF-pHkb3ymHmjU**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T18:04:04.356Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T18:01:02.660Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-18T17:40:03.205Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-18T17:37:01.504Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T17:35:10.482Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-100944041182625260784**2021-05-18T17:34:31.636Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T17:33:00.578Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T17:32:20.503Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T17:32:08.776Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-100615148994865213831**2021-05-18T17:31:59.420Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
-100944041182625260784**2021-05-18T17:31:29.894Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T17:29:59.033Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-100615148994865213831**2021-05-18T17:28:57.801Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T17:27:19.997Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-100944041182625260784**2021-05-18T17:25:09.114Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
-100944041182625260784**2021-05-18T17:22:07.351Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T17:18:27.413Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-112523253080171685198**2021-05-18T17:16:30.945Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
-108778725352955589414**2021-05-18T17:15:25.538Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
-100944041182625260784**2021-05-18T16:58:44.997Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T16:57:58.474Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-100944041182625260784**2021-05-18T16:55:43.447Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T16:54:56.575Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-18T16:53:55.024Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T16:53:33.732Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-18T16:50:52.582Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-108419192795627718524**2021-05-18T16:49:38.280Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T16:46:14.362Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T16:43:12.983Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:41:29.362Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-101498952965069350969**2021-05-18T16:40:38.822Z**items/1-HdLvjlD6L4G2gv4Q18xVP1-xxtbnZ_H0j_bBDBi4-Y**Activity6: Write a program to the find distance between two points on x, y plane
-101498952965069350969**2021-05-18T16:37:37.272Z**items/1-HdLvjlD6L4G2gv4Q18xVP1-xxtbnZ_H0j_bBDBi4-Y**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:32:27.772Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T16:29:48.897Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T16:28:18.192Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T16:24:55.381Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T16:21:54.580Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T16:18:53.843Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:18:21.805Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T16:15:52.244Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:15:20.961Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:12:19.951Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:09:19.028Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-117438915772244669467**2021-05-18T16:08:59.040Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T16:08:11.206Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T16:07:28.936Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-117438915772244669467**2021-05-18T16:05:57.348Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T16:05:09.236Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T16:04:44.314Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T16:03:59.841Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-118098156811418864586**2021-05-18T15:59:57.389Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-105973094874718102215**2021-05-18T15:59:42.505Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-118098156811418864586**2021-05-18T15:56:55.788Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-117438915772244669467**2021-05-18T15:54:41.027Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T15:51:47.246Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-117438915772244669467**2021-05-18T15:49:22.796Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T15:48:45.524Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:48:35.487Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:45:55.449Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:42:54.613Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T15:41:38.562Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:39:52.864Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T15:38:36.509Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:31:04.322Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-118409371345488704652**2021-05-18T15:29:59.940Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:28:53.496Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:28:03.452Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-117907881108971548646**2021-05-18T15:27:49.467Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T15:27:05.005Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-100305458731778042105**2021-05-18T15:25:41.016Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
-117907881108971548646**2021-05-18T15:25:10.842Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:25:02.435Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T15:24:42.144Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-100710844156938679048**2021-05-18T15:24:29.890Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:22:00.634Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T15:10:31.154Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T15:07:30.337Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T15:06:46.018Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T15:03:21.384Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T15:00:55.918Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T15:00:19.753Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T14:57:55.054Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T14:57:35.533Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T14:56:43.729Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T14:56:04.281Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T14:54:54.145Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T14:54:34.653Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T14:53:41.948Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T14:51:52.675Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T14:51:33.556Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:49:16.375Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111113360274677659432**2021-05-18T14:48:31.760Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:46:26.092Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:46:15.536Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:43:14.465Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:42:53.467Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-18T14:38:19.599Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T14:36:25.976Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-107229854942834973031**2021-05-18T14:35:17.636Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
-113585561475558191766**2021-05-18T14:34:53.749Z**items/1usNHulkKI8FrBLuV8tvB05qDDJZY0hzWRcckWa5Fc44**Activity6: Write a program to the find distance between two points on x, y plane
-117907881108971548646**2021-05-18T14:33:55.614Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:32:50.528Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-113585561475558191766**2021-05-18T14:31:52.357Z**items/1usNHulkKI8FrBLuV8tvB05qDDJZY0hzWRcckWa5Fc44**Activity6: Write a program to the find distance between two points on x, y plane
-117907881108971548646**2021-05-18T14:30:53.783Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T14:30:01.361Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:29:49.701Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-111251150643823088656**2021-05-18T14:29:38.741Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-18T14:27:03.296Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T14:26:47.943Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-109698859550477349673**2021-05-18T14:26:38.123Z**items/1zoNPNiZT6siERHyN7XH836660uPoT6dSBhx11Jzks2w**Activity6: Write a program to the find distance between two points on x, y plane
-111251150643823088656**2021-05-18T14:24:54.200Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T14:24:18.225Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-109698859550477349673**2021-05-18T14:23:36.315Z**items/1zoNPNiZT6siERHyN7XH836660uPoT6dSBhx11Jzks2w**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-18T14:23:12.016Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T14:21:17.375Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-107777274283114884163**2021-05-18T14:21:17.159Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T14:21:10.048Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T14:18:25.921Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T14:17:15.013Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-100971033081129754525**2021-05-18T14:14:12.953Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
-111251150643823088656**2021-05-18T14:12:05.736Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
-105973094874718102215**2021-05-18T14:08:51.188Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-107777274283114884163**2021-05-18T14:07:18.367Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-18T14:07:14.800Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-108419192795627718524**2021-05-18T14:06:25.730Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
-108419192795627718524**2021-05-18T14:06:09.848Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
-105973094874718102215**2021-05-18T14:06:05.339Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T14:06:05.054Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-102161508227940611963**2021-05-18T14:05:45.987Z**items/13CqF8pgNyyizxnTb92-DfFL4YX1yTinaXcQHloNVDWg**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T14:04:43.452Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-107777274283114884163**2021-05-18T14:04:16.718Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
-102439080975878416416**2021-05-18T14:04:13.206Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-18T14:03:48.860Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T14:03:04.006Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T14:02:44.633Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-102161508227940611963**2021-05-18T14:02:44.266Z**items/13CqF8pgNyyizxnTb92-DfFL4YX1yTinaXcQHloNVDWg**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T14:01:42.679Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-18T14:00:02.943Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-113969374514279502537**2021-05-18T13:59:31.167Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T13:58:36.323Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-115498508418767010640**2021-05-18T13:56:21.301Z**items/1WKRYjUEbOUUbB6ZKwIO5tTvUbfnIrA6ZjmmGodmkj84**Activity6: Write a program to the find distance between two points on x, y plane
-111097322564731073500**2021-05-18T13:55:34.762Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
-115498508418767010640**2021-05-18T13:53:19.463Z**items/1WKRYjUEbOUUbB6ZKwIO5tTvUbfnIrA6ZjmmGodmkj84**Activity6: Write a program to the find distance between two points on x, y plane
-107561476941516001225**2021-05-18T13:50:52.006Z**items/1Te6VD8Ufc4VQoS_PRtCMC7s25uGOW6Jiedod4fKC6zs**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T13:50:15.575Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T13:49:37.272Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-107561476941516001225**2021-05-18T13:47:50.485Z**items/1Te6VD8Ufc4VQoS_PRtCMC7s25uGOW6Jiedod4fKC6zs**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T13:47:21.143Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-111251150643823088656**2021-05-18T13:46:40.754Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T13:46:35.648Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-111251150643823088656**2021-05-18T13:43:39.767Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:42:43.957Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-111251150643823088656**2021-05-18T13:40:37.952Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:39:42.326Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-107777274283114884163**2021-05-18T13:36:31.398Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
-107777274283114884163**2021-05-18T13:33:29.710Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T13:33:19.372Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T13:33:10.923Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T13:31:05.225Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-116567405683626505547**2021-05-18T13:30:17.737Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
-105675849446201636725**2021-05-18T13:28:03.730Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
-101390634654303700532**2021-05-18T13:27:35.435Z**items/1JghPvoQIPQw5fVlYACRfshvdQJfzOrKEuwliM5N3yHk**Activity6: Write a program to the find distance between two points on x, y plane
-101498952965069350969**2021-05-18T13:26:59.250Z**items/1-HdLvjlD6L4G2gv4Q18xVP1-xxtbnZ_H0j_bBDBi4-Y**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T13:26:32.151Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-101098476570750841195**2021-05-18T13:25:45.977Z**items/1Eso6qgOriPK0gePIxtrdEjg7Ut7q2VCqGGsVUpHeNlQ**Activity6: Write a program to the find distance between two points on x, y plane
-101098476570750841195**2021-05-18T13:24:35.439Z**items/1Eso6qgOriPK0gePIxtrdEjg7Ut7q2VCqGGsVUpHeNlQ**Activity6: Write a program to the find distance between two points on x, y plane
-102261080886468435211**2021-05-18T13:24:05.150Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
-101098476570750841195**2021-05-18T13:23:06.623Z**items/1Eso6qgOriPK0gePIxtrdEjg7Ut7q2VCqGGsVUpHeNlQ**Activity6: Write a program to the find distance between two points on x, y plane
-109835665188063634607**2021-05-18T13:22:46.906Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T13:22:00.917Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-110104030210863542056**2021-05-18T13:21:28.338Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
-109835665188063634607**2021-05-18T13:19:45.959Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
-101390634654303700532**2021-05-18T13:19:09.057Z**items/1JghPvoQIPQw5fVlYACRfshvdQJfzOrKEuwliM5N3yHk**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:19:05.795Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-109044651938605325064**2021-05-18T13:18:59.309Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
-110104030210863542056**2021-05-18T13:18:27.107Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
-105385542175717598574**2021-05-18T13:18:11.765Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
-101390634654303700532**2021-05-18T13:16:07.582Z**items/1JghPvoQIPQw5fVlYACRfshvdQJfzOrKEuwliM5N3yHk**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:16:04.827Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-105385542175717598574**2021-05-18T13:15:10.954Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
-109835665188063634607**2021-05-18T13:13:35.004Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
-110104030210863542056**2021-05-18T13:13:23.601Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
-112591413034360385001**2021-05-18T13:12:24.270Z**items/1YUcMKLoPxBW7JsE3qQQcJmPtN5Uqw_PoZx-rR13rINY**Activity6: Write a program to the find distance between two points on x, y plane
-105385542175717598574**2021-05-18T13:10:35.246Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
-110104030210863542056**2021-05-18T13:10:22.282Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:09:46.445Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-112591413034360385001**2021-05-18T13:09:22.536Z**items/1YUcMKLoPxBW7JsE3qQQcJmPtN5Uqw_PoZx-rR13rINY**Activity6: Write a program to the find distance between two points on x, y plane
-105385542175717598574**2021-05-18T13:07:34.468Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:06:45.634Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-105385542175717598574**2021-05-18T13:04:33.618Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:03:44.758Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-106044258723601509861**2021-05-18T13:03:09.085Z**items/1c25X4ChuXoxY3Ye7IoF4-uMmm4csXHTZa8OUERxfDAE**Activity6: Write a program to the find distance between two points on x, y plane
-113615119773979848724**2021-05-18T13:02:37.423Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
-113338395036525037997**2021-05-18T13:02:23.371Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
-108684693828397214862**2021-05-18T13:01:45.686Z**items/12y4vBamwPIziyKR2_gvdQ1NwkqT2qh6eZXm1rrJCXq4**Activity6: Write a program to the find distance between two points on x, y plane
-110104030210863542056**2021-05-18T13:01:39.357Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
-105385542175717598574**2021-05-18T13:01:31.938Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
 108049304266886881329**2021-07-06T08:54:06.911Z**items/1q9iIEzzA7XSewkdc_AvxP6CrZFCdbxaMxMaHe4EwRsw**Activity7: Write a program to find simple interest given Principal, Rate of Interest and Time.
 105339126856403768995**2021-06-23T12:50:10.994Z**items/1MAromwENaS5Dhh4NZAC76DXq3ZUIUUYcO5jEc_pLIX8**Activity7: Write a program to find simple interest given Principal, Rate of Interest and Time.
 105339126856403768995**2021-06-23T12:47:09.950Z**items/1MAromwENaS5Dhh4NZAC76DXq3ZUIUUYcO5jEc_pLIX8**Activity7: Write a program to find simple interest given Principal, Rate of Interest and Time.
@@ -3140,6 +2804,344 @@
 102439080975878416416**2021-05-18T13:00:26.620Z**items/1Tau8FLCLtAvJhStCPYeETou-_nzq0F1QGuVTK6P9k0w**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
 117907881108971548646**2021-05-18T12:59:16.540Z**items/1em0JHHUQ5cbe0oe7r5OUCnqC_u75VFFdvWKMKSxdPlQ**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
 117907881108971548646**2021-05-18T12:56:14.959Z**items/1em0JHHUQ5cbe0oe7r5OUCnqC_u75VFFdvWKMKSxdPlQ**Activity5: Write a program to calculate the distance given intial velocity, acceleration and time.
+105339126856403768995**2021-06-22T13:59:33.561Z**items/1RFEeqSS-VvAr8NhvIwlVJpk6j0w_xU8HfwS2ELRkyj0**Activity6: Write a program to the find distance between two points on x, y plane
+105339126856403768995**2021-06-22T13:56:32.132Z**items/1RFEeqSS-VvAr8NhvIwlVJpk6j0w_xU8HfwS2ELRkyj0**Activity6: Write a program to the find distance between two points on x, y plane
+102784182922943120077**2021-06-16T04:08:37.373Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
+107561476941516001225**2021-06-11T02:06:11.381Z**items/1Te6VD8Ufc4VQoS_PRtCMC7s25uGOW6Jiedod4fKC6zs**Activity6: Write a program to the find distance between two points on x, y plane
+107842215556892103876**2021-06-07T15:03:48.726Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+107842215556892103876**2021-06-07T15:00:46.536Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+107842215556892103876**2021-06-07T13:44:38.798Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+107842215556892103876**2021-06-07T13:41:43.006Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+107842215556892103876**2021-06-07T13:41:37.897Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+107842215556892103876**2021-06-07T13:38:35.799Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+102641484502798472042**2021-06-07T13:13:43.017Z**items/1S43L-sSbH2TsedvUD7aHg5iLtdEclyT-1H-5KvxE2ks**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-31T13:43:41.518Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-31T13:41:09.771Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-31T13:40:39.810Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-26T13:32:51.125Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-26T13:29:48.998Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-26T12:54:23.119Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-26T12:51:29.794Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-25T16:40:37.592Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-25T16:37:36.305Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+113410947269055369028**2021-05-25T13:21:54.229Z**items/14jt8UIqco-iTBt_s3IVvvgwGDrgtgnCMJV7Jq5FpuwI**Activity6: Write a program to the find distance between two points on x, y plane
+104561109117013086102**2021-05-23T14:47:39.518Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
+104561109117013086102**2021-05-23T14:44:38.781Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
+104561109117013086102**2021-05-23T14:41:17.678Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
+104561109117013086102**2021-05-23T14:38:39.762Z**items/12_IblXyrGNT1zNI75IPfAUhziveaS7cGBjRsXhZz4oM**Activity6: Write a program to the find distance between two points on x, y plane
+113236281388571858144**2021-05-23T12:00:57.344Z**items/1gTMDcOrXiP8Dmh06Q0l5swyJ_fqqaTyKtxn0z82Jlh0**Activity6: Write a program to the find distance between two points on x, y plane
+113236281388571858144**2021-05-23T11:57:55.506Z**items/1gTMDcOrXiP8Dmh06Q0l5swyJ_fqqaTyKtxn0z82Jlh0**Activity6: Write a program to the find distance between two points on x, y plane
+111395749801805737134**2021-05-23T09:09:38.188Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
+111395749801805737134**2021-05-23T09:06:37.476Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
+111395749801805737134**2021-05-23T09:03:35.994Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
+100615148994865213831**2021-05-23T08:47:50.814Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
+100615148994865213831**2021-05-23T08:44:49.406Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
+111395749801805737134**2021-05-23T04:53:23.761Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
+111395749801805737134**2021-05-23T04:51:54.635Z**items/1ywKDO3kSLyC_PTxkusE6f5TT11tIh1KzF9A2ZIoYEas**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-21T14:06:27.333Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-21T14:03:26.354Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-21T13:56:09.131Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-21T13:49:10.852Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+108551453120033327406**2021-05-21T13:47:48.913Z**items/1yr3nw1oEGed-UxCwS_HhvfIFEBKzssQy1s9Nt3jpq9w**Activity6: Write a program to the find distance between two points on x, y plane
+107819134971406838825**2021-05-21T13:41:16.588Z**items/16O1g0Ns0FGVw820zs5_sWk98Wh36o2JyT8FxRW6ondM**Activity6: Write a program to the find distance between two points on x, y plane
+107819134971406838825**2021-05-21T13:39:43.873Z**items/16O1g0Ns0FGVw820zs5_sWk98Wh36o2JyT8FxRW6ondM**Activity6: Write a program to the find distance between two points on x, y plane
+102019472241138721808**2021-05-21T10:06:37.280Z**items/1M5ZmxqCkS815CqHXKe9YH7l5kmvE-3KTO38-nTcaFNE**Activity6: Write a program to the find distance between two points on x, y plane
+102019472241138721808**2021-05-21T10:03:36.001Z**items/1M5ZmxqCkS815CqHXKe9YH7l5kmvE-3KTO38-nTcaFNE**Activity6: Write a program to the find distance between two points on x, y plane
+102019472241138721808**2021-05-21T09:53:27.764Z**items/1M5ZmxqCkS815CqHXKe9YH7l5kmvE-3KTO38-nTcaFNE**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-21T01:03:23.684Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-21T01:00:22.981Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-21T00:57:21.882Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-21T00:54:20.983Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-21T00:31:41.290Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+116387061330410417130**2021-05-20T17:17:07.193Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
+116387061330410417130**2021-05-20T17:14:06.070Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
+116387061330410417130**2021-05-20T17:01:29.224Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
+116387061330410417130**2021-05-20T16:59:51.435Z**items/1qXlJ_OeceoQXcKUHjGdrbTDvyTgYRmV49itq-x91KxE**Activity6: Write a program to the find distance between two points on x, y plane
+104695427811925328313**2021-05-20T14:10:18.176Z**items/1fIBjdu9USy0pXs-qz80Rh0Z5OXSC5muq3sHb2AJW2pw**Activity6: Write a program to the find distance between two points on x, y plane
+104695427811925328313**2021-05-20T14:07:17.422Z**items/1fIBjdu9USy0pXs-qz80Rh0Z5OXSC5muq3sHb2AJW2pw**Activity6: Write a program to the find distance between two points on x, y plane
+104695427811925328313**2021-05-20T14:04:43.065Z**items/1fIBjdu9USy0pXs-qz80Rh0Z5OXSC5muq3sHb2AJW2pw**Activity6: Write a program to the find distance between two points on x, y plane
+118409371345488704652**2021-05-20T03:42:11.370Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+118409371345488704652**2021-05-20T03:39:09.772Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-20T01:33:51.541Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-20T00:11:29.821Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-20T00:08:27.631Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+102784182922943120077**2021-05-19T15:42:21.995Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
+102784182922943120077**2021-05-19T15:39:21.242Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-19T15:37:37.153Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+102784182922943120077**2021-05-19T15:36:19.998Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
+102967145538899663138**2021-05-19T14:06:44.079Z**items/1pzcJ5xaqanG-Mr3cjabEAx6h3xmfyEBpzoC9nwm1tvM**Activity6: Write a program to the find distance between two points on x, y plane
+102967145538899663138**2021-05-19T14:03:43.349Z**items/1pzcJ5xaqanG-Mr3cjabEAx6h3xmfyEBpzoC9nwm1tvM**Activity6: Write a program to the find distance between two points on x, y plane
+102784182922943120077**2021-05-19T14:01:06.774Z**items/1nXQVC2LeSaJvpMEsz3xJKxmM2OZfo0R5OMO4TNqE_uw**Activity6: Write a program to the find distance between two points on x, y plane
+102967145538899663138**2021-05-19T14:00:42.161Z**items/1pzcJ5xaqanG-Mr3cjabEAx6h3xmfyEBpzoC9nwm1tvM**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-19T13:23:23.526Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-19T13:21:55.510Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-19T12:21:13.409Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-19T12:18:12.013Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-19T12:15:03.570Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-19T12:12:15.380Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+108419192795627718524**2021-05-19T11:38:42.828Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-19T09:21:02.058Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T08:39:09.742Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T08:36:08.050Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+100305458731778042105**2021-05-19T08:28:52.647Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
+100305458731778042105**2021-05-19T08:25:50.987Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-19T07:52:22.262Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+100799166992958723744**2021-05-19T07:50:18.768Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+100305458731778042105**2021-05-19T07:47:50.469Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
+100799166992958723744**2021-05-19T07:47:44.605Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+100305458731778042105**2021-05-19T07:44:48.757Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
+104074153226926058345**2021-05-19T07:33:58.147Z**items/1cA0j1pOa03BhoSKSqb-ZpRcPe4xaTpLEFnt7jMa2If0**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-19T07:31:01.145Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+104074153226926058345**2021-05-19T07:30:56.738Z**items/1cA0j1pOa03BhoSKSqb-ZpRcPe4xaTpLEFnt7jMa2If0**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-19T07:28:04.911Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+118409371345488704652**2021-05-19T07:18:34.090Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+100958701170817825695**2021-05-19T06:58:26.532Z**items/14z_OvN_SCLK9cbsKjG4RguypABt2MaCPcUnr46SRMWw**Activity6: Write a program to the find distance between two points on x, y plane
+105973094874718102215**2021-05-19T06:57:55.175Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
+111659988813798349870**2021-05-19T06:55:04.135Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
+111659988813798349870**2021-05-19T06:54:41.202Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
+118274374766322243767**2021-05-19T06:39:38.567Z**items/1yAYJBsARCo5XxF2u2SCVldUoBQJ4aIkFh1DN6wqGszI**Activity6: Write a program to the find distance between two points on x, y plane
+118274374766322243767**2021-05-19T06:35:22.281Z**items/1yAYJBsARCo5XxF2u2SCVldUoBQJ4aIkFh1DN6wqGszI**Activity6: Write a program to the find distance between two points on x, y plane
+118274374766322243767**2021-05-19T06:32:13.190Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
+118274374766322243767**2021-05-19T06:29:45.501Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-19T05:33:24.357Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-19T05:30:22.627Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T05:17:46.424Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T05:15:26.133Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T05:14:45.616Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T05:11:43.916Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+103173313764043917405**2021-05-19T05:05:37.942Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
+103173313764043917405**2021-05-19T05:02:36.883Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
+103173313764043917405**2021-05-19T04:59:36.259Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
+100799166992958723744**2021-05-19T04:58:34.411Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+103173313764043917405**2021-05-19T04:56:34.924Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
+118409371345488704652**2021-05-19T04:55:58.553Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+118409371345488704652**2021-05-19T04:55:32.630Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+106190260249225410197**2021-05-19T04:44:26.322Z**items/1CeeMrQvXv8upS19QCf_yAIlSM2KL93Y4DgYs3dv7KUs**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-19T04:38:53.889Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-19T04:37:41.034Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+112321766685739799454**2021-05-19T04:31:32.541Z**items/1eFvOZM91QwmtCZNuUMUjF64kwbgQnhSiKIam3zgcmH0**Activity6: Write a program to the find distance between two points on x, y plane
+112321766685739799454**2021-05-19T04:28:31.057Z**items/1eFvOZM91QwmtCZNuUMUjF64kwbgQnhSiKIam3zgcmH0**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-19T04:14:27.357Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-19T04:11:25.745Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+103173313764043917405**2021-05-19T04:00:08.405Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
+103173313764043917405**2021-05-19T03:57:07.022Z**items/1oe5CTKQehe_yQ50tAZiLlLgpYNX3Zu7aCCdg9pudklU**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-19T03:42:16.333Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-19T03:39:14.347Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+118274374766322243767**2021-05-19T03:25:23.659Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
+118274374766322243767**2021-05-19T03:23:29.043Z**items/1THGbULB2C4eTIYlFDa5d0el0cnQvY86JRA5HHlGt6mQ**Activity6: Write a program to the find distance between two points on x, y plane
+100958701170817825695**2021-05-19T03:12:06.971Z**items/14z_OvN_SCLK9cbsKjG4RguypABt2MaCPcUnr46SRMWw**Activity6: Write a program to the find distance between two points on x, y plane
+100958701170817825695**2021-05-19T03:09:05.649Z**items/14z_OvN_SCLK9cbsKjG4RguypABt2MaCPcUnr46SRMWw**Activity6: Write a program to the find distance between two points on x, y plane
+111659988813798349870**2021-05-19T02:59:10.611Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
+111659988813798349870**2021-05-19T02:56:09.612Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
+111659988813798349870**2021-05-19T02:53:07.865Z**items/13VJ1mQ2cAwiSimnM8Nc5OXhdAdne4JQrL7ESe43aicQ**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-19T00:06:20.681Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-19T00:03:19.075Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T18:42:27.189Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T18:40:09.977Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+118098156811418864586**2021-05-18T18:35:35.652Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T18:23:37.876Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T18:21:55.043Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T18:20:36.930Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+115150883899438888798**2021-05-18T18:18:06.179Z**items/19bmxFJ66sg1wzzRQ5ckHkh-badhy5WF-pHkb3ymHmjU**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T18:17:35.006Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+115150883899438888798**2021-05-18T18:15:04.997Z**items/19bmxFJ66sg1wzzRQ5ckHkh-badhy5WF-pHkb3ymHmjU**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T18:04:04.356Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T18:01:02.660Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-18T17:40:03.205Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-18T17:37:01.504Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T17:35:10.482Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+100944041182625260784**2021-05-18T17:34:31.636Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T17:33:00.578Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T17:32:20.503Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T17:32:08.776Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+100615148994865213831**2021-05-18T17:31:59.420Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
+100944041182625260784**2021-05-18T17:31:29.894Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T17:29:59.033Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+100615148994865213831**2021-05-18T17:28:57.801Z**items/1GMV0QEMlEOlRr8wwdrvQ_hJBanmOxy7GZ4e6XvjzJ2k**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T17:27:19.997Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+100944041182625260784**2021-05-18T17:25:09.114Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
+100944041182625260784**2021-05-18T17:22:07.351Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T17:18:27.413Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+112523253080171685198**2021-05-18T17:16:30.945Z**items/1LEbrIz0GpWFGgYfyIws0mRnG4udDSp5NnTFdbUXzO6c**Activity6: Write a program to the find distance between two points on x, y plane
+108778725352955589414**2021-05-18T17:15:25.538Z**items/1l_yEvtkdV1x_GRkSUevPUaZV50yiz77HL4YxwLH4q6Y**Activity6: Write a program to the find distance between two points on x, y plane
+100944041182625260784**2021-05-18T16:58:44.997Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T16:57:58.474Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+100944041182625260784**2021-05-18T16:55:43.447Z**items/1UniC6OGInrbWgaQ2-X_rU0vucZhII5PtcsNHsWazz2M**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T16:54:56.575Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-18T16:53:55.024Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T16:53:33.732Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-18T16:50:52.582Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+108419192795627718524**2021-05-18T16:49:38.280Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T16:46:14.362Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T16:43:12.983Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:41:29.362Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+101498952965069350969**2021-05-18T16:40:38.822Z**items/1-HdLvjlD6L4G2gv4Q18xVP1-xxtbnZ_H0j_bBDBi4-Y**Activity6: Write a program to the find distance between two points on x, y plane
+101498952965069350969**2021-05-18T16:37:37.272Z**items/1-HdLvjlD6L4G2gv4Q18xVP1-xxtbnZ_H0j_bBDBi4-Y**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:32:27.772Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T16:29:48.897Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T16:28:18.192Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T16:24:55.381Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T16:21:54.580Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T16:18:53.843Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:18:21.805Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T16:15:52.244Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:15:20.961Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:12:19.951Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:09:19.028Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+117438915772244669467**2021-05-18T16:08:59.040Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T16:08:11.206Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T16:07:28.936Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+117438915772244669467**2021-05-18T16:05:57.348Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T16:05:09.236Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T16:04:44.314Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T16:03:59.841Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+118098156811418864586**2021-05-18T15:59:57.389Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+105973094874718102215**2021-05-18T15:59:42.505Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+118098156811418864586**2021-05-18T15:56:55.788Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+117438915772244669467**2021-05-18T15:54:41.027Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T15:51:47.246Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+117438915772244669467**2021-05-18T15:49:22.796Z**items/1KzicJ9WlR8dU6nC8wClQcHNsFyRlNjotlGwykf9BokY**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T15:48:45.524Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:48:35.487Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:45:55.449Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:42:54.613Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T15:41:38.562Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:39:52.864Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T15:38:36.509Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:31:04.322Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+118409371345488704652**2021-05-18T15:29:59.940Z**items/1HzGQ_n5F4zGXLNggaPCcEpRZq4VSpkNW2tauELwSC9o**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:28:53.496Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:28:03.452Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+117907881108971548646**2021-05-18T15:27:49.467Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T15:27:05.005Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+100305458731778042105**2021-05-18T15:25:41.016Z**items/18oC0F14pbB7Dl6OJlj0s-Mpq06PjYxyrdOJgODBzk-E**Activity6: Write a program to the find distance between two points on x, y plane
+117907881108971548646**2021-05-18T15:25:10.842Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:25:02.435Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T15:24:42.144Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+100710844156938679048**2021-05-18T15:24:29.890Z**items/14JIP7JAlnQhCO9c_3N8eS590fO4vNvjD4p4Awxa_LlA**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:22:00.634Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T15:10:31.154Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T15:07:30.337Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T15:06:46.018Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T15:03:21.384Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T15:00:55.918Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T15:00:19.753Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T14:57:55.054Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T14:57:35.533Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T14:56:43.729Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T14:56:04.281Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T14:54:54.145Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T14:54:34.653Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T14:53:41.948Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T14:51:52.675Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T14:51:33.556Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:49:16.375Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111113360274677659432**2021-05-18T14:48:31.760Z**items/1thAEfPi24PLhOZNMijmabtU_W5I0kbnFolVvKh3fdI4**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:46:26.092Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:46:15.536Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:43:14.465Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:42:53.467Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-18T14:38:19.599Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T14:36:25.976Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+107229854942834973031**2021-05-18T14:35:17.636Z**items/1_CMI0xA-PjH8uungD8P2R2FS565dMXVw1NT8RLs2ckA**Activity6: Write a program to the find distance between two points on x, y plane
+113585561475558191766**2021-05-18T14:34:53.749Z**items/1usNHulkKI8FrBLuV8tvB05qDDJZY0hzWRcckWa5Fc44**Activity6: Write a program to the find distance between two points on x, y plane
+117907881108971548646**2021-05-18T14:33:55.614Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:32:50.528Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+113585561475558191766**2021-05-18T14:31:52.357Z**items/1usNHulkKI8FrBLuV8tvB05qDDJZY0hzWRcckWa5Fc44**Activity6: Write a program to the find distance between two points on x, y plane
+117907881108971548646**2021-05-18T14:30:53.783Z**items/1ulnhlF1XaIQlAaZSUo4blQskFEevhn-7sT9iQRnKE18**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T14:30:01.361Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:29:49.701Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+111251150643823088656**2021-05-18T14:29:38.741Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-18T14:27:03.296Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T14:26:47.943Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+109698859550477349673**2021-05-18T14:26:38.123Z**items/1zoNPNiZT6siERHyN7XH836660uPoT6dSBhx11Jzks2w**Activity6: Write a program to the find distance between two points on x, y plane
+111251150643823088656**2021-05-18T14:24:54.200Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T14:24:18.225Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+109698859550477349673**2021-05-18T14:23:36.315Z**items/1zoNPNiZT6siERHyN7XH836660uPoT6dSBhx11Jzks2w**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-18T14:23:12.016Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T14:21:17.375Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+107777274283114884163**2021-05-18T14:21:17.159Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T14:21:10.048Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T14:18:25.921Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T14:17:15.013Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+100971033081129754525**2021-05-18T14:14:12.953Z**items/15Ln_nwro33pd2hQ7Z1oWRPYtoTBgFvh1dM7yuuCyYa4**Activity6: Write a program to the find distance between two points on x, y plane
+111251150643823088656**2021-05-18T14:12:05.736Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
+105973094874718102215**2021-05-18T14:08:51.188Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+107777274283114884163**2021-05-18T14:07:18.367Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-18T14:07:14.800Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+108419192795627718524**2021-05-18T14:06:25.730Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
+108419192795627718524**2021-05-18T14:06:09.848Z**items/1IiqaDrQ2cw9_pzxnsMxZesmB2aiXDYVGXx_WOeYWfvM**Activity6: Write a program to the find distance between two points on x, y plane
+105973094874718102215**2021-05-18T14:06:05.339Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T14:06:05.054Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+102161508227940611963**2021-05-18T14:05:45.987Z**items/13CqF8pgNyyizxnTb92-DfFL4YX1yTinaXcQHloNVDWg**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T14:04:43.452Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+107777274283114884163**2021-05-18T14:04:16.718Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
+102439080975878416416**2021-05-18T14:04:13.206Z**items/1-53FeAjVw6LtjvLidBO4o2HLoKI3BJ0etuq4Jh6hckw**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-18T14:03:48.860Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T14:03:04.006Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T14:02:44.633Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+102161508227940611963**2021-05-18T14:02:44.266Z**items/13CqF8pgNyyizxnTb92-DfFL4YX1yTinaXcQHloNVDWg**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T14:01:42.679Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-18T14:00:02.943Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+113969374514279502537**2021-05-18T13:59:31.167Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T13:58:36.323Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+115498508418767010640**2021-05-18T13:56:21.301Z**items/1WKRYjUEbOUUbB6ZKwIO5tTvUbfnIrA6ZjmmGodmkj84**Activity6: Write a program to the find distance between two points on x, y plane
+111097322564731073500**2021-05-18T13:55:34.762Z**items/1L1DA_y5uB43BlY3CAGRzq7_mH7z6ScN1PapmcZW_5ME**Activity6: Write a program to the find distance between two points on x, y plane
+115498508418767010640**2021-05-18T13:53:19.463Z**items/1WKRYjUEbOUUbB6ZKwIO5tTvUbfnIrA6ZjmmGodmkj84**Activity6: Write a program to the find distance between two points on x, y plane
+107561476941516001225**2021-05-18T13:50:52.006Z**items/1Te6VD8Ufc4VQoS_PRtCMC7s25uGOW6Jiedod4fKC6zs**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T13:50:15.575Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T13:49:37.272Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+107561476941516001225**2021-05-18T13:47:50.485Z**items/1Te6VD8Ufc4VQoS_PRtCMC7s25uGOW6Jiedod4fKC6zs**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T13:47:21.143Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+111251150643823088656**2021-05-18T13:46:40.754Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T13:46:35.648Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+111251150643823088656**2021-05-18T13:43:39.767Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:42:43.957Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+111251150643823088656**2021-05-18T13:40:37.952Z**items/1absyY6jVb8HsoGTHgrxyLh59q_ESHjVjI7atYhuNoZY**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:39:42.326Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+107777274283114884163**2021-05-18T13:36:31.398Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
+107777274283114884163**2021-05-18T13:33:29.710Z**items/10YtQvMlEJ5zvDVeyTZjMnckI4ZelPAjY5iJ4ubzkPkA**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T13:33:19.372Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T13:33:10.923Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T13:31:05.225Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+116567405683626505547**2021-05-18T13:30:17.737Z**items/1w7n6ZbZiu81CENv75F3MFYCD4EQ3WKBcBF8SoZ6lDSU**Activity6: Write a program to the find distance between two points on x, y plane
+105675849446201636725**2021-05-18T13:28:03.730Z**items/1gx1TKI-KGpP5fp_nxswfApu9HNCO6cZUsgyCDmph9Uc**Activity6: Write a program to the find distance between two points on x, y plane
+101390634654303700532**2021-05-18T13:27:35.435Z**items/1JghPvoQIPQw5fVlYACRfshvdQJfzOrKEuwliM5N3yHk**Activity6: Write a program to the find distance between two points on x, y plane
+101498952965069350969**2021-05-18T13:26:59.250Z**items/1-HdLvjlD6L4G2gv4Q18xVP1-xxtbnZ_H0j_bBDBi4-Y**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T13:26:32.151Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+101098476570750841195**2021-05-18T13:25:45.977Z**items/1Eso6qgOriPK0gePIxtrdEjg7Ut7q2VCqGGsVUpHeNlQ**Activity6: Write a program to the find distance between two points on x, y plane
+101098476570750841195**2021-05-18T13:24:35.439Z**items/1Eso6qgOriPK0gePIxtrdEjg7Ut7q2VCqGGsVUpHeNlQ**Activity6: Write a program to the find distance between two points on x, y plane
+102261080886468435211**2021-05-18T13:24:05.150Z**items/1BpA02_E_O4SXbtXytEVLb7ZeYDDsCCzyM4klMthJDcs**Activity6: Write a program to the find distance between two points on x, y plane
+101098476570750841195**2021-05-18T13:23:06.623Z**items/1Eso6qgOriPK0gePIxtrdEjg7Ut7q2VCqGGsVUpHeNlQ**Activity6: Write a program to the find distance between two points on x, y plane
+109835665188063634607**2021-05-18T13:22:46.906Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T13:22:00.917Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+110104030210863542056**2021-05-18T13:21:28.338Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
+109835665188063634607**2021-05-18T13:19:45.959Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
+101390634654303700532**2021-05-18T13:19:09.057Z**items/1JghPvoQIPQw5fVlYACRfshvdQJfzOrKEuwliM5N3yHk**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:19:05.795Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+109044651938605325064**2021-05-18T13:18:59.309Z**items/1PfnrHa1dqXsVp2IxyWSsmwCgapArbNwVOlC37h9Rngk**Activity6: Write a program to the find distance between two points on x, y plane
+110104030210863542056**2021-05-18T13:18:27.107Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
+105385542175717598574**2021-05-18T13:18:11.765Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
+101390634654303700532**2021-05-18T13:16:07.582Z**items/1JghPvoQIPQw5fVlYACRfshvdQJfzOrKEuwliM5N3yHk**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:16:04.827Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+105385542175717598574**2021-05-18T13:15:10.954Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
+109835665188063634607**2021-05-18T13:13:35.004Z**items/1lkZut3v5UNs17X6NQje36Ymp5aR3Uu4Qaip0YGf4_78**Activity6: Write a program to the find distance between two points on x, y plane
+110104030210863542056**2021-05-18T13:13:23.601Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
+112591413034360385001**2021-05-18T13:12:24.270Z**items/1YUcMKLoPxBW7JsE3qQQcJmPtN5Uqw_PoZx-rR13rINY**Activity6: Write a program to the find distance between two points on x, y plane
+105385542175717598574**2021-05-18T13:10:35.246Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
+110104030210863542056**2021-05-18T13:10:22.282Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:09:46.445Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+112591413034360385001**2021-05-18T13:09:22.536Z**items/1YUcMKLoPxBW7JsE3qQQcJmPtN5Uqw_PoZx-rR13rINY**Activity6: Write a program to the find distance between two points on x, y plane
+105385542175717598574**2021-05-18T13:07:34.468Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:06:45.634Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+105385542175717598574**2021-05-18T13:04:33.618Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:03:44.758Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+106044258723601509861**2021-05-18T13:03:09.085Z**items/1c25X4ChuXoxY3Ye7IoF4-uMmm4csXHTZa8OUERxfDAE**Activity6: Write a program to the find distance between two points on x, y plane
+113615119773979848724**2021-05-18T13:02:37.423Z**items/1fB8pNssFZCTZbAwqCLRcpmHbCzkzWdrrFX8pTXfnfYM**Activity6: Write a program to the find distance between two points on x, y plane
+113338395036525037997**2021-05-18T13:02:23.371Z**items/1Y9ZlxaHjNzylufvw2rlXZ7-X67RNcg1IqwXn_XOVoYo**Activity6: Write a program to the find distance between two points on x, y plane
+108684693828397214862**2021-05-18T13:01:45.686Z**items/12y4vBamwPIziyKR2_gvdQ1NwkqT2qh6eZXm1rrJCXq4**Activity6: Write a program to the find distance between two points on x, y plane
+110104030210863542056**2021-05-18T13:01:39.357Z**items/1Ot_wsxQNiOnzgl-FT2bzWp2HPosqiGHzWBRjfPjtNHI**Activity6: Write a program to the find distance between two points on x, y plane
+105385542175717598574**2021-05-18T13:01:31.938Z**items/1yT-YIVektFjDYXTtZEjgQixJiO5HA8xZWa5hy9zJQio**Activity6: Write a program to the find distance between two points on x, y plane
 105385542175717598574**2021-07-09T04:56:41.251Z**items/1XZrxvLEdKi14-wsvPGmCkYnb5WXkA-9FDslOLM6-V1g**Activity4: Write a program to calculate the area of a triangle
 105385542175717598574**2021-07-09T04:54:46.836Z**items/1XZrxvLEdKi14-wsvPGmCkYnb5WXkA-9FDslOLM6-V1g**Activity4: Write a program to calculate the area of a triangle
 116567405683626505547**2021-06-28T15:11:51.293Z**items/1LaYBeB0je3qEvjT7nTcvuvsPAcLKXWNaflf6uNjP3Vg**Activity4: Write a program to calculate the area of a triangle

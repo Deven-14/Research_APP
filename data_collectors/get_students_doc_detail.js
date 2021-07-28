@@ -129,8 +129,8 @@ function listDriveActivity(auth) {
         if(list[1] !== "null")
             name += "_"+list[1]
     console.log(name)
-    if(fs.existsSync(`../data_files/${name}/Activities.csv`)){
-    var lrs2 = new lineReaderSync(`../data_files/${name}/Activities.csv`);
+    if(fs.existsSync(`../data_files/${name}/Activities.txt`)){
+    var lrs2 = new lineReaderSync(`../data_files/${name}/Activities.txt`);
     while (true) {
       var line1 = lrs2.readline();
       if (line1 == null) break;

@@ -15,6 +15,14 @@
 103271694592282740332**2021-07-26T06:50:06.572Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T06:47:06.051Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T06:44:05.027Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-28T03:59:59.267Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:56:58.609Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:53:57.972Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:50:57.228Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:47:56.499Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:44:55.879Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:41:55.122Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-28T03:38:53.879Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 101312145065749030854**2021-07-19T18:25:06.012Z**items/1L7g34PlW_XhV7koS_cvJdyIKB-FJwgHcrfLKa-EKpb8**test 3
 117219781815841279160**2021-07-19T18:23:56.271Z**items/1bGxDwaEci3OuryBp7mji9gP2CxZot5ZUrctx4PA1kpk**test 3
 101312145065749030854**2021-07-19T18:22:05.051Z**items/1L7g34PlW_XhV7koS_cvJdyIKB-FJwgHcrfLKa-EKpb8**test 3
@@ -203,6 +211,9 @@
 102776244482264404862**2021-07-19T12:27:59.073Z**items/161ixEE0xkHf-4-aIfvWayz5Ezn6p1uQfkwSyAq8IK-I**test 3
 102776244482264404862**2021-07-19T12:24:57.762Z**items/161ixEE0xkHf-4-aIfvWayz5Ezn6p1uQfkwSyAq8IK-I**test 3
 105691286974033758655**2021-07-19T12:13:31.878Z**items/1m3mafAhf0qCFfRkm47DR1dc8Q9T0bzHDT7wcv9wcsfY**test 3
+114358039271179138153**2021-07-28T04:03:39.947Z**items/1FjjR6Os5rkdygUZ22rzZG0b4kLtPwkhYlAdefKC50AQ**Activity34: Write a program using four functions to determine if a number is prime or not.
+114358039271179138153**2021-07-28T04:02:24.026Z**items/1FjjR6Os5rkdygUZ22rzZG0b4kLtPwkhYlAdefKC50AQ**Activity34: Write a program using four functions to determine if a number is prime or not.
+114358039271179138153**2021-07-28T04:00:38.453Z**items/1FjjR6Os5rkdygUZ22rzZG0b4kLtPwkhYlAdefKC50AQ**Activity34: Write a program using four functions to determine if a number is prime or not.
 108329508105302652542**2021-07-27T06:10:17.439Z**items/1i35TpO3tGlbXjsT6cH4_l7Pmu1jJRu6n28EZrbXe_Fo**Activity34: Write a program using four functions to determine if a number is prime or not.
 108329508105302652542**2021-07-27T06:07:16.636Z**items/1i35TpO3tGlbXjsT6cH4_l7Pmu1jJRu6n28EZrbXe_Fo**Activity34: Write a program using four functions to determine if a number is prime or not.
 108329508105302652542**2021-07-27T06:02:18.830Z**items/1i35TpO3tGlbXjsT6cH4_l7Pmu1jJRu6n28EZrbXe_Fo**Activity34: Write a program using four functions to determine if a number is prime or not.
@@ -224,6 +235,12 @@
 103271694592282740332**2021-07-20T07:50:08.530Z**items/1VFDzW8dnTx8KsW3fyhP2F9-2UcTzwurKEWTtJRB18Dc**Activity34: Write a program using four functions to determine if a number is prime or not.
 102776244482264404862**2021-07-20T05:40:39.171Z**items/1V8V5u1kflO4K3YmJXHleTcnPTnYrIbzG7TlYSiXA6kg**Activity34: Write a program using four functions to determine if a number is prime or not.
 102776244482264404862**2021-07-20T05:37:37.809Z**items/1V8V5u1kflO4K3YmJXHleTcnPTnYrIbzG7TlYSiXA6kg**Activity34: Write a program using four functions to determine if a number is prime or not.
+103271694592282740332**2021-07-28T05:09:04.646Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
+103271694592282740332**2021-07-28T05:06:03.867Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
+103271694592282740332**2021-07-28T04:58:15.827Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
+103271694592282740332**2021-07-28T04:55:15.042Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
+103271694592282740332**2021-07-28T04:48:38.358Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
+103271694592282740332**2021-07-28T04:45:37.018Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
 101312145065749030854**2021-07-27T07:42:51.331Z**items/1VSuMNNnzb-swpeff0W_jG2_tzYx3C8bmbu49B0GCze8**Activity33: Write a  function to calculate the GCD of two numbers.
 100314075131639786780**2021-07-26T16:34:47.547Z**items/1yQ9bHiULAwLT1J69Bi1MIy0j3XtI60fg4XJKT4n6TaU**Activity33: Write a  function to calculate the GCD of two numbers.
 100314075131639786780**2021-07-26T16:31:46.061Z**items/1yQ9bHiULAwLT1J69Bi1MIy0j3XtI60fg4XJKT4n6TaU**Activity33: Write a  function to calculate the GCD of two numbers.
@@ -718,6 +735,8 @@
 103271694592282740332**2021-07-16T05:17:13.620Z**items/11NZtp3Sj-grDxLuaB_04eJxnsZyDWHyW94LJDJHCZ00**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 103271694592282740332**2021-07-16T05:14:12.391Z**items/11NZtp3Sj-grDxLuaB_04eJxnsZyDWHyW94LJDJHCZ00**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101369868465963170627**2021-07-12T08:17:28.282Z**items/1Uzm0YEjBMR26B561Nb2b4ytPXIm97ABb-qkMdRS6rw8**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+103271694592282740332**2021-07-28T04:02:49.822Z**items/1Ybt6GQV4iOpI3ZByncdxho1094pzpat2JzjiyGXjDRk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+103271694592282740332**2021-07-28T03:59:48.487Z**items/1Ybt6GQV4iOpI3ZByncdxho1094pzpat2JzjiyGXjDRk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 108329508105302652542**2021-07-27T04:10:54.534Z**items/1xe3HJjWIzlWHKG4YuYpKMFpiEy92onjFfB4n3L16mNU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 108329508105302652542**2021-07-27T04:07:53.651Z**items/1xe3HJjWIzlWHKG4YuYpKMFpiEy92onjFfB4n3L16mNU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 108329508105302652542**2021-07-27T04:04:52.118Z**items/1xe3HJjWIzlWHKG4YuYpKMFpiEy92onjFfB4n3L16mNU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.

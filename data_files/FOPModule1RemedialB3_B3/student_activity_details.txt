@@ -457,6 +457,9 @@
 106958114136328098449**2021-07-15T12:31:00.339Z**items/1N6hCAe6sSdKj5sW78aO-uNpoqrEvdich09XQw3S-j2I**test 2
 106958114136328098449**2021-07-15T12:27:58.700Z**items/1N6hCAe6sSdKj5sW78aO-uNpoqrEvdich09XQw3S-j2I**test 2
 104777064007502973414**2021-07-15T11:24:26.202Z**items/1G46cD_wCXdCURRSz3VnB_Zs9oDibbU5YtdeuPpkel1Q**test 2
+104777064007502973414**2021-07-27T16:53:03.327Z**items/1o4l5kOyy2ctUiAPWkB_bZysiOOSbBgJo751YvSYA_t0**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+104777064007502973414**2021-07-27T16:50:01.811Z**items/1o4l5kOyy2ctUiAPWkB_bZysiOOSbBgJo751YvSYA_t0**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+104777064007502973414**2021-07-27T16:41:39.227Z**items/1o4l5kOyy2ctUiAPWkB_bZysiOOSbBgJo751YvSYA_t0**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 106958114136328098449**2021-07-27T09:18:15.195Z**items/1WCBaXXUwc_AJnIyyE8_kONg4G7yoybTrSmOKxkXrSWQ**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 106958114136328098449**2021-07-27T09:15:13.505Z**items/1WCBaXXUwc_AJnIyyE8_kONg4G7yoybTrSmOKxkXrSWQ**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 106958114136328098449**2021-07-27T09:04:14.494Z**items/1WCBaXXUwc_AJnIyyE8_kONg4G7yoybTrSmOKxkXrSWQ**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
@@ -626,6 +629,8 @@
 104777064007502973414**2021-07-12T11:31:28.848Z**items/1eKGuVaEOeNgR0Hu-HfOAIQBP4KnkPOMDlImtbpR-p64**Test
 104777064007502973414**2021-07-12T11:28:28.014Z**items/1eKGuVaEOeNgR0Hu-HfOAIQBP4KnkPOMDlImtbpR-p64**Test
 104777064007502973414**2021-07-12T11:25:26.580Z**items/1eKGuVaEOeNgR0Hu-HfOAIQBP4KnkPOMDlImtbpR-p64**Test
+104777064007502973414**2021-07-27T16:47:14.982Z**items/1Pwv2uZy7gOOCEignLE2JonGtVtlnfxuMh7sNGzUVXbY**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+104777064007502973414**2021-07-27T16:44:13.408Z**items/1Pwv2uZy7gOOCEignLE2JonGtVtlnfxuMh7sNGzUVXbY**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 106958114136328098449**2021-07-27T05:00:50.283Z**items/1BCdTmb-AN-Qs1D1p8DW-w2ROguoleYtiXzwmNFrf3jY**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 104695427811925328313**2021-07-27T04:57:56.708Z**items/1YZP8CKjAkKpr7-ytFV2PoWsDJNo0xOkQEjGINTy8Bcg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 106958114136328098449**2021-07-27T04:57:49.335Z**items/1BCdTmb-AN-Qs1D1p8DW-w2ROguoleYtiXzwmNFrf3jY**Activity20: Write a program using four functions to distinguish between vowels and consonants.
@@ -1063,44 +1068,6 @@
 101141639339137477336**2021-07-01T04:25:51.247Z**items/1Henzyncn4BmqnBPe6M3XzkutTSCKSPZmU3PjRExflEw**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 101141639339137477336**2021-07-01T04:22:50.405Z**items/1Henzyncn4BmqnBPe6M3XzkutTSCKSPZmU3PjRExflEw**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 101141639339137477336**2021-07-01T04:19:49.012Z**items/1Henzyncn4BmqnBPe6M3XzkutTSCKSPZmU3PjRExflEw**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
-111808588770635156861**2021-07-09T08:57:25.718Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-111808588770635156861**2021-07-09T08:54:45.210Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-111808588770635156861**2021-07-09T08:25:13.198Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-117553120242379632200**2021-07-09T08:10:36.913Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
-117553120242379632200**2021-07-09T08:07:34.919Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
-113074985464479285391**2021-07-09T07:53:42.593Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
-113074985464479285391**2021-07-09T07:51:05.510Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
-113074985464479285391**2021-07-09T07:50:41.943Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
-113074985464479285391**2021-07-09T07:50:41.576Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T05:09:50.378Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T05:06:49.480Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T04:49:54.599Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T04:46:53.717Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T04:26:27.408Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T04:23:26.037Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101141639339137477336**2021-07-08T04:09:47.890Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
-101028632089556179000**2021-07-08T03:45:33.911Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
-101028632089556179000**2021-07-08T03:29:00.506Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
-101028632089556179000**2021-07-08T03:25:59.743Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
-101028632089556179000**2021-07-08T03:23:34.647Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
-101050175857484736674**2021-07-07T14:33:29.701Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
-101050175857484736674**2021-07-07T14:30:28.302Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
-104777064007502973414**2021-07-07T14:00:51.625Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-104777064007502973414**2021-07-07T13:57:50.184Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-106958114136328098449**2021-07-07T13:55:33.949Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
-106958114136328098449**2021-07-07T13:52:33.209Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
-106958114136328098449**2021-07-07T13:49:32.504Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
-106958114136328098449**2021-07-07T13:44:12.550Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
-106958114136328098449**2021-07-07T13:42:12.899Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
-104777064007502973414**2021-07-07T13:24:01.611Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-104777064007502973414**2021-07-07T13:21:00.477Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
-104695427811925328313**2021-07-07T07:33:13.679Z**items/182d2wbl9aRSBqjmWcZnFx6m-DvPC1rg5EAzEp-OIj_A**Activity13: Write a program to find largest two numbers using four functions
-104695427811925328313**2021-07-07T05:15:12.942Z**items/182d2wbl9aRSBqjmWcZnFx6m-DvPC1rg5EAzEp-OIj_A**Activity13: Write a program to find largest two numbers using four functions
-104695427811925328313**2021-07-07T05:12:34.825Z**items/182d2wbl9aRSBqjmWcZnFx6m-DvPC1rg5EAzEp-OIj_A**Activity13: Write a program to find largest two numbers using four functions
-117553120242379632200**2021-07-06T16:27:23.605Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
-101050175857484736674**2021-07-06T16:09:45.131Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
-101050175857484736674**2021-07-06T16:07:03.253Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
-117553120242379632200**2021-07-06T16:04:32.826Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
 101390634654303700532**2021-07-09T05:22:51.756Z**items/1aRGtVJVPzKsGE9gb3oLkYCmiEl7h3yt_7y6RBWOoHeM**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 101390634654303700532**2021-07-09T05:19:50.075Z**items/1aRGtVJVPzKsGE9gb3oLkYCmiEl7h3yt_7y6RBWOoHeM**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 104777064007502973414**2021-07-08T14:29:06.501Z**items/1RAL88jWLH5-XdNRYXeJd89Vsh4DULrRFdOEXZN5LDUk**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
@@ -1182,6 +1149,44 @@
 106958114136328098449**2021-07-05T09:37:29.263Z**items/1soF5HiPhSvYM4EdvnohX6QzqlC6Bgu7ViipGLifYBbI**Activity11: Write a program to add two numbers using four functions and only pass by value
 106958114136328098449**2021-07-05T09:34:28.655Z**items/1soF5HiPhSvYM4EdvnohX6QzqlC6Bgu7ViipGLifYBbI**Activity11: Write a program to add two numbers using four functions and only pass by value
 106958114136328098449**2021-07-05T09:31:27.458Z**items/1soF5HiPhSvYM4EdvnohX6QzqlC6Bgu7ViipGLifYBbI**Activity11: Write a program to add two numbers using four functions and only pass by value
+111808588770635156861**2021-07-09T08:57:25.718Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+111808588770635156861**2021-07-09T08:54:45.210Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+111808588770635156861**2021-07-09T08:25:13.198Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+117553120242379632200**2021-07-09T08:10:36.913Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
+117553120242379632200**2021-07-09T08:07:34.919Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
+113074985464479285391**2021-07-09T07:53:42.593Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
+113074985464479285391**2021-07-09T07:51:05.510Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
+113074985464479285391**2021-07-09T07:50:41.943Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
+113074985464479285391**2021-07-09T07:50:41.576Z**items/1yqndWartGgjrutEyc6XLkv6TrpfavDdlThQJ9zIKHRo**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T05:09:50.378Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T05:06:49.480Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T04:49:54.599Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T04:46:53.717Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T04:26:27.408Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T04:23:26.037Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101141639339137477336**2021-07-08T04:09:47.890Z**items/1zyI6sRYRIj9q3N2o7PEU34s8L5jmvk9H69pmwQ6Tx48**Activity13: Write a program to find largest two numbers using four functions
+101028632089556179000**2021-07-08T03:45:33.911Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
+101028632089556179000**2021-07-08T03:29:00.506Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
+101028632089556179000**2021-07-08T03:25:59.743Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
+101028632089556179000**2021-07-08T03:23:34.647Z**items/1xbf8AQ4ZNzXEpZRlgEMz2-tkEUREJHtTGZljyhCYi6A**Activity13: Write a program to find largest two numbers using four functions
+101050175857484736674**2021-07-07T14:33:29.701Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
+101050175857484736674**2021-07-07T14:30:28.302Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
+104777064007502973414**2021-07-07T14:00:51.625Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+104777064007502973414**2021-07-07T13:57:50.184Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+106958114136328098449**2021-07-07T13:55:33.949Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
+106958114136328098449**2021-07-07T13:52:33.209Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
+106958114136328098449**2021-07-07T13:49:32.504Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
+106958114136328098449**2021-07-07T13:44:12.550Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
+106958114136328098449**2021-07-07T13:42:12.899Z**items/1h-AbqztvqBzsxbBF0M66bghhx4FjGmDDNgWIu2bPo8M**Activity13: Write a program to find largest two numbers using four functions
+104777064007502973414**2021-07-07T13:24:01.611Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+104777064007502973414**2021-07-07T13:21:00.477Z**items/1-My8npyYq71M-Y7UdqDDWmUpqJ-i_GTx_2AAP7Uaogw**Activity13: Write a program to find largest two numbers using four functions
+104695427811925328313**2021-07-07T07:33:13.679Z**items/182d2wbl9aRSBqjmWcZnFx6m-DvPC1rg5EAzEp-OIj_A**Activity13: Write a program to find largest two numbers using four functions
+104695427811925328313**2021-07-07T05:15:12.942Z**items/182d2wbl9aRSBqjmWcZnFx6m-DvPC1rg5EAzEp-OIj_A**Activity13: Write a program to find largest two numbers using four functions
+104695427811925328313**2021-07-07T05:12:34.825Z**items/182d2wbl9aRSBqjmWcZnFx6m-DvPC1rg5EAzEp-OIj_A**Activity13: Write a program to find largest two numbers using four functions
+117553120242379632200**2021-07-06T16:27:23.605Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
+101050175857484736674**2021-07-06T16:09:45.131Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
+101050175857484736674**2021-07-06T16:07:03.253Z**items/16HuitBLIJmNzagAAxEgsTOexMUpazimdH8qvtY-mFZU**Activity13: Write a program to find largest two numbers using four functions
+117553120242379632200**2021-07-06T16:04:32.826Z**items/1y9qeAAkMZ_sXuysy1QsCCFJePW3eYIL76OAWU8jtkso**Activity13: Write a program to find largest two numbers using four functions
 101064574492980814078**2021-07-08T04:24:49.877Z**items/1XysfL-vQ8So3Jlc-RX6RqefdGs98NlbPtZbvZOxCdP4**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 101064574492980814078**2021-07-08T04:21:48.079Z**items/1XysfL-vQ8So3Jlc-RX6RqefdGs98NlbPtZbvZOxCdP4**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.
 106378913668104041493**2021-07-07T03:09:12.157Z**items/1ngagZCn1Z0SNDtghzA2tyJ_y5KT2t90rYqWJ-bWdPI8**Activity10: Write a program to compute new clock time when you add time in hours and minutes to a given clock time in 24 hours clock.

@@ -102,7 +102,7 @@ do{
                         
                         
                           fs.writeFileSync( 
-                        `../data_files/${name}/Activities.csv`,
+                        `../data_files/${name}/Activities.txt`,
                         allFiles,
                         {encoding:'utf8',flag:'a'},
                         (err1) => {
