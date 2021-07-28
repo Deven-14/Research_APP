@@ -1,4 +1,7 @@
 116731512937443379380**2021-07-26T04:16:50.144Z**items/1DIgy5g3Eaf74l48BNUlZiPjDxNn20BH7gSFY1_MM10c**Activity54: Write a program using  functions to add 2 fractions.
+101639778504969097110**2021-07-27T15:09:20.068Z**items/1I3ciszphSoVLdLAgLf8LVU9VTL7soY2ztofGOnq2QpA**Activity53: Write a program using functions to calculate total distance given N points.
+101639778504969097110**2021-07-27T15:00:00.520Z**items/1I3ciszphSoVLdLAgLf8LVU9VTL7soY2ztofGOnq2QpA**Activity53: Write a program using functions to calculate total distance given N points.
+101639778504969097110**2021-07-27T14:56:59.179Z**items/1I3ciszphSoVLdLAgLf8LVU9VTL7soY2ztofGOnq2QpA**Activity53: Write a program using functions to calculate total distance given N points.
 105296133831147122427**2021-07-27T11:33:10.009Z**items/170PbJoO2ddKWhTM8aOCh4mi4JFUf-lDIhgnHirFdnFs**Activity53: Write a program using functions to calculate total distance given N points.
 105296133831147122427**2021-07-27T11:30:09.312Z**items/170PbJoO2ddKWhTM8aOCh4mi4JFUf-lDIhgnHirFdnFs**Activity53: Write a program using functions to calculate total distance given N points.
 105296133831147122427**2021-07-27T11:27:08.556Z**items/170PbJoO2ddKWhTM8aOCh4mi4JFUf-lDIhgnHirFdnFs**Activity53: Write a program using functions to calculate total distance given N points.

@@ -85,7 +85,7 @@ function getAllData(auth, allFiles, sname, ancestor_name, acname, page_Token) {
                 if (x == "personName"){
                   ppl_id = activity.actors[0].user.knownUser[x];
                   //console.log(ppl_id.slice(7)) 
-                  allFiles = `${ppl_id.slice(7)}**${activity.timestamp}**${name}**${acname}\n`;
+                  allFiles = `${ppl_id.slice(7)}**${activity.timestamp}**${name.trim()}**${acname}\n`;
                   console.log(allFiles)
                 fs.appendFileSync(
                 `../data_files/${sname.trim()}/student_activity_details.txt`,

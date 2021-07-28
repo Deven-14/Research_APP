@@ -1,3 +1,34 @@
+106985359778714727041**2021-07-27T09:56:49.645Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-27T09:53:48.679Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-27T09:45:25.084Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-27T09:42:23.363Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+108049304266886881329**2021-07-25T17:38:33.558Z**items/1mvp-gSNPlPpltQUrJyqqGZ_H0whKSJZ3lZmFMjwX3Jk**Activity47: Write a function to find the product of two matrices.
+108049304266886881329**2021-07-25T17:35:32.354Z**items/1mvp-gSNPlPpltQUrJyqqGZ_H0whKSJZ3lZmFMjwX3Jk**Activity47: Write a function to find the product of two matrices.
+100645481783836438495**2021-07-25T16:57:56.439Z**items/1zektnFrPppfzvh3CTXjxRrwiTb8lEA5x89_MUtaHawo**Activity47: Write a function to find the product of two matrices.
+100645481783836438495**2021-07-25T16:54:54.949Z**items/1zektnFrPppfzvh3CTXjxRrwiTb8lEA5x89_MUtaHawo**Activity47: Write a function to find the product of two matrices.
+103638926716785662823**2021-07-25T16:47:09.204Z**items/1ShJ53nJJj6iRTBpM3SQ6Mpr5buaAxNLT4qrt5bL0e7A**Activity47: Write a function to find the product of two matrices.
+103638926716785662823**2021-07-25T16:44:47.972Z**items/1ShJ53nJJj6iRTBpM3SQ6Mpr5buaAxNLT4qrt5bL0e7A**Activity47: Write a function to find the product of two matrices.
+106988626095811221876**2021-07-25T15:05:48.873Z**items/1nzd_rKayu9HC0PnfJr2kZU6s1Z9-LBdd4d21uuV6YoE**Activity47: Write a function to find the product of two matrices.
+106988626095811221876**2021-07-25T15:03:07.949Z**items/1nzd_rKayu9HC0PnfJr2kZU6s1Z9-LBdd4d21uuV6YoE**Activity47: Write a function to find the product of two matrices.
+113376986069027329354**2021-07-25T11:38:08.897Z**items/1GUmZTsBxnH_CIr6IBiVFkgk3teI4_IjCPheJ3j5dxOw**Activity47: Write a function to find the product of two matrices.
+113376986069027329354**2021-07-25T11:35:07.899Z**items/1GUmZTsBxnH_CIr6IBiVFkgk3teI4_IjCPheJ3j5dxOw**Activity47: Write a function to find the product of two matrices.
+113376986069027329354**2021-07-25T11:32:06.154Z**items/1GUmZTsBxnH_CIr6IBiVFkgk3teI4_IjCPheJ3j5dxOw**Activity47: Write a function to find the product of two matrices.
+105743575842297470316**2021-07-25T07:39:13.253Z**items/1TVSeu0FF4II8BrjEfcXRUg6hlJuy0i0PAJ5OdFN-X8Y**Activity47: Write a function to find the product of two matrices.
+105743575842297470316**2021-07-25T07:36:11.629Z**items/1TVSeu0FF4II8BrjEfcXRUg6hlJuy0i0PAJ5OdFN-X8Y**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-25T05:24:40.104Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-25T05:21:39.389Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-25T05:18:24.374Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+106985359778714727041**2021-07-25T05:15:23.227Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
+118274374766322243767**2021-07-24T17:08:51.811Z**items/1KWu5TLOVtRCMOJhdBJXEauVXqfXOiyT2QWnSi88T7Q0**Activity47: Write a function to find the product of two matrices.
+118274374766322243767**2021-07-24T17:05:48.583Z**items/1KWu5TLOVtRCMOJhdBJXEauVXqfXOiyT2QWnSi88T7Q0**Activity47: Write a function to find the product of two matrices.
+105743575842297470316**2021-07-27T14:36:04.329Z**items/1TofJdosZ9BSUuWQLfrcajDO9sAhEEXHLFjjQS_c_xzk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+100645481783836438495**2021-07-27T14:35:00.477Z**items/1_A3QtJgD80M2kKBHoYKAN9sIElP7Z4ivK0ZxwT4q6Sk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+105743575842297470316**2021-07-27T14:33:03.313Z**items/1TofJdosZ9BSUuWQLfrcajDO9sAhEEXHLFjjQS_c_xzk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+100645481783836438495**2021-07-27T14:31:59.557Z**items/1_A3QtJgD80M2kKBHoYKAN9sIElP7Z4ivK0ZxwT4q6Sk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+105743575842297470316**2021-07-27T14:30:01.619Z**items/1TofJdosZ9BSUuWQLfrcajDO9sAhEEXHLFjjQS_c_xzk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+100645481783836438495**2021-07-27T14:28:57.946Z**items/1_A3QtJgD80M2kKBHoYKAN9sIElP7Z4ivK0ZxwT4q6Sk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+113376986069027329354**2021-07-27T14:20:42.940Z**items/1yF8RSrepXr-JljT1xqEgXCgNzrp5xQsoD9N48Oa1L8k**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+113376986069027329354**2021-07-27T14:11:26.469Z**items/1yF8RSrepXr-JljT1xqEgXCgNzrp5xQsoD9N48Oa1L8k**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 103776080135644648989**2021-07-24T13:11:17.003Z**items/1XJf1q1JhpRQtvc8SqUA0V3pLKlbH0qJw0VmjqAyzjk8**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 103776080135644648989**2021-07-24T13:08:16.054Z**items/1XJf1q1JhpRQtvc8SqUA0V3pLKlbH0qJw0VmjqAyzjk8**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 103776080135644648989**2021-07-24T13:05:13.776Z**items/1XJf1q1JhpRQtvc8SqUA0V3pLKlbH0qJw0VmjqAyzjk8**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
@@ -92,29 +123,6 @@
 118274374766322243767**2021-07-07T04:34:04.572Z**items/1pQiv-g9FzjObnKcC874FddSIYugiaF3wvgL_vzgvBJ0**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 103135248441463966053**2021-06-26T03:39:17.239Z**items/147ccWGbQ92KHDgLfElGA1FCqFU7tHmEa2aVs_dpr5NA**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 106985359778714727041**2021-06-26T03:39:14.676Z**items/1Ec0Viln14-DzJSVcCVkPkcyixoh9qNOpR_PsJFSWOlU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
-106985359778714727041**2021-07-27T09:56:49.645Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-27T09:53:48.679Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-27T09:45:25.084Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-27T09:42:23.363Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-108049304266886881329**2021-07-25T17:38:33.558Z**items/1mvp-gSNPlPpltQUrJyqqGZ_H0whKSJZ3lZmFMjwX3Jk**Activity47: Write a function to find the product of two matrices.
-108049304266886881329**2021-07-25T17:35:32.354Z**items/1mvp-gSNPlPpltQUrJyqqGZ_H0whKSJZ3lZmFMjwX3Jk**Activity47: Write a function to find the product of two matrices.
-100645481783836438495**2021-07-25T16:57:56.439Z**items/1zektnFrPppfzvh3CTXjxRrwiTb8lEA5x89_MUtaHawo**Activity47: Write a function to find the product of two matrices.
-100645481783836438495**2021-07-25T16:54:54.949Z**items/1zektnFrPppfzvh3CTXjxRrwiTb8lEA5x89_MUtaHawo**Activity47: Write a function to find the product of two matrices.
-103638926716785662823**2021-07-25T16:47:09.204Z**items/1ShJ53nJJj6iRTBpM3SQ6Mpr5buaAxNLT4qrt5bL0e7A**Activity47: Write a function to find the product of two matrices.
-103638926716785662823**2021-07-25T16:44:47.972Z**items/1ShJ53nJJj6iRTBpM3SQ6Mpr5buaAxNLT4qrt5bL0e7A**Activity47: Write a function to find the product of two matrices.
-106988626095811221876**2021-07-25T15:05:48.873Z**items/1nzd_rKayu9HC0PnfJr2kZU6s1Z9-LBdd4d21uuV6YoE**Activity47: Write a function to find the product of two matrices.
-106988626095811221876**2021-07-25T15:03:07.949Z**items/1nzd_rKayu9HC0PnfJr2kZU6s1Z9-LBdd4d21uuV6YoE**Activity47: Write a function to find the product of two matrices.
-113376986069027329354**2021-07-25T11:38:08.897Z**items/1GUmZTsBxnH_CIr6IBiVFkgk3teI4_IjCPheJ3j5dxOw**Activity47: Write a function to find the product of two matrices.
-113376986069027329354**2021-07-25T11:35:07.899Z**items/1GUmZTsBxnH_CIr6IBiVFkgk3teI4_IjCPheJ3j5dxOw**Activity47: Write a function to find the product of two matrices.
-113376986069027329354**2021-07-25T11:32:06.154Z**items/1GUmZTsBxnH_CIr6IBiVFkgk3teI4_IjCPheJ3j5dxOw**Activity47: Write a function to find the product of two matrices.
-105743575842297470316**2021-07-25T07:39:13.253Z**items/1TVSeu0FF4II8BrjEfcXRUg6hlJuy0i0PAJ5OdFN-X8Y**Activity47: Write a function to find the product of two matrices.
-105743575842297470316**2021-07-25T07:36:11.629Z**items/1TVSeu0FF4II8BrjEfcXRUg6hlJuy0i0PAJ5OdFN-X8Y**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-25T05:24:40.104Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-25T05:21:39.389Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-25T05:18:24.374Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-106985359778714727041**2021-07-25T05:15:23.227Z**items/17fkj1YGqubcQXD6hLLgwUWjVkMfqxOydB7_3111vo1s**Activity47: Write a function to find the product of two matrices.
-118274374766322243767**2021-07-24T17:08:51.811Z**items/1KWu5TLOVtRCMOJhdBJXEauVXqfXOiyT2QWnSi88T7Q0**Activity47: Write a function to find the product of two matrices.
-118274374766322243767**2021-07-24T17:05:48.583Z**items/1KWu5TLOVtRCMOJhdBJXEauVXqfXOiyT2QWnSi88T7Q0**Activity47: Write a function to find the product of two matrices.
 102055259463454073307**2021-07-26T17:00:26.855Z**items/1CIVlTx1Il39tZe6BlRMrg1fbCpiKM1fVlvPPE8T0EhU**Activity53: Write a program using functions to calculate total distance given N points.
 100645481783836438495**2021-07-26T14:22:48.875Z**items/1x3Ri2X5bPbiwCAa_UunL2Nbk05LL6ULydDI3qqBaCFg**Activity53: Write a program using functions to calculate total distance given N points.
 100645481783836438495**2021-07-26T14:19:46.937Z**items/1x3Ri2X5bPbiwCAa_UunL2Nbk05LL6ULydDI3qqBaCFg**Activity53: Write a program using functions to calculate total distance given N points.
@@ -132,6 +140,12 @@
 105743575842297470316**2021-07-25T08:29:46.937Z**items/1clrw0nmPPA420_YuDULQKKsYc5aEkFwtJngeminVh1Y**Activity53: Write a program using functions to calculate total distance given N points.
 105743575842297470316**2021-07-25T08:26:45.413Z**items/1clrw0nmPPA420_YuDULQKKsYc5aEkFwtJngeminVh1Y**Activity53: Write a program using functions to calculate total distance given N points.
 104091961025398577682**2021-07-20T09:01:44.990Z**items/1yP35mI3OZppAnDtV1mksyCn_necnY5qpnFXKvIot-os**Activity53: Write a program using functions to calculate total distance given N points.
+106985359778714727041**2021-07-27T15:32:40.117Z**items/1dgZF-g2xey8GHbZY3PYOGboL-mA4OXE_umLtz9dpiUM**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
+106985359778714727041**2021-07-27T15:29:39.156Z**items/1dgZF-g2xey8GHbZY3PYOGboL-mA4OXE_umLtz9dpiUM**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
+106985359778714727041**2021-07-27T15:26:37.615Z**items/1dgZF-g2xey8GHbZY3PYOGboL-mA4OXE_umLtz9dpiUM**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
+106985359778714727041**2021-07-27T14:49:12.262Z**items/1dgZF-g2xey8GHbZY3PYOGboL-mA4OXE_umLtz9dpiUM**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
+106985359778714727041**2021-07-27T14:48:10.991Z**items/1dgZF-g2xey8GHbZY3PYOGboL-mA4OXE_umLtz9dpiUM**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
+106985359778714727041**2021-07-27T14:46:10.725Z**items/1dgZF-g2xey8GHbZY3PYOGboL-mA4OXE_umLtz9dpiUM**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
 113376986069027329354**2021-07-27T01:52:16.966Z**items/1ROJmWRmw3lX5iYdKiwMBDLDdtKfrc23y6wDuUGtlnzI**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
 113376986069027329354**2021-07-27T01:49:10.574Z**items/1ROJmWRmw3lX5iYdKiwMBDLDdtKfrc23y6wDuUGtlnzI**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
 106988626095811221876**2021-07-26T17:02:43.728Z**items/1PUgqkAqUssjqoy7CtWwn4pJ2MVdJg64pDpgpLNuQCtE**Activity60: Write a function to reverse a string and a function check if a string is a palindrome.
@@ -289,6 +303,10 @@
 106985359778714727041**2021-07-15T06:56:20.071Z**items/1a76WMv81GEeUFEc4EXU9R-XhnTij7qLxVTSQYMLfH08**Activity54: Write a program using  functions to add 2 fractions.
 106985359778714727041**2021-07-15T06:53:18.407Z**items/1a76WMv81GEeUFEc4EXU9R-XhnTij7qLxVTSQYMLfH08**Activity54: Write a program using  functions to add 2 fractions.
 102055259463454073307**2021-07-14T05:06:35.948Z**items/1Uw9yUW1GtlLxQVniP1yKyVQcLQr3zdEOpcBqAoaHV0o**Activity54: Write a program using  functions to add 2 fractions.
+106985359778714727041**2021-07-27T13:06:08.422Z**items/1QfgTs5Sm67BMM1xQQtnYVD6fAH0aYrpezYYcqY735lU**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+106985359778714727041**2021-07-27T13:03:07.659Z**items/1QfgTs5Sm67BMM1xQQtnYVD6fAH0aYrpezYYcqY735lU**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+106985359778714727041**2021-07-27T13:00:05.987Z**items/1QfgTs5Sm67BMM1xQQtnYVD6fAH0aYrpezYYcqY735lU**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+106985359778714727041**2021-07-27T12:54:43.140Z**items/1QfgTs5Sm67BMM1xQQtnYVD6fAH0aYrpezYYcqY735lU**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 113410947269055369028**2021-07-27T04:58:13.218Z**items/1Mo24kOFndFk981Soqp9JoLRvCADZTS5p7BMsetvrBgA**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 113410947269055369028**2021-07-27T04:55:11.556Z**items/1Mo24kOFndFk981Soqp9JoLRvCADZTS5p7BMsetvrBgA**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 113376986069027329354**2021-07-26T02:37:03.318Z**items/1zUM2kmLyE-dNTfmS9JxCUc6DSj6sC0z0GaDm4W97Kwg**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
@@ -468,6 +486,11 @@
 100645481783836438495**2021-07-20T10:11:22.308Z**items/10hlgnAmbngAc_yX7Ek1e1POykzPyU-fQZkUe4Ra1tCg**Activity48: Write a program to reverse the contents an array.
 106985359778714727041**2021-07-20T10:10:16.245Z**items/1bkKGVeMykOMoRfQWn1xWhRCgkVwTBFvMA6zrEPODTsU**Activity48: Write a program to reverse the contents an array.
 108049304266886881329**2021-07-20T10:09:46.416Z**items/1oGdEEjhTKt4KAwCvGaSdNxt5M2_jNlp38AuWWF79X8k**Activity48: Write a program to reverse the contents an array.
+106985359778714727041**2021-07-27T13:24:14.654Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
+106985359778714727041**2021-07-27T13:21:13.558Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
+106985359778714727041**2021-07-27T13:18:12.694Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
+106985359778714727041**2021-07-27T13:15:11.732Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
+106985359778714727041**2021-07-27T13:12:10.123Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
 106985359778714727041**2021-07-27T09:05:33.269Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
 106985359778714727041**2021-07-27T09:02:31.781Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
 106985359778714727041**2021-07-27T08:54:13.733Z**items/14ErDWN2tUFn0em9gmpK0FYqE1K0CEs8T2fhQm5VrL7E**Activity46: Write a program to add two matrices.
@@ -576,6 +599,10 @@
 106985359778714727041**2021-07-14T13:14:18.512Z**items/1ZDD5Zmov0It8fJ1tq8HE1WdaqKm5h5GOFoNSlOFHaNM**Activity44: Write a program to find the largest of N numbers.
 106985359778714727041**2021-07-14T13:11:17.615Z**items/1ZDD5Zmov0It8fJ1tq8HE1WdaqKm5h5GOFoNSlOFHaNM**Activity44: Write a program to find the largest of N numbers.
 106985359778714727041**2021-07-14T13:08:15.671Z**items/1ZDD5Zmov0It8fJ1tq8HE1WdaqKm5h5GOFoNSlOFHaNM**Activity44: Write a program to find the largest of N numbers.
+106985359778714727041**2021-07-27T13:54:08.393Z**items/1CllVpfegywSzg-xcYAKR_Mkdo3Soh9n9BhkIDhCYVKQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+106985359778714727041**2021-07-27T13:44:07.897Z**items/1CllVpfegywSzg-xcYAKR_Mkdo3Soh9n9BhkIDhCYVKQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+106985359778714727041**2021-07-27T13:36:56.458Z**items/1CllVpfegywSzg-xcYAKR_Mkdo3Soh9n9BhkIDhCYVKQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+106985359778714727041**2021-07-27T13:33:54.935Z**items/1CllVpfegywSzg-xcYAKR_Mkdo3Soh9n9BhkIDhCYVKQ**Activity43: Write a program to implement bubble sort on an array of numbers.
 106985359778714727041**2021-07-27T07:08:47.636Z**items/1CllVpfegywSzg-xcYAKR_Mkdo3Soh9n9BhkIDhCYVKQ**Activity43: Write a program to implement bubble sort on an array of numbers.
 104260180888582886623**2021-07-26T07:35:46.727Z**items/1VleiRV4E5NjpPRn9kW0sx5xEX5hF1xgmrlSBFga1co0**Activity43: Write a program to implement bubble sort on an array of numbers.
 104260180888582886623**2021-07-26T07:32:45.256Z**items/1VleiRV4E5NjpPRn9kW0sx5xEX5hF1xgmrlSBFga1co0**Activity43: Write a program to implement bubble sort on an array of numbers.
@@ -612,6 +639,11 @@
 103776080135644648989**2021-07-20T09:02:58.501Z**items/1YCTskE2sltn60mn1GrjAJ39M5nBJgP_z-7Ph4zEh0bo**Activity43: Write a program to implement bubble sort on an array of numbers.
 105743575842297470316**2021-07-20T09:02:52.799Z**items/1b6kMSeYgVmdw5ZPWVEAdfaqo9k8ofb2FdPBWBvhAmi0**Activity43: Write a program to implement bubble sort on an array of numbers.
 104091961025398577682**2021-07-20T09:02:28.169Z**items/1lxXfh3i2oPzk2SNWdgW-AsTStjpDXuyIf7iWeRyi8Go**Activity43: Write a program to implement bubble sort on an array of numbers.
+106985359778714727041**2021-07-27T14:01:54.572Z**items/1Um8HVH7Vt7oKGVAv-63rZMSZS1CWtV3AhAt4eswcFiQ**Activity42: Write a function to implement binary search for an array of numbers.
+106985359778714727041**2021-07-27T13:58:53.728Z**items/1Um8HVH7Vt7oKGVAv-63rZMSZS1CWtV3AhAt4eswcFiQ**Activity42: Write a function to implement binary search for an array of numbers.
+106985359778714727041**2021-07-27T13:55:52.967Z**items/1Um8HVH7Vt7oKGVAv-63rZMSZS1CWtV3AhAt4eswcFiQ**Activity42: Write a function to implement binary search for an array of numbers.
+106985359778714727041**2021-07-27T13:50:42.409Z**items/1Um8HVH7Vt7oKGVAv-63rZMSZS1CWtV3AhAt4eswcFiQ**Activity42: Write a function to implement binary search for an array of numbers.
+106985359778714727041**2021-07-27T13:47:40.877Z**items/1Um8HVH7Vt7oKGVAv-63rZMSZS1CWtV3AhAt4eswcFiQ**Activity42: Write a function to implement binary search for an array of numbers.
 106080857542553113880**2021-07-26T05:19:40.564Z**items/1I_Qe34RXTV3-Oj542Nlh9HriLYbE2YLLBORhZeKbuZE**Activity42: Write a function to implement binary search for an array of numbers.
 106080857542553113880**2021-07-26T05:16:39.121Z**items/1I_Qe34RXTV3-Oj542Nlh9HriLYbE2YLLBORhZeKbuZE**Activity42: Write a function to implement binary search for an array of numbers.
 116250509631771305329**2021-07-25T18:05:57.222Z**items/1PSsI44nHCM4xgXDORoB6A4kTTVMYAsi5ZLxwoWymj70**Activity42: Write a function to implement binary search for an array of numbers.
@@ -655,6 +687,9 @@
 118274374766322243767**2021-07-14T17:42:12.168Z**items/1VAzsspoPNrSJssSi0zj_g4fIhBjHgOa_GAMgeUvG46o**Activity42: Write a function to implement binary search for an array of numbers.
 118274374766322243767**2021-07-14T17:39:11.360Z**items/1VAzsspoPNrSJssSi0zj_g4fIhBjHgOa_GAMgeUvG46o**Activity42: Write a function to implement binary search for an array of numbers.
 118274374766322243767**2021-07-14T17:36:09.813Z**items/1VAzsspoPNrSJssSi0zj_g4fIhBjHgOa_GAMgeUvG46o**Activity42: Write a function to implement binary search for an array of numbers.
+106985359778714727041**2021-07-27T15:51:05.298Z**items/1kHjRWsshID1y0htSBMbuGeeiL1wpVEdt14gnoCIRiYo**Activity41: Write a program to implement linear search on an array of numbers.
+106985359778714727041**2021-07-27T15:48:04.324Z**items/1kHjRWsshID1y0htSBMbuGeeiL1wpVEdt14gnoCIRiYo**Activity41: Write a program to implement linear search on an array of numbers.
+106985359778714727041**2021-07-27T15:45:02.207Z**items/1kHjRWsshID1y0htSBMbuGeeiL1wpVEdt14gnoCIRiYo**Activity41: Write a program to implement linear search on an array of numbers.
 106080857542553113880**2021-07-26T04:50:38.166Z**items/1-BWFqVw0U70mn7hBqxWg5p5K0lEzU1e2OhUK9v44Ohk**Activity41: Write a program to implement linear search on an array of numbers.
 106080857542553113880**2021-07-26T04:47:37.375Z**items/1-BWFqVw0U70mn7hBqxWg5p5K0lEzU1e2OhUK9v44Ohk**Activity41: Write a program to implement linear search on an array of numbers.
 106080857542553113880**2021-07-26T04:44:35.975Z**items/1-BWFqVw0U70mn7hBqxWg5p5K0lEzU1e2OhUK9v44Ohk**Activity41: Write a program to implement linear search on an array of numbers.
@@ -719,6 +754,8 @@
 106985359778714727041**2021-07-14T05:21:39.725Z**items/1kHjRWsshID1y0htSBMbuGeeiL1wpVEdt14gnoCIRiYo**Activity41: Write a program to implement linear search on an array of numbers.
 106985359778714727041**2021-07-14T04:55:38.259Z**items/1kHjRWsshID1y0htSBMbuGeeiL1wpVEdt14gnoCIRiYo**Activity41: Write a program to implement linear search on an array of numbers.
 113101743910038972767**2021-07-13T16:24:47.788Z**items/12frOJ9EAeKWG3p8XgWrM5h6fwddWeNKcIs2_AmG7k48**Activity41: Write a program to implement linear search on an array of numbers.
+118274374766322243767**2021-07-27T12:46:56.874Z**items/1UONKUgX-ZvU8Nnu3B1cbFn5rDRTpNkFzvhSFmxpDPdM**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+118274374766322243767**2021-07-27T12:43:55.171Z**items/1UONKUgX-ZvU8Nnu3B1cbFn5rDRTpNkFzvhSFmxpDPdM**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
 113410947269055369028**2021-07-27T05:14:11.321Z**items/1nG7_I4bim_AOgmw4P4q2ACR06e9mJkNh9moRh9DXHV8**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
 113410947269055369028**2021-07-27T05:11:10.477Z**items/1nG7_I4bim_AOgmw4P4q2ACR06e9mJkNh9moRh9DXHV8**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
 113410947269055369028**2021-07-27T05:08:08.806Z**items/1nG7_I4bim_AOgmw4P4q2ACR06e9mJkNh9moRh9DXHV8**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
@@ -751,6 +788,10 @@
 105743575842297470316**2021-07-25T08:19:02.420Z**items/1W1uc_XkkfJy80h52u8H3L-3MOg82QCesIncQoLN9oSY**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
 106988626095811221876**2021-07-20T10:13:05.368Z**items/1HHgQcGNZO0RJzqJ91wPeFcPK_UTcScGPp0pclGtRd2E**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
 103638926716785662823**2021-07-20T10:12:29.817Z**items/11BRCCKqvA2AARozcAyrjpHjQzFFIa8f1GKe77DOMO5k**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+106985359778714727041**2021-07-27T12:53:35.801Z**items/1HO5DBhinP3vhQtQpIEM4kgY2hFmfM8Kwh8XloYy3tk0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+106985359778714727041**2021-07-27T12:50:34.727Z**items/1HO5DBhinP3vhQtQpIEM4kgY2hFmfM8Kwh8XloYy3tk0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+106985359778714727041**2021-07-27T12:46:47.768Z**items/1HO5DBhinP3vhQtQpIEM4kgY2hFmfM8Kwh8XloYy3tk0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+106985359778714727041**2021-07-27T12:43:45.744Z**items/1HO5DBhinP3vhQtQpIEM4kgY2hFmfM8Kwh8XloYy3tk0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 103638926716785662823**2021-07-25T17:02:54.990Z**items/12tboWycX0CctLCSTZNBScb93KPsJ-7_OvqXeButuaHc**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 103638926716785662823**2021-07-25T17:01:54.237Z**items/12tboWycX0CctLCSTZNBScb93KPsJ-7_OvqXeButuaHc**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 106985359778714727041**2021-07-25T16:34:29.693Z**items/1HO5DBhinP3vhQtQpIEM4kgY2hFmfM8Kwh8XloYy3tk0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
@@ -820,6 +861,8 @@
 106323272052136737365**2021-07-24T17:47:04.386Z**items/1ZUNhK3mr-xqa4CD6sY9hRta-JQMlLCjIqTPTWpNwv-Y**Activity34: Write a program using four functions to determine if a number is prime or not.
 106985359778714727041**2021-07-20T10:13:14.669Z**items/1iZt_c9MUN8hEg8DIRfZWTnt6z1u5JAindKjQ1aTP7b0**Activity34: Write a program using four functions to determine if a number is prime or not.
 109437476827769489108**2021-07-20T10:10:46.055Z**items/1a_34m0i965OQqXo_HKfdSgmzrLSk5J55Ak_hEtfvdns**Activity34: Write a program using four functions to determine if a number is prime or not.
+106323272052136737365**2021-07-27T16:19:28.834Z**items/11apGzDInIv6iRSZ9XAZ9_1f7daVFXOZVWkBsSapyxqw**Activity33: Write a  function to calculate the GCD of two numbers.
+106323272052136737365**2021-07-27T16:16:27.343Z**items/11apGzDInIv6iRSZ9XAZ9_1f7daVFXOZVWkBsSapyxqw**Activity33: Write a  function to calculate the GCD of two numbers.
 113342839407125825205**2021-07-27T11:30:24.874Z**items/1Isur4JSsyLnBrLEDjuRFUy9_6NNDKEICjp8WF4P1rZE**Activity33: Write a  function to calculate the GCD of two numbers.
 113342839407125825205**2021-07-27T11:27:23.919Z**items/1Isur4JSsyLnBrLEDjuRFUy9_6NNDKEICjp8WF4P1rZE**Activity33: Write a  function to calculate the GCD of two numbers.
 113342839407125825205**2021-07-27T11:24:22.178Z**items/1Isur4JSsyLnBrLEDjuRFUy9_6NNDKEICjp8WF4P1rZE**Activity33: Write a  function to calculate the GCD of two numbers.
@@ -980,6 +1023,10 @@
 106985359778714727041**2021-07-11T08:05:33.300Z**items/1Rnjk0PNAN92a65QNPBM0TgIkgb1SuB17mQSKsm_b0To**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 106323272052136737365**2021-07-10T17:07:03.686Z**items/150qM8mSKC_sRiBavTvt-p1PN86cVmCAygWHlJR-m2SE**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 108049304266886881329**2021-07-10T17:05:45.389Z**items/1JKls55nThK-P2csng6eD1Jeni80Y2M3ZvrrM-b4HFkA**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+100645481783836438495**2021-07-27T15:56:57.438Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+100645481783836438495**2021-07-27T15:53:56.602Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+100645481783836438495**2021-07-27T15:50:55.690Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+100645481783836438495**2021-07-27T15:47:54.187Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 100645481783836438495**2021-07-25T11:27:38.990Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 100645481783836438495**2021-07-25T11:24:38.343Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 100645481783836438495**2021-07-25T11:21:37.659Z**items/1Isi6CMKbuwqfoa-nxYzEfDmlFl2227x2npJQhS6audQ**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
@@ -1040,6 +1087,12 @@
 106985359778714727041**2021-07-11T07:44:35.231Z**items/1RuKGaXbWz8bmdpxzDP2ZvDpKHXrv0LFzW00-ssi7Dzk**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 113101743910038972767**2021-07-10T17:06:11.828Z**items/1k8ha3YO53sbC0LKwuX0dgpn6aGNVGumpkd5RPe1kbS4**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 103776080135644648989**2021-07-10T17:05:45.674Z**items/11_kiwhCOVxeGb_bhIoBQYiHC8zDYMRGNp6ViAh7_t8Q**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+100645481783836438495**2021-07-27T15:48:07.383Z**items/1XdUTQTLeKH2kRmu1h3OxmzVSsrvGil9gr-KvdAZx0pU**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+100645481783836438495**2021-07-27T15:45:06.299Z**items/1XdUTQTLeKH2kRmu1h3OxmzVSsrvGil9gr-KvdAZx0pU**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+100645481783836438495**2021-07-27T15:42:04.120Z**items/1XdUTQTLeKH2kRmu1h3OxmzVSsrvGil9gr-KvdAZx0pU**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+105743575842297470316**2021-07-27T15:25:54.759Z**items/1CVuk1OfduvoE0dozzFgxobxo4QvScL_k23oMYnI6Z7E**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+105743575842297470316**2021-07-27T14:51:03.453Z**items/1CVuk1OfduvoE0dozzFgxobxo4QvScL_k23oMYnI6Z7E**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+105743575842297470316**2021-07-27T14:48:01.542Z**items/1CVuk1OfduvoE0dozzFgxobxo4QvScL_k23oMYnI6Z7E**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 100645481783836438495**2021-07-25T11:17:31.166Z**items/1XdUTQTLeKH2kRmu1h3OxmzVSsrvGil9gr-KvdAZx0pU**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 100645481783836438495**2021-07-25T11:14:30.235Z**items/1XdUTQTLeKH2kRmu1h3OxmzVSsrvGil9gr-KvdAZx0pU**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 100645481783836438495**2021-07-25T11:11:29.399Z**items/1XdUTQTLeKH2kRmu1h3OxmzVSsrvGil9gr-KvdAZx0pU**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
@@ -1126,6 +1179,13 @@
 113101743910038972767**2021-07-10T17:04:41.978Z**items/1-5lKd3dFiGRKacmT7Gc6yV0_f4mfpTMFZ5WFE36JGjE**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 103638926716785662823**2021-07-10T17:04:10.721Z**items/1bxhHLvmdEMahHbqGKYJaj158xh5hcsSvGasqWL3j5p0**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 105743575842297470316**2021-07-10T17:04:00.010Z**items/1CVuk1OfduvoE0dozzFgxobxo4QvScL_k23oMYnI6Z7E**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+100645481783836438495**2021-07-27T15:40:43.680Z**items/1JCVwRVOdxHWd7WvwHvBRLv8XqxPexUHeFCRUtaJeicU**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+100645481783836438495**2021-07-27T15:37:43.035Z**items/1JCVwRVOdxHWd7WvwHvBRLv8XqxPexUHeFCRUtaJeicU**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+100645481783836438495**2021-07-27T15:34:42.397Z**items/1JCVwRVOdxHWd7WvwHvBRLv8XqxPexUHeFCRUtaJeicU**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+100645481783836438495**2021-07-27T15:31:41.060Z**items/1JCVwRVOdxHWd7WvwHvBRLv8XqxPexUHeFCRUtaJeicU**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+105743575842297470316**2021-07-27T14:48:06.561Z**items/19r7V8OBYCDkoZmt04Nv86_KBNYYHJNPdzp-NjyEua7I**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+105743575842297470316**2021-07-27T14:45:05.667Z**items/19r7V8OBYCDkoZmt04Nv86_KBNYYHJNPdzp-NjyEua7I**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+105743575842297470316**2021-07-27T14:42:13.621Z**items/19r7V8OBYCDkoZmt04Nv86_KBNYYHJNPdzp-NjyEua7I**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 105456670300511996834**2021-07-26T16:43:51.120Z**items/1GQ5A6DmNIYJoJXATk41xtnIC8p39gsDv**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 106096168181243169464**2021-07-25T08:07:40.380Z**items/1hD17CZo76Z6qY-9Xl0CuKq-892TFxUoEEt_nBPTpK-Q**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 100645481783836438495**2021-07-24T14:53:46.194Z**items/1JCVwRVOdxHWd7WvwHvBRLv8XqxPexUHeFCRUtaJeicU**Activity20: Write a program using four functions to distinguish between vowels and consonants.
@@ -1211,6 +1271,9 @@
 118274374766322243767**2021-07-10T15:22:28.235Z**items/1OY7cGv51C4I1Ai0A6xKj0daDarmXToBLHhzTl7xNA4c**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 106323272052136737365**2021-07-09T14:01:43.470Z**items/1LFO5u3SlQiaqFI3GSF_A_0oHBN1p_7pHBZEb4zgoNQ4**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 106323272052136737365**2021-07-09T13:58:41.624Z**items/1LFO5u3SlQiaqFI3GSF_A_0oHBN1p_7pHBZEb4zgoNQ4**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+105743575842297470316**2021-07-27T14:41:37.665Z**items/1BwVLaB9AoOvs-iGPmwk6H1b56n50qzxa9mtUgzwMXQU**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+105743575842297470316**2021-07-27T14:38:36.806Z**items/1BwVLaB9AoOvs-iGPmwk6H1b56n50qzxa9mtUgzwMXQU**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+105743575842297470316**2021-07-27T14:35:35.228Z**items/1BwVLaB9AoOvs-iGPmwk6H1b56n50qzxa9mtUgzwMXQU**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 105456670300511996834**2021-07-26T16:45:21.108Z**items/1GRgVtuIUSjt7NOIc68qBGG6U7ieqYjf9**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 105456670300511996834**2021-07-26T10:04:41.478Z**items/1EaXNTbGBJ4QoV6h_b5AoZv8-7-CviDEH**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 106096168181243169464**2021-07-25T08:03:55.368Z**items/1OSr9a5K_Y1GIfu5QiFq5qJP6Eieou1aIfYB6YtEBfKQ**Activity19: Write a program with four functions to determine if given year is a leap year or not.
@@ -1319,6 +1382,8 @@
 113376986069027329354**2021-07-07T09:27:26.943Z**items/1wiNvwENMtWh9i4Hgra7cnfDR4l-LKL30QHvPmz_REhI**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 113376986069027329354**2021-07-07T09:24:25.859Z**items/1wiNvwENMtWh9i4Hgra7cnfDR4l-LKL30QHvPmz_REhI**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 113376986069027329354**2021-07-07T09:21:23.923Z**items/1wiNvwENMtWh9i4Hgra7cnfDR4l-LKL30QHvPmz_REhI**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+100645481783836438495**2021-07-27T14:37:47.258Z**items/1KT9zxC8vZowxWxAbUrybN_FJvQygohonGbdzg7HZEyk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
+100645481783836438495**2021-07-27T14:34:45.463Z**items/1KT9zxC8vZowxWxAbUrybN_FJvQygohonGbdzg7HZEyk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 109437476827769489108**2021-07-27T11:19:03.157Z**items/16F5Ls1kVEb8XUJOOhzBVaxeh43zeMRYYsFnOKNYM3DM**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 109437476827769489108**2021-07-27T11:16:02.408Z**items/16F5Ls1kVEb8XUJOOhzBVaxeh43zeMRYYsFnOKNYM3DM**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 109437476827769489108**2021-07-27T11:13:01.650Z**items/16F5Ls1kVEb8XUJOOhzBVaxeh43zeMRYYsFnOKNYM3DM**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
@@ -1444,6 +1509,9 @@
 113410947269055369028**2021-07-04T05:00:09.971Z**items/1IbqvvUoKukOvUTSQGvbRPNRpQ5Dc0KggWer4uOY66yM**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 106323272052136737365**2021-07-02T15:18:28.509Z**items/1Lp9RJXP42bFpiiil7Yjg06xrpFjNU4abV4L03bGBuJg**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 106323272052136737365**2021-07-02T15:15:27.026Z**items/1Lp9RJXP42bFpiiil7Yjg06xrpFjNU4abV4L03bGBuJg**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
+100645481783836438495**2021-07-27T14:45:58.010Z**items/1BNjFsEcnE1dxYNpbnB927rA_OIlXz-mEOpHEK0yPO3w**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
+100645481783836438495**2021-07-27T14:42:57.027Z**items/1BNjFsEcnE1dxYNpbnB927rA_OIlXz-mEOpHEK0yPO3w**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
+100645481783836438495**2021-07-27T14:39:55.299Z**items/1BNjFsEcnE1dxYNpbnB927rA_OIlXz-mEOpHEK0yPO3w**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 109437476827769489108**2021-07-27T10:48:01.100Z**items/1RUCBvaIVRmF0l0VfgmYpZA4AJnSxH_InTca-ugCWgh4**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 109437476827769489108**2021-07-27T10:45:00.148Z**items/1RUCBvaIVRmF0l0VfgmYpZA4AJnSxH_InTca-ugCWgh4**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 109437476827769489108**2021-07-27T10:41:59.267Z**items/1RUCBvaIVRmF0l0VfgmYpZA4AJnSxH_InTca-ugCWgh4**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
@@ -1530,6 +1598,9 @@
 108049304266886881329**2021-07-02T06:11:16.784Z**items/1LO0_fKjl_3RCuix6-7gJxMHzzSUJUyQyZIY4Pcuc_m8**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 108049304266886881329**2021-07-02T06:08:16.106Z**items/1LO0_fKjl_3RCuix6-7gJxMHzzSUJUyQyZIY4Pcuc_m8**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 108049304266886881329**2021-07-02T06:05:14.688Z**items/1LO0_fKjl_3RCuix6-7gJxMHzzSUJUyQyZIY4Pcuc_m8**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
+100645481783836438495**2021-07-27T14:51:32.539Z**items/16TRGvLgytGgdh-7H2dy-2eqWCeGCEQufoV_jdgimqRE**Activity15: Write a program to find largest of three numbers using four functions and nested if else and no logical operators.
+100645481783836438495**2021-07-27T14:48:31.761Z**items/16TRGvLgytGgdh-7H2dy-2eqWCeGCEQufoV_jdgimqRE**Activity15: Write a program to find largest of three numbers using four functions and nested if else and no logical operators.
+100645481783836438495**2021-07-27T14:45:30.197Z**items/16TRGvLgytGgdh-7H2dy-2eqWCeGCEQufoV_jdgimqRE**Activity15: Write a program to find largest of three numbers using four functions and nested if else and no logical operators.
 105456670300511996834**2021-07-26T16:48:51.249Z**items/1GYporYCiDrvFwmhNoT7Gq4rZLnRhItMa**Activity15: Write a program to find largest of three numbers using four functions and nested if else and no logical operators.
 116889961519173526779**2021-07-26T11:13:23.200Z**items/1ptvRUWXvUHstna9KLvz6buIUDi_17G4VeZ_i91-91Js**Activity15: Write a program to find largest of three numbers using four functions and nested if else and no logical operators.
 116889961519173526779**2021-07-26T11:10:22.482Z**items/1ptvRUWXvUHstna9KLvz6buIUDi_17G4VeZ_i91-91Js**Activity15: Write a program to find largest of three numbers using four functions and nested if else and no logical operators.
@@ -3818,40 +3889,6 @@
 103135248441463966053**2021-06-16T06:45:30.578Z**items/1PCdoRmXtux5tedVBdPHAYdlbRzuWEsAvSgisTDKwnRM**Activity1: Write a program to print your name.
 103135248441463966053**2021-06-16T06:43:17.808Z**items/1PCdoRmXtux5tedVBdPHAYdlbRzuWEsAvSgisTDKwnRM**Activity1: Write a program to print your name.
 105743575842297470316**2021-06-16T06:42:48.026Z**items/1jTTSNrDQLNsHzePsFaUTUTz1dm7llIHRRTa7pZuvW2Y**Activity1: Write a program to print your name.
-106985359778714727041**2021-07-27T06:18:50.648Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-106985359778714727041**2021-07-19T13:52:04.783Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-106080857542553113880**2021-07-19T13:31:48.339Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106080857542553113880**2021-07-19T13:28:47.274Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106080857542553113880**2021-07-19T13:25:46.275Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106080857542553113880**2021-07-19T13:22:45.196Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106080857542553113880**2021-07-19T13:19:43.221Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106080857542553113880**2021-07-19T13:15:27.744Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106080857542553113880**2021-07-19T13:12:25.901Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-108049304266886881329**2021-07-19T13:08:21.212Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T13:05:20.301Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T13:02:19.606Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T12:57:19.735Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T12:54:18.910Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T12:51:18.130Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T12:48:17.381Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106985359778714727041**2021-07-19T12:45:52.250Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:45:16.686Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106985359778714727041**2021-07-19T12:42:51.258Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:42:15.997Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106985359778714727041**2021-07-19T12:39:50.276Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:39:15.323Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106985359778714727041**2021-07-19T12:36:49.180Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:36:14.591Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106080857542553113880**2021-07-19T12:35:42.854Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106985359778714727041**2021-07-19T12:33:48.280Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:33:13.893Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106080857542553113880**2021-07-19T12:32:40.865Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
-106985359778714727041**2021-07-19T12:30:47.389Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:30:13.134Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-106985359778714727041**2021-07-19T12:27:45.501Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
-108049304266886881329**2021-07-19T12:27:12.391Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-108049304266886881329**2021-07-19T12:24:10.936Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
-113101743910038972767**2021-07-19T12:14:36.723Z**items/1JutQMbfRxs8lxg7BlzCyIKauXXfBEtvdG2ldDTLPkj4**test 3
 100645481783836438495**2021-07-20T09:15:25.730Z**items/1GPGoqAd925VQbQfDn-rWfVkU0ULKyhOj7qUceoVL6Ho**test 2
 104543290051636087715**2021-07-18T09:34:26.902Z**items/1iMULidQfsq2L5XHsmS_gZfGG7KW-RWuFw1tJjxYDJDI**test 2
 106985359778714727041**2021-07-18T09:31:24.909Z**items/1iMULidQfsq2L5XHsmS_gZfGG7KW-RWuFw1tJjxYDJDI**test 2
@@ -4119,6 +4156,40 @@
 108049304266886881329**2021-07-15T11:28:46.485Z**items/1kc68bwbv_UntVk1xeDeObi0toi84UncE5o2Bg9Z7UNk**test 2
 113342839407125825205**2021-07-15T11:23:53.265Z**items/19ZCIj9_kXX1DiVtOHKw-Ksy3cFlkgHWldINy0iw6woY**test 2
 106096168181243169464**2021-07-15T11:23:26.981Z**items/1Q_SBp_KtyldPVllPlE8BGmWIeaIe0SdLoYgZZQDiCbc**test 2
+106985359778714727041**2021-07-27T06:18:50.648Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+106985359778714727041**2021-07-19T13:52:04.783Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+106080857542553113880**2021-07-19T13:31:48.339Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106080857542553113880**2021-07-19T13:28:47.274Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106080857542553113880**2021-07-19T13:25:46.275Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106080857542553113880**2021-07-19T13:22:45.196Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106080857542553113880**2021-07-19T13:19:43.221Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106080857542553113880**2021-07-19T13:15:27.744Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106080857542553113880**2021-07-19T13:12:25.901Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+108049304266886881329**2021-07-19T13:08:21.212Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T13:05:20.301Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T13:02:19.606Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T12:57:19.735Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T12:54:18.910Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T12:51:18.130Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T12:48:17.381Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106985359778714727041**2021-07-19T12:45:52.250Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:45:16.686Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106985359778714727041**2021-07-19T12:42:51.258Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:42:15.997Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106985359778714727041**2021-07-19T12:39:50.276Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:39:15.323Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106985359778714727041**2021-07-19T12:36:49.180Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:36:14.591Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106080857542553113880**2021-07-19T12:35:42.854Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106985359778714727041**2021-07-19T12:33:48.280Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:33:13.893Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106080857542553113880**2021-07-19T12:32:40.865Z**items/1pGLlPnZrBvA7WahawzsSuMamlUi4eOcnPU2yQLO9BOM**test 3
+106985359778714727041**2021-07-19T12:30:47.389Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:30:13.134Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+106985359778714727041**2021-07-19T12:27:45.501Z**items/18VWrVyCeDUY3-pXp1Tisz7VZQo5nfBabzySX7JWx364**test 3
+108049304266886881329**2021-07-19T12:27:12.391Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+108049304266886881329**2021-07-19T12:24:10.936Z**items/1Iy3lDE-BhH7m660xyZYNN3QD_lsXncBkz0oQzP_0Sck**test 3
+113101743910038972767**2021-07-19T12:14:36.723Z**items/1JutQMbfRxs8lxg7BlzCyIKauXXfBEtvdG2ldDTLPkj4**test 3
 106988626095811221876**2021-07-15T10:13:52.239Z**items/1UnJ7F5DUyxMd_VQHzC0lD1F0VIRB70A2D8tNiWAGAks**Test
 102486471964044935253**2021-07-12T13:37:30.367Z**items/1adiSQCUed-0K7x-TucpLbq4wDo217gYJJHZsvH9-leE**Test
 102486471964044935253**2021-07-12T13:32:36.526Z**items/1adiSQCUed-0K7x-TucpLbq4wDo217gYJJHZsvH9-leE**Test

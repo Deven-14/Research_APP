@@ -1,7 +1,5 @@
-//This files reads through the student details and sorts it up the required
 const LineReaderSync = require("line-reader-sync");
 const fs = require("fs");
-//const path = require("path/posix");
 
 function clean_it(course_name) {
   var final_list = [];

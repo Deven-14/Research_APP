@@ -12,6 +12,11 @@
 101390634654303700532**2021-07-27T06:38:53.611Z**items/1lfGaCEc-Z1rrj2vB-9gVcS7x5zLf3gqogkBDEDqHQ88**Activity52: Write a program using four functions to compute the product of N complex numbers.
 106378913668104041493**2021-07-27T06:33:52.199Z**items/1Fz74JPyNwVLcL-v3QAlHhnxPqRe7V-ZAf9tyceykkzs**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
 101064574492980814078**2021-07-27T06:32:55.995Z**items/1IaXZLib3GYXsv21urd9GkyJftAr0czWciGN2hlk0Wg0**Activity33: Write a  function to calculate the GCD of two numbers.
+117553120242379632200**2021-07-27T14:52:47.694Z**items/1DabpPl1Zg8Cg-KDWanuxttoEZOeOAKmm2f9MdYdfd48**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+117553120242379632200**2021-07-27T14:49:46.747Z**items/1DabpPl1Zg8Cg-KDWanuxttoEZOeOAKmm2f9MdYdfd48**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+117553120242379632200**2021-07-27T14:46:45.201Z**items/1DabpPl1Zg8Cg-KDWanuxttoEZOeOAKmm2f9MdYdfd48**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+117553120242379632200**2021-07-27T14:52:19.046Z**items/1oNwoKWalXpsiESv72mVoW8R2H-0HJ1z4NVcDrfLtl5g**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+117553120242379632200**2021-07-27T14:49:17.601Z**items/1oNwoKWalXpsiESv72mVoW8R2H-0HJ1z4NVcDrfLtl5g**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 117553120242379632200**2021-07-26T14:03:25.695Z**items/1oNwoKWalXpsiESv72mVoW8R2H-0HJ1z4NVcDrfLtl5g**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 117553120242379632200**2021-07-26T14:00:24.789Z**items/1oNwoKWalXpsiESv72mVoW8R2H-0HJ1z4NVcDrfLtl5g**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 117553120242379632200**2021-07-26T13:57:23.179Z**items/1oNwoKWalXpsiESv72mVoW8R2H-0HJ1z4NVcDrfLtl5g**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
