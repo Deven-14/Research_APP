@@ -2,6 +2,8 @@ Activity62: Write the HSPC Program 2009 Problem 4 Payroll Processing.**1FtHuhSLn
 Activity61: Write the HSPC Program  Intersecting circles problem**1-XOqANUEXe9RwsvLqEBB7Uj7uOO0jMQRg8XeKy47kQUq_nZ8yEL4VfKSZxjHWg6sb8pD8Hvt
 Activity60: Write a function to reverse a string and a function check if a string is a palindrome.**1zgWN_5IEeV8OTTb1IvWf6r2bN5eyUgR7TbeNY_u0VbXzuLmx186an10bVEirQhsZHc5n6GV5
 Activity59: Write a function to concatenate n strings. Use 2 D character array to store n strings.**12ZZEeFQMm07uzfQwyKJXILqWOXUD_lWkAX6yDjDcdQNoPfGeFXkueKm8fC7ZnyONZgKn7llk
+Activity58: Write a function to concatenate two strings. ( Do not use std library function)**1nQR59VKLTDlj6z9C-a_Z5n0CHHrH_CKSrXY4OueLedf6YLxacrq3ulCBEGK5lwULwsnSzBBZ
+Activity57: Write a function to compare two strings. ( Do not use std library function)**1sfPcvnbHKc06cdYovSc-IPTOjiTJDsKOdXtfOSP0Wyb79llDfYtmzIM1uxQTqt2vzLvRDIds
 Activity56: Write a function to find the length of a string. ( Do not use std library function)**1yVSUhAC7GOfhYczE34CzZm1AAJT6ZFhinhegOHFtduBy-cZpL0T9USJfnIA1uiKMgTtNb8Hm
 Activity55: Write a program using functions to add N fractions.**1UmBwR2ij7tNy3meuuxBlYCntw8piEuqtn_xLXqiFGRl0wxnxSmSKl-0BOoVlZeDYNiQtk1rE
 Activity54: Write a program using  functions to add 2 fractions.**1Mq58B93sWksFhiJecXX54rMt1LaH8lbnsIMZn6xjETMaoozMscq1f5ikJl6WEUDI-k-hto8M

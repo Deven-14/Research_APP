@@ -1,3 +1,4 @@
+Activity60: Write a function to reverse a string and a function check if a string is a palindrome.**1L2EyRtz9Pt99OVx6lhDvw97DyN8INUrKhmqEgganlTpJJ50kmtxiNsha6oTxtOVrV1FpaKTQ
 Activity57: Write a function to compare two strings. ( Do not use std library function)**1DO8dirG97nOuPbf9-KKznaQ8wNQPvuTVYVsWx0JbrdWClQGCp956WDzHkpq9LnD0JGIX4PBW
 Activity58: Write a function to concatenate two strings. ( Do not use std library function)**1Io0ghnUXWBzcSnXHvtkDHsZ-yARWhbkvoT4y-78OjDVbcLqOVrON6ZHgOaBUdY8u9-5NzBkd
 Activity54: Write a program using  functions to add 2 fractions.**1dM1HRl_Kw3fyVaUxgJnDfknZ5gOPdFQIav-A415rShfgjkyOpbQ6tex0v8IDcSnJuVXolGda

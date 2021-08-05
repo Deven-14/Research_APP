@@ -1,3 +1,74 @@
+103271694592282740332**2021-07-31T11:07:24.758Z**items/1rURvjRgBEzY-py3iIYccTab5_HZeKIJmaSIBExXmPwQ**Activity56: Write a function to find the length of a string. ( Do not use std library function)
+103271694592282740332**2021-07-31T11:04:23.742Z**items/1rURvjRgBEzY-py3iIYccTab5_HZeKIJmaSIBExXmPwQ**Activity56: Write a function to find the length of a string. ( Do not use std library function)
+103271694592282740332**2021-07-31T11:01:22.095Z**items/1rURvjRgBEzY-py3iIYccTab5_HZeKIJmaSIBExXmPwQ**Activity56: Write a function to find the length of a string. ( Do not use std library function)
+103271694592282740332**2021-07-31T10:40:02.288Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:37:01.211Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:23:55.814Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:20:55.050Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:17:54.279Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:14:53.529Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:13:21.054Z**items/1t8TcK5Ul9LjsDHIwo8qY0ctey2MNDWWRd75J1pdgjVQ**Activity54: Write a program using  functions to add 2 fractions.
+103271694592282740332**2021-07-31T10:09:44.487Z**items/1Rra9C6TMBsT_1ASYu_ZObyKjoAXE5vuwcrzUCdbi3_Y**Activity51: Write a program using four functions to compute the sum of N numbers.
+103271694592282740332**2021-07-31T10:06:43.669Z**items/1Rra9C6TMBsT_1ASYu_ZObyKjoAXE5vuwcrzUCdbi3_Y**Activity51: Write a program using four functions to compute the sum of N numbers.
+103271694592282740332**2021-07-31T10:03:43.181Z**items/1Rra9C6TMBsT_1ASYu_ZObyKjoAXE5vuwcrzUCdbi3_Y**Activity51: Write a program using four functions to compute the sum of N numbers.
+103271694592282740332**2021-07-31T10:00:58.815Z**items/1Rra9C6TMBsT_1ASYu_ZObyKjoAXE5vuwcrzUCdbi3_Y**Activity51: Write a program using four functions to compute the sum of N numbers.
+103271694592282740332**2021-07-31T10:01:53.455Z**items/10CauE8MXYnL-TejZOzVtDnbKwuWIGr-SP6zIsdE82gc**Activity48: Write a program to reverse the contents an array.
+103271694592282740332**2021-07-31T09:56:55.342Z**items/10CauE8MXYnL-TejZOzVtDnbKwuWIGr-SP6zIsdE82gc**Activity48: Write a program to reverse the contents an array.
+103271694592282740332**2021-07-31T09:55:01.010Z**items/1s-LzpnNvOJQepBfEJKRZRg2GxMyecutwD_tmCWbVjFw**Activity44: Write a program to find the largest of N numbers.
+103271694592282740332**2021-07-31T09:52:00.061Z**items/1s-LzpnNvOJQepBfEJKRZRg2GxMyecutwD_tmCWbVjFw**Activity44: Write a program to find the largest of N numbers.
+103271694592282740332**2021-07-31T09:49:14.250Z**items/1s-LzpnNvOJQepBfEJKRZRg2GxMyecutwD_tmCWbVjFw**Activity44: Write a program to find the largest of N numbers.
+108329508105302652542**2021-07-31T11:59:07.889Z**items/16bnADYJXE0Bz2HoYWX9kfsBKYM9StUsF4wRIuMv6RRs**Activity43: Write a program to implement bubble sort on an array of numbers.
+108329508105302652542**2021-07-31T11:50:34.522Z**items/16bnADYJXE0Bz2HoYWX9kfsBKYM9StUsF4wRIuMv6RRs**Activity43: Write a program to implement bubble sort on an array of numbers.
+108329508105302652542**2021-07-31T11:47:50.580Z**items/16bnADYJXE0Bz2HoYWX9kfsBKYM9StUsF4wRIuMv6RRs**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T11:26:25.431Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T11:23:24.666Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T11:20:24Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T11:17:23.366Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T11:14:22.714Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T11:11:21.414Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T10:57:10.846Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+102776244482264404862**2021-07-31T10:54:09.757Z**items/1M74X7pdVe0MEA0N5oeL5Tfruky7fuyn12DVi72nWWeQ**Activity43: Write a program to implement bubble sort on an array of numbers.
+103271694592282740332**2021-07-31T09:48:27.337Z**items/18UtdGQ9wkVYn95_NAzBCu9nA-BCuwUvnzGGk20VRic0**Activity43: Write a program to implement bubble sort on an array of numbers.
+103271694592282740332**2021-07-31T09:45:22.184Z**items/18UtdGQ9wkVYn95_NAzBCu9nA-BCuwUvnzGGk20VRic0**Activity43: Write a program to implement bubble sort on an array of numbers.
+103271694592282740332**2021-07-31T09:45:12.557Z**items/18UtdGQ9wkVYn95_NAzBCu9nA-BCuwUvnzGGk20VRic0**Activity43: Write a program to implement bubble sort on an array of numbers.
+108329508105302652542**2021-07-31T11:48:53.213Z**items/1riPi6FAP0rqtZhzvIGzfBsuH1SELNATJtd6l8Gp45G8**Activity42: Write a function to implement binary search for an array of numbers.
+108329508105302652542**2021-07-31T11:45:51.816Z**items/1riPi6FAP0rqtZhzvIGzfBsuH1SELNATJtd6l8Gp45G8**Activity42: Write a function to implement binary search for an array of numbers.
+101369868465963170627**2021-07-31T11:27:57.058Z**items/1ZUSma74k1oCgXOcHHH5phV-_v31c2GZw7BxlJS1Mo0c**Activity42: Write a function to implement binary search for an array of numbers.
+105691286974033758655**2021-07-31T11:25:39.166Z**items/1vygAgYY86SSaTW6yu9p6Sw8kGK8l9NIYgOuqUpJ61Ws**Activity42: Write a function to implement binary search for an array of numbers.
+101369868465963170627**2021-07-31T11:24:56.234Z**items/1ZUSma74k1oCgXOcHHH5phV-_v31c2GZw7BxlJS1Mo0c**Activity42: Write a function to implement binary search for an array of numbers.
+105691286974033758655**2021-07-31T11:22:37.709Z**items/1vygAgYY86SSaTW6yu9p6Sw8kGK8l9NIYgOuqUpJ61Ws**Activity42: Write a function to implement binary search for an array of numbers.
+101369868465963170627**2021-07-31T11:21:54.751Z**items/1ZUSma74k1oCgXOcHHH5phV-_v31c2GZw7BxlJS1Mo0c**Activity42: Write a function to implement binary search for an array of numbers.
+114358039271179138153**2021-07-31T11:11:39.799Z**items/1BM-OgmjJfG5WcQisaNw_KCRhI5WByN-FL1n5UHa6ac4**Activity42: Write a function to implement binary search for an array of numbers.
+114358039271179138153**2021-07-31T11:10:10.105Z**items/1BM-OgmjJfG5WcQisaNw_KCRhI5WByN-FL1n5UHa6ac4**Activity42: Write a function to implement binary search for an array of numbers.
+102776244482264404862**2021-07-31T09:52:51.746Z**items/1sG2lcWOZXcowiK-ee76C2TvAVrYsQLRz9hcsPeiIuIY**Activity42: Write a function to implement binary search for an array of numbers.
+102776244482264404862**2021-07-31T09:49:50.826Z**items/1sG2lcWOZXcowiK-ee76C2TvAVrYsQLRz9hcsPeiIuIY**Activity42: Write a function to implement binary search for an array of numbers.
+103271694592282740332**2021-07-31T09:43:39.860Z**items/1g0IHdKBrGXCbLcp8Oqe_dWGsKXVPDrsZITmReOe-Y_8**Activity42: Write a function to implement binary search for an array of numbers.
+102776244482264404862**2021-07-31T09:42:18.433Z**items/1sG2lcWOZXcowiK-ee76C2TvAVrYsQLRz9hcsPeiIuIY**Activity42: Write a function to implement binary search for an array of numbers.
+103271694592282740332**2021-07-31T09:40:39.113Z**items/1g0IHdKBrGXCbLcp8Oqe_dWGsKXVPDrsZITmReOe-Y_8**Activity42: Write a function to implement binary search for an array of numbers.
+102776244482264404862**2021-07-31T09:39:17.817Z**items/1sG2lcWOZXcowiK-ee76C2TvAVrYsQLRz9hcsPeiIuIY**Activity42: Write a function to implement binary search for an array of numbers.
+103271694592282740332**2021-07-31T09:37:38.407Z**items/1g0IHdKBrGXCbLcp8Oqe_dWGsKXVPDrsZITmReOe-Y_8**Activity42: Write a function to implement binary search for an array of numbers.
+102776244482264404862**2021-07-31T09:36:16.452Z**items/1sG2lcWOZXcowiK-ee76C2TvAVrYsQLRz9hcsPeiIuIY**Activity42: Write a function to implement binary search for an array of numbers.
+103271694592282740332**2021-07-31T09:30:54.521Z**items/1g0IHdKBrGXCbLcp8Oqe_dWGsKXVPDrsZITmReOe-Y_8**Activity42: Write a function to implement binary search for an array of numbers.
+103271694592282740332**2021-07-31T09:27:53.847Z**items/1g0IHdKBrGXCbLcp8Oqe_dWGsKXVPDrsZITmReOe-Y_8**Activity42: Write a function to implement binary search for an array of numbers.
+103271694592282740332**2021-07-31T09:24:52.573Z**items/1g0IHdKBrGXCbLcp8Oqe_dWGsKXVPDrsZITmReOe-Y_8**Activity42: Write a function to implement binary search for an array of numbers.
+108329508105302652542**2021-07-31T11:43:02.829Z**items/15v4fdwAFqwWzsmEZ4LI9pr4zmaYOScMcAojxSrNVQ6I**Activity41: Write a program to implement linear search on an array of numbers.
+108329508105302652542**2021-07-31T11:40:01.471Z**items/15v4fdwAFqwWzsmEZ4LI9pr4zmaYOScMcAojxSrNVQ6I**Activity41: Write a program to implement linear search on an array of numbers.
+105691286974033758655**2021-07-31T11:20:51.973Z**items/1CGjnqf-qvtgdjK0oj3SngZGmtkTqucmkNu-MLJ5mwLw**Activity41: Write a program to implement linear search on an array of numbers.
+105691286974033758655**2021-07-31T11:17:50.303Z**items/1CGjnqf-qvtgdjK0oj3SngZGmtkTqucmkNu-MLJ5mwLw**Activity41: Write a program to implement linear search on an array of numbers.
+114358039271179138153**2021-07-31T11:08:47.248Z**items/10QsqGm3HHIdW2Im9fawRQFnruRScFDat2ZcvJ_LTA8Y**Activity41: Write a program to implement linear search on an array of numbers.
+114358039271179138153**2021-07-31T11:07:17.685Z**items/10QsqGm3HHIdW2Im9fawRQFnruRScFDat2ZcvJ_LTA8Y**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-31T09:30:51.313Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+117219781815841279160**2021-07-31T09:30:43.254Z**items/1IKQMdQWhrMeiHWLR8fRJ-iI25qAHVohupRqdry39or8**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-31T09:27:49.603Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+117219781815841279160**2021-07-31T09:27:42.442Z**items/1IKQMdQWhrMeiHWLR8fRJ-iI25qAHVohupRqdry39or8**Activity41: Write a program to implement linear search on an array of numbers.
+117219781815841279160**2021-07-31T09:22:37.671Z**items/1IKQMdQWhrMeiHWLR8fRJ-iI25qAHVohupRqdry39or8**Activity41: Write a program to implement linear search on an array of numbers.
+117219781815841279160**2021-07-31T09:19:36.353Z**items/1IKQMdQWhrMeiHWLR8fRJ-iI25qAHVohupRqdry39or8**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-30T05:22:35.875Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-30T05:19:34.842Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-30T05:16:33.810Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-30T05:13:33.017Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-30T05:10:32.102Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
+102776244482264404862**2021-07-30T05:07:30.581Z**items/1V2ABeZcWl53qbY7odRlhKk1b6MG2PMNQW67tJeYYr9A**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T08:09:18.147Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T08:06:17.398Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T08:03:15.917Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
@@ -15,6 +86,21 @@
 103271694592282740332**2021-07-26T06:50:06.572Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T06:47:06.051Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
 103271694592282740332**2021-07-26T06:44:05.027Z**items/1K11-n2Hpf4pVdaMf4JFEFEykx7lpROzw7A25C8SYPlg**Activity41: Write a program to implement linear search on an array of numbers.
+108329508105302652542**2021-07-31T11:39:20.992Z**items/1sUt9cIU46_uUqkmwjbrsC27BjOxCVp6b0zrxXEUm7uI**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+108329508105302652542**2021-07-31T11:36:19.206Z**items/1sUt9cIU46_uUqkmwjbrsC27BjOxCVp6b0zrxXEUm7uI**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+101369868465963170627**2021-07-31T11:22:11.408Z**items/1qM6b-qoB9Z9qaVFAm7OEnPhiL96ID8mcjPdU358_yvQ**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+101369868465963170627**2021-07-31T11:19:09.948Z**items/1qM6b-qoB9Z9qaVFAm7OEnPhiL96ID8mcjPdU358_yvQ**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+114358039271179138153**2021-07-31T10:47:44.449Z**items/1rxNpU6DMH7LAphv6mvGOGqSU4Y20QwRk3JBtTZUi73M**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+114358039271179138153**2021-07-31T10:45:47.507Z**items/1rxNpU6DMH7LAphv6mvGOGqSU4Y20QwRk3JBtTZUi73M**Activity36: Write a program using four functions to evaluate the square root by successive approximations.
+108329508105302652542**2021-07-31T11:35:07.301Z**items/1S0lVhvUqJ1wdkKrhAVT8ker4RUMSTNji2rdkTCDPkqw**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+108329508105302652542**2021-07-31T11:32:06.127Z**items/1S0lVhvUqJ1wdkKrhAVT8ker4RUMSTNji2rdkTCDPkqw**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+108329508105302652542**2021-07-31T11:29:04.618Z**items/1S0lVhvUqJ1wdkKrhAVT8ker4RUMSTNji2rdkTCDPkqw**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+101369868465963170627**2021-07-31T11:15:50.472Z**items/1f4psU98_1lsCyjxk5GO7Sk7yFfyz2v4v_Rt34p_Xv0c**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+101369868465963170627**2021-07-31T11:12:48.741Z**items/1f4psU98_1lsCyjxk5GO7Sk7yFfyz2v4v_Rt34p_Xv0c**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-31T10:45:58.361Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+102776244482264404862**2021-07-31T10:42:57.104Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+114358039271179138153**2021-07-31T10:42:01.220Z**items/1BKft2JCc8QHE6qAOpzDXkSPeb4tL92JH5qNFKg2tiS0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
+114358039271179138153**2021-07-31T10:40:32.264Z**items/1BKft2JCc8QHE6qAOpzDXkSPeb4tL92JH5qNFKg2tiS0**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 102776244482264404862**2021-07-28T03:59:59.267Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 102776244482264404862**2021-07-28T03:56:58.609Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
 102776244482264404862**2021-07-28T03:53:57.972Z**items/1-ToJkyzoTZigOxlgJq6Lzry_1whQvPYsoR6LY-hEMho**Activity35: Write a program using four functions to evaluate a polynomial using Horner's method.
@@ -211,6 +297,13 @@
 102776244482264404862**2021-07-19T12:27:59.073Z**items/161ixEE0xkHf-4-aIfvWayz5Ezn6p1uQfkwSyAq8IK-I**test 3
 102776244482264404862**2021-07-19T12:24:57.762Z**items/161ixEE0xkHf-4-aIfvWayz5Ezn6p1uQfkwSyAq8IK-I**test 3
 105691286974033758655**2021-07-19T12:13:31.878Z**items/1m3mafAhf0qCFfRkm47DR1dc8Q9T0bzHDT7wcv9wcsfY**test 3
+101369868465963170627**2021-07-31T11:25:01.373Z**items/1Eh8w99FiGsHVJ_ZcHAQBSTp46C-qUCBIsbgbwuRe_Ps**Activity34: Write a program using four functions to determine if a number is prime or not.
+105691286974033758655**2021-07-31T11:15:17.167Z**items/1mBH86pQhq8IBOQ_7XHewHyksxtdO1d-edYE6hdZmuIY**Activity34: Write a program using four functions to determine if a number is prime or not.
+101369868465963170627**2021-07-31T11:13:15.591Z**items/1Eh8w99FiGsHVJ_ZcHAQBSTp46C-qUCBIsbgbwuRe_Ps**Activity34: Write a program using four functions to determine if a number is prime or not.
+105691286974033758655**2021-07-31T11:12:11.222Z**items/1mBH86pQhq8IBOQ_7XHewHyksxtdO1d-edYE6hdZmuIY**Activity34: Write a program using four functions to determine if a number is prime or not.
+101369868465963170627**2021-07-31T11:10:14.279Z**items/1Eh8w99FiGsHVJ_ZcHAQBSTp46C-qUCBIsbgbwuRe_Ps**Activity34: Write a program using four functions to determine if a number is prime or not.
+117219781815841279160**2021-07-31T09:33:14.815Z**items/1BqFDzaXGTBR_JE0C8Y7t-xuadPr9DXenRdXRfpQM2Wg**Activity34: Write a program using four functions to determine if a number is prime or not.
+117219781815841279160**2021-07-31T09:30:13.639Z**items/1BqFDzaXGTBR_JE0C8Y7t-xuadPr9DXenRdXRfpQM2Wg**Activity34: Write a program using four functions to determine if a number is prime or not.
 114358039271179138153**2021-07-28T04:03:39.947Z**items/1FjjR6Os5rkdygUZ22rzZG0b4kLtPwkhYlAdefKC50AQ**Activity34: Write a program using four functions to determine if a number is prime or not.
 114358039271179138153**2021-07-28T04:02:24.026Z**items/1FjjR6Os5rkdygUZ22rzZG0b4kLtPwkhYlAdefKC50AQ**Activity34: Write a program using four functions to determine if a number is prime or not.
 114358039271179138153**2021-07-28T04:00:38.453Z**items/1FjjR6Os5rkdygUZ22rzZG0b4kLtPwkhYlAdefKC50AQ**Activity34: Write a program using four functions to determine if a number is prime or not.
@@ -235,6 +328,13 @@
 103271694592282740332**2021-07-20T07:50:08.530Z**items/1VFDzW8dnTx8KsW3fyhP2F9-2UcTzwurKEWTtJRB18Dc**Activity34: Write a program using four functions to determine if a number is prime or not.
 102776244482264404862**2021-07-20T05:40:39.171Z**items/1V8V5u1kflO4K3YmJXHleTcnPTnYrIbzG7TlYSiXA6kg**Activity34: Write a program using four functions to determine if a number is prime or not.
 102776244482264404862**2021-07-20T05:37:37.809Z**items/1V8V5u1kflO4K3YmJXHleTcnPTnYrIbzG7TlYSiXA6kg**Activity34: Write a program using four functions to determine if a number is prime or not.
+101369868465963170627**2021-07-31T11:24:43.065Z**items/1pLAt28hsthIkv2_JG7ztZToab5eDZ7T4-y4Yx4EIPOE**Activity33: Write a  function to calculate the GCD of two numbers.
+105691286974033758655**2021-07-31T11:13:13.485Z**items/1b1dkGfI7hSRNrinwP1XOtnBKOixVHXD4UCFLw7dxVSg**Activity33: Write a  function to calculate the GCD of two numbers.
+101369868465963170627**2021-07-31T11:11:05.023Z**items/1pLAt28hsthIkv2_JG7ztZToab5eDZ7T4-y4Yx4EIPOE**Activity33: Write a  function to calculate the GCD of two numbers.
+105691286974033758655**2021-07-31T11:10:11.829Z**items/1b1dkGfI7hSRNrinwP1XOtnBKOixVHXD4UCFLw7dxVSg**Activity33: Write a  function to calculate the GCD of two numbers.
+101369868465963170627**2021-07-31T11:08:03.691Z**items/1pLAt28hsthIkv2_JG7ztZToab5eDZ7T4-y4Yx4EIPOE**Activity33: Write a  function to calculate the GCD of two numbers.
+117219781815841279160**2021-07-31T09:38:19.940Z**items/1_v30V53lrsIIPmMprcg4FeDX35qbWyr1l9SusZmC3DE**Activity33: Write a  function to calculate the GCD of two numbers.
+117219781815841279160**2021-07-31T09:35:18.562Z**items/1_v30V53lrsIIPmMprcg4FeDX35qbWyr1l9SusZmC3DE**Activity33: Write a  function to calculate the GCD of two numbers.
 103271694592282740332**2021-07-28T05:09:04.646Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
 103271694592282740332**2021-07-28T05:06:03.867Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
 103271694592282740332**2021-07-28T04:58:15.827Z**items/1xH_YgUNITREm_9RJlAGG7s2vN-yIjCVH4XaSlK8jeRs**Activity33: Write a  function to calculate the GCD of two numbers.
@@ -263,6 +363,11 @@
 102776244482264404862**2021-07-19T17:13:57.728Z**items/1DGriKK8pAF2cdmpg_9Y9qvVKVuXTPyO6TQOjzMTsk3Y**Activity33: Write a  function to calculate the GCD of two numbers.
 102776244482264404862**2021-07-19T17:10:56.628Z**items/1DGriKK8pAF2cdmpg_9Y9qvVKVuXTPyO6TQOjzMTsk3Y**Activity33: Write a  function to calculate the GCD of two numbers.
 105691286974033758655**2021-07-19T08:13:02.601Z**items/1b1dkGfI7hSRNrinwP1XOtnBKOixVHXD4UCFLw7dxVSg**Activity33: Write a  function to calculate the GCD of two numbers.
+101369868465963170627**2021-07-31T11:23:31.457Z**items/16d_D0e4Cc9QzNgMBafKWrexLInOuQ7TpdXlnFrHPFYg**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+101369868465963170627**2021-07-31T10:56:35.316Z**items/16d_D0e4Cc9QzNgMBafKWrexLInOuQ7TpdXlnFrHPFYg**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+101369868465963170627**2021-07-31T10:53:33.959Z**items/16d_D0e4Cc9QzNgMBafKWrexLInOuQ7TpdXlnFrHPFYg**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+105691286974033758655**2021-07-31T10:40:47.858Z**items/1Yy-YlSAw76-hMwkeDQVf-aoN_JwE3eU4YWgXa_GKvFU**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
+105691286974033758655**2021-07-31T10:37:46.574Z**items/1Yy-YlSAw76-hMwkeDQVf-aoN_JwE3eU4YWgXa_GKvFU**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 114358039271179138153**2021-07-26T05:49:45.401Z**items/1axTHnXpHCsfnW4UiyJ2xHwPd7xH6o77OrZ7VlgiPAnU**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 114358039271179138153**2021-07-26T05:46:44.597Z**items/1axTHnXpHCsfnW4UiyJ2xHwPd7xH6o77OrZ7VlgiPAnU**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
 114358039271179138153**2021-07-26T05:43:43.251Z**items/1axTHnXpHCsfnW4UiyJ2xHwPd7xH6o77OrZ7VlgiPAnU**Activity 22: Write a program with four functions to add two complex numbers. Use appropriate structure(s).
@@ -548,6 +653,12 @@
 102776244482264404862**2021-07-15T11:30:39.098Z**items/1t5QWTGdImpbPtzgoqYcJl2XZ4_EGVclS62Slit7-ap8**test 2
 103271694592282740332**2021-07-15T11:29:07.329Z**items/1hP2laah3pbfFuA_U6w6BDlRDZ1qWOZGooDT404zXjW0**test 2
 114764599684320787472**2021-07-15T11:24:26.230Z**items/1TJuHZ4crgIzWNJEKXr-1dmxG1Mhb9airSkN_T5TfAlU**test 2
+105691286974033758655**2021-07-31T11:10:43.135Z**items/12c2vp0CrUn4w_K-OpukdccdK8NOtSCR1vlMgX_xpJc8**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+101369868465963170627**2021-07-31T11:09:13.050Z**items/1xfuYUEA0spFWNyk1gGzT92fPFKnfcSe1iogUBH8SlKk**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+105691286974033758655**2021-07-31T11:07:41.612Z**items/12c2vp0CrUn4w_K-OpukdccdK8NOtSCR1vlMgX_xpJc8**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+101369868465963170627**2021-07-31T11:06:11.956Z**items/1xfuYUEA0spFWNyk1gGzT92fPFKnfcSe1iogUBH8SlKk**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+117219781815841279160**2021-07-31T09:43:17.077Z**items/1w5k9Z7vj_e4BXI78NLj7MjVVu4w21ufeSVki3xDcqPM**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+117219781815841279160**2021-07-31T09:40:15.735Z**items/1w5k9Z7vj_e4BXI78NLj7MjVVu4w21ufeSVki3xDcqPM**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 114358039271179138153**2021-07-26T08:12:58.157Z**items/1BUNnd7UpuC87wVMAk0Xk3c9N48IneXI2gVoJ-QF9Thw**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 114358039271179138153**2021-07-26T08:09:57.167Z**items/1BUNnd7UpuC87wVMAk0Xk3c9N48IneXI2gVoJ-QF9Thw**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 114358039271179138153**2021-07-26T08:06:55.358Z**items/1BUNnd7UpuC87wVMAk0Xk3c9N48IneXI2gVoJ-QF9Thw**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
@@ -568,6 +679,15 @@
 103271694592282740332**2021-07-19T06:27:53.458Z**items/1Lt2yomQEynoWo7cktArsdcry4Xa-f1waUNXOhxEESpY**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 103271694592282740332**2021-07-19T06:24:52.829Z**items/1Lt2yomQEynoWo7cktArsdcry4Xa-f1waUNXOhxEESpY**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
 103271694592282740332**2021-07-19T06:21:51.767Z**items/1Lt2yomQEynoWo7cktArsdcry4Xa-f1waUNXOhxEESpY**Activity32: Write a  function to display the binomial coeffecient table for a given value of 'n'.
+101369868465963170627**2021-07-31T11:24:09.827Z**items/1u3quDwNTvRko5Up4dFSyfw3bgUA7lTOztp6xreg9y3E**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+101369868465963170627**2021-07-31T11:07:31.028Z**items/1u3quDwNTvRko5Up4dFSyfw3bgUA7lTOztp6xreg9y3E**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+101369868465963170627**2021-07-31T11:04:29.745Z**items/1u3quDwNTvRko5Up4dFSyfw3bgUA7lTOztp6xreg9y3E**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+105691286974033758655**2021-07-31T11:02:29.103Z**items/1L5tPLcHXSN3zTAXoK1JAEP5RQEDdJXJ9EYNnoOpipL8**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+105691286974033758655**2021-07-31T10:59:27.044Z**items/1L5tPLcHXSN3zTAXoK1JAEP5RQEDdJXJ9EYNnoOpipL8**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+117219781815841279160**2021-07-31T09:57:26.251Z**items/1mgP57sMw0fQ9vq3a4SAHbxibDAjJZFDBoP_ClKSL-rM**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+117219781815841279160**2021-07-31T09:48:56.574Z**items/1mgP57sMw0fQ9vq3a4SAHbxibDAjJZFDBoP_ClKSL-rM**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+117219781815841279160**2021-07-31T09:45:56.024Z**items/1mgP57sMw0fQ9vq3a4SAHbxibDAjJZFDBoP_ClKSL-rM**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
+117219781815841279160**2021-07-31T09:42:55.040Z**items/1mgP57sMw0fQ9vq3a4SAHbxibDAjJZFDBoP_ClKSL-rM**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
 100314075131639786780**2021-07-26T08:10:08.262Z**items/1cSqB6NLS6zv_BNX2-5k3eo8avTy1gKj-Yf2gF1vgwh0**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
 100314075131639786780**2021-07-26T08:07:07.179Z**items/1cSqB6NLS6zv_BNX2-5k3eo8avTy1gKj-Yf2gF1vgwh0**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
 102776244482264404862**2021-07-26T07:58:46.260Z**items/1NOgABPBH1kCOz5nXOqs40xkB74Tkx614guYfg8u5BO8**Activity31: Write a program using four functions to compute the sine of a value using Taylor's series approximation.
@@ -687,6 +807,13 @@
 103271694592282740332**2021-07-12T11:37:34.252Z**items/1iuwWOaGD8-GsVHC0_8uX7AQpFMvA3ULTm0R6geU7XBg**Test
 103271694592282740332**2021-07-12T11:34:32.292Z**items/1iuwWOaGD8-GsVHC0_8uX7AQpFMvA3ULTm0R6geU7XBg**Test
 101312145065749030854**2021-07-12T11:23:03.986Z**items/1vastYNlPZIEPDqY3pXUpzHMGtgruDKCyyLz0RjgXfLQ**Test
+101369868465963170627**2021-07-31T11:05:20.345Z**items/1Uzm0YEjBMR26B561Nb2b4ytPXIm97ABb-qkMdRS6rw8**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+101369868465963170627**2021-07-31T11:02:18.999Z**items/1Uzm0YEjBMR26B561Nb2b4ytPXIm97ABb-qkMdRS6rw8**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+105691286974033758655**2021-07-31T10:45:11.139Z**items/1jVy4IAljkhZzSQbcvUEmfhGBItJY2O5vDnYrI-8bwDA**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+105691286974033758655**2021-07-31T10:42:09.205Z**items/1jVy4IAljkhZzSQbcvUEmfhGBItJY2O5vDnYrI-8bwDA**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+117219781815841279160**2021-07-31T10:00:45.458Z**items/1CijldY-h5ePLQHwHdqNo1rAaIIkhIVm2j4VOcNd7AXQ**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+117219781815841279160**2021-07-31T09:59:14.193Z**items/1CijldY-h5ePLQHwHdqNo1rAaIIkhIVm2j4VOcNd7AXQ**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+117219781815841279160**2021-07-31T09:56:12.951Z**items/1CijldY-h5ePLQHwHdqNo1rAaIIkhIVm2j4VOcNd7AXQ**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101312145065749030854**2021-07-26T08:06:08.048Z**items/1Y7NGrfOQTojuYGGe0F-SIOfbHqOpvJJPJnEHb64JBgg**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101312145065749030854**2021-07-26T08:03:06.978Z**items/1Y7NGrfOQTojuYGGe0F-SIOfbHqOpvJJPJnEHb64JBgg**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101312145065749030854**2021-07-26T08:01:10.660Z**items/1Y7NGrfOQTojuYGGe0F-SIOfbHqOpvJJPJnEHb64JBgg**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
@@ -735,6 +862,16 @@
 103271694592282740332**2021-07-16T05:17:13.620Z**items/11NZtp3Sj-grDxLuaB_04eJxnsZyDWHyW94LJDJHCZ00**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 103271694592282740332**2021-07-16T05:14:12.391Z**items/11NZtp3Sj-grDxLuaB_04eJxnsZyDWHyW94LJDJHCZ00**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
 101369868465963170627**2021-07-12T08:17:28.282Z**items/1Uzm0YEjBMR26B561Nb2b4ytPXIm97ABb-qkMdRS6rw8**Activity23: Write a program with four functions using four functions to divide two complex numbers. Use appropriate structures.
+114764599684320787472**2021-07-31T15:14:32.855Z**items/1kwVpeMIPTZkfKLyQvv1WCbOK282j9-HgYR3o3fNCETE**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+114764599684320787472**2021-07-31T15:11:31.230Z**items/1kwVpeMIPTZkfKLyQvv1WCbOK282j9-HgYR3o3fNCETE**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+105691286974033758655**2021-07-31T10:27:23.971Z**items/1uk3ZdxtpERdzoRqjhjopHHEraepRuyjAieo2yn0nB6w**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+105691286974033758655**2021-07-31T10:24:22.306Z**items/1uk3ZdxtpERdzoRqjhjopHHEraepRuyjAieo2yn0nB6w**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+100314075131639786780**2021-07-31T09:33:22.323Z**items/1t-hy3zDtfvklyAN8xSeVR_UY4I4ywbYRiI30q_ZyVYg**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+100314075131639786780**2021-07-31T09:30:20.821Z**items/1t-hy3zDtfvklyAN8xSeVR_UY4I4ywbYRiI30q_ZyVYg**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+117219781815841279160**2021-07-29T07:18:13.109Z**items/12iFBTMcB6AyBsctiYBlyWrMUdcFz91nlpLaLMbJ8Vt0**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+117219781815841279160**2021-07-29T07:15:11.546Z**items/12iFBTMcB6AyBsctiYBlyWrMUdcFz91nlpLaLMbJ8Vt0**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+117219781815841279160**2021-07-29T07:11:34.882Z**items/12iFBTMcB6AyBsctiYBlyWrMUdcFz91nlpLaLMbJ8Vt0**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+117219781815841279160**2021-07-29T07:08:33.493Z**items/12iFBTMcB6AyBsctiYBlyWrMUdcFz91nlpLaLMbJ8Vt0**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 103271694592282740332**2021-07-28T04:02:49.822Z**items/1Ybt6GQV4iOpI3ZByncdxho1094pzpat2JzjiyGXjDRk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 103271694592282740332**2021-07-28T03:59:48.487Z**items/1Ybt6GQV4iOpI3ZByncdxho1094pzpat2JzjiyGXjDRk**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 108329508105302652542**2021-07-27T04:10:54.534Z**items/1xe3HJjWIzlWHKG4YuYpKMFpiEy92onjFfB4n3L16mNU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
@@ -827,6 +964,12 @@
 102776244482264404862**2021-07-07T03:44:56.615Z**items/1yS2UCqmqkmZ0kQFN_YGzPtVfVb_1qU87J1FGw65QNM0**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 108329508105302652542**2021-07-07T03:44:51.139Z**items/1xe3HJjWIzlWHKG4YuYpKMFpiEy92onjFfB4n3L16mNU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
 108329508105302652542**2021-07-07T03:41:30.639Z**items/1xe3HJjWIzlWHKG4YuYpKMFpiEy92onjFfB4n3L16mNU**Activity18: Write a program to find the roots of a quadratic equation using four functions given the coefficients a, b, c.
+101369868465963170627**2021-07-31T10:54:52.438Z**items/1BbVPw0eswR_E5vPZNPNupwJKkOcen16mJheEuwbFU4o**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+101369868465963170627**2021-07-31T10:51:51.100Z**items/1BbVPw0eswR_E5vPZNPNupwJKkOcen16mJheEuwbFU4o**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+105691286974033758655**2021-07-31T10:37:22.303Z**items/1gqJlYcT2Vn6lAI4W-YRtpWWWLfrv6bOwN1efF6XSSvs**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+105691286974033758655**2021-07-31T10:34:20.960Z**items/1gqJlYcT2Vn6lAI4W-YRtpWWWLfrv6bOwN1efF6XSSvs**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+117219781815841279160**2021-07-31T10:06:55.623Z**items/1m_2MntEo-7sSikUV9TWHIANED6tEHXVBR3r34e1JFFw**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+117219781815841279160**2021-07-31T10:03:54.204Z**items/1m_2MntEo-7sSikUV9TWHIANED6tEHXVBR3r34e1JFFw**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 114358039271179138153**2021-07-20T08:20:19.898Z**items/1BorDJnaIpg0CnLj29Iua2OZMt4oAW4l_F5w6t06tDvs**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 114358039271179138153**2021-07-20T08:16:20.631Z**items/1BorDJnaIpg0CnLj29Iua2OZMt4oAW4l_F5w6t06tDvs**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 114358039271179138153**2021-07-20T08:14:18.413Z**items/1BorDJnaIpg0CnLj29Iua2OZMt4oAW4l_F5w6t06tDvs**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
@@ -878,6 +1021,30 @@
 102776244482264404862**2021-07-08T14:57:00.647Z**items/1GejfgG3iCfdxzPzts2v2KbCr2tHhIXMoXAVEPmfYHGM**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 102776244482264404862**2021-07-08T14:07:59.540Z**items/1GejfgG3iCfdxzPzts2v2KbCr2tHhIXMoXAVEPmfYHGM**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
 108329508105302652542**2021-07-08T08:14:37.857Z**items/1wjg6oJv0LJL6C1NqZdtrx6y3e1EfdCZKvNj1TOCq_gQ**Activity21: Write a program with four functions to find the distance between two points. Use appropriate structures.
+114764599684320787472**2021-07-31T15:31:43.462Z**items/1sDLhQdxjPdOWvHTtJnEG15Q2U5yncD03CGUIQ4GcViI**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+114764599684320787472**2021-07-31T15:30:42.206Z**items/1sDLhQdxjPdOWvHTtJnEG15Q2U5yncD03CGUIQ4GcViI**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+114764599684320787472**2021-07-31T15:28:42.621Z**items/1sDLhQdxjPdOWvHTtJnEG15Q2U5yncD03CGUIQ4GcViI**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+114764599684320787472**2021-07-31T15:25:41.172Z**items/1sDLhQdxjPdOWvHTtJnEG15Q2U5yncD03CGUIQ4GcViI**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-31T10:52:02.873Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-31T10:49:01.079Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+105691286974033758655**2021-07-31T10:33:59.778Z**items/1smu1b-YywRGzeIBzM6aV-HwYK3D7QcAfXSDE4GZV4Ss**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+105691286974033758655**2021-07-31T10:30:58.587Z**items/1smu1b-YywRGzeIBzM6aV-HwYK3D7QcAfXSDE4GZV4Ss**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T23:19:41.002Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T23:05:12.524Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T23:02:11.795Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:59:11.023Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:56:10.387Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:53:09.640Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:50:08.912Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:47:08.329Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:44:07.660Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:40:00.598Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:36:59.966Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+101369868465963170627**2021-07-29T22:33:58.595Z**items/1qbttFVJLyAvE8GsCTm4Msr82CGMQc4v8e7NwZOS8_Jg**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+117219781815841279160**2021-07-29T06:58:58.395Z**items/1PNZiif__PeODcX5wL46cjjw5ICvCpWpcLiZsMdZQ5-8**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+117219781815841279160**2021-07-29T06:55:57.439Z**items/1PNZiif__PeODcX5wL46cjjw5ICvCpWpcLiZsMdZQ5-8**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+117219781815841279160**2021-07-29T06:48:42.487Z**items/1PNZiif__PeODcX5wL46cjjw5ICvCpWpcLiZsMdZQ5-8**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+117219781815841279160**2021-07-29T06:45:40.875Z**items/1PNZiif__PeODcX5wL46cjjw5ICvCpWpcLiZsMdZQ5-8**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 100314075131639786780**2021-07-20T05:11:01.393Z**items/1gTg9i_ZLa20lWjatF7aqCt2peOYH7ApwwoJjPvMiLa4**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 100314075131639786780**2021-07-20T05:08:00.601Z**items/1gTg9i_ZLa20lWjatF7aqCt2peOYH7ApwwoJjPvMiLa4**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 100314075131639786780**2021-07-20T05:03:03.135Z**items/1gTg9i_ZLa20lWjatF7aqCt2peOYH7ApwwoJjPvMiLa4**Activity20: Write a program using four functions to distinguish between vowels and consonants.
@@ -938,6 +1105,19 @@
 101312145065749030854**2021-07-11T07:45:57.195Z**items/1UyKQ-x56LmAZn5GWDhHu1mIbkpk6W1iegpVVpa9h8Bw**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 102776244482264404862**2021-07-08T16:42:57.053Z**items/1tey1fxmGivgECShNxYWWu7S3AfocdN11LhpYpRAxgxw**Activity20: Write a program using four functions to distinguish between vowels and consonants.
 108329508105302652542**2021-07-08T08:13:08.083Z**items/1PJo47LzPw1DvO2m1hTfghZMiWQ0Myek_vKVOYi55Ja4**Activity20: Write a program using four functions to distinguish between vowels and consonants.
+114764599684320787472**2021-07-31T15:37:05.063Z**items/1CjgldMTuIrEKs1ls8yLjObtw4WVjwPqm9TazKo_ztuo**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+114764599684320787472**2021-07-31T15:35:30.610Z**items/1CjgldMTuIrEKs1ls8yLjObtw4WVjwPqm9TazKo_ztuo**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+114764599684320787472**2021-07-31T15:34:03.297Z**items/1CjgldMTuIrEKs1ls8yLjObtw4WVjwPqm9TazKo_ztuo**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+114764599684320787472**2021-07-31T15:20:39.931Z**items/1CjgldMTuIrEKs1ls8yLjObtw4WVjwPqm9TazKo_ztuo**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+114764599684320787472**2021-07-31T15:17:38.132Z**items/1CjgldMTuIrEKs1ls8yLjObtw4WVjwPqm9TazKo_ztuo**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+117219781815841279160**2021-07-31T11:27:27.675Z**items/1s1gdS1g50TFGflO9fgnIVXTi8h9PSiuEZ0oZfD_un3A**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+117219781815841279160**2021-07-31T11:24:26.957Z**items/1s1gdS1g50TFGflO9fgnIVXTi8h9PSiuEZ0oZfD_un3A**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+117219781815841279160**2021-07-31T11:21:25.478Z**items/1s1gdS1g50TFGflO9fgnIVXTi8h9PSiuEZ0oZfD_un3A**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+105691286974033758655**2021-07-31T10:30:47.082Z**items/1Mkv-ywFd_nnsNjJH-ovwTG8LyFVHNCY0CDalybENMIY**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+105691286974033758655**2021-07-31T10:27:45.768Z**items/1Mkv-ywFd_nnsNjJH-ovwTG8LyFVHNCY0CDalybENMIY**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+117219781815841279160**2021-07-29T07:06:35.078Z**items/1s1gdS1g50TFGflO9fgnIVXTi8h9PSiuEZ0oZfD_un3A**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+117219781815841279160**2021-07-29T07:03:34.317Z**items/1s1gdS1g50TFGflO9fgnIVXTi8h9PSiuEZ0oZfD_un3A**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+117219781815841279160**2021-07-29T07:00:18.103Z**items/1s1gdS1g50TFGflO9fgnIVXTi8h9PSiuEZ0oZfD_un3A**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 101369868465963170627**2021-07-20T23:16:44.762Z**items/1PjBogddmHnJfp0DLmyUBXG_U36gLtshGjWtzaZN9AxQ**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 101369868465963170627**2021-07-20T23:13:44.173Z**items/1PjBogddmHnJfp0DLmyUBXG_U36gLtshGjWtzaZN9AxQ**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 101369868465963170627**2021-07-20T23:10:43.012Z**items/1PjBogddmHnJfp0DLmyUBXG_U36gLtshGjWtzaZN9AxQ**Activity19: Write a program with four functions to determine if given year is a leap year or not.
@@ -990,6 +1170,10 @@
 102776244482264404862**2021-07-07T12:59:15.919Z**items/1TnJzQuox8d8C7k4wGehh8IGph5E9oZBm4JznS380vZU**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 102776244482264404862**2021-07-07T12:56:14.484Z**items/1TnJzQuox8d8C7k4wGehh8IGph5E9oZBm4JznS380vZU**Activity19: Write a program with four functions to determine if given year is a leap year or not.
 114358039271179138153**2021-07-07T03:42:03.297Z**items/1U9r1ixkiye50GanT_yTp8sOLPX4zwRxXF3xXG11Zjuk**Activity19: Write a program with four functions to determine if given year is a leap year or not.
+114764599684320787472**2021-07-31T15:40:36.298Z**items/1sgyoK6LxViyhTj8Y4yH30IlvYUAKOynBFlWdu2PK9y8**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
+114764599684320787472**2021-07-31T15:37:34.906Z**items/1sgyoK6LxViyhTj8Y4yH30IlvYUAKOynBFlWdu2PK9y8**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
+105691286974033758655**2021-07-31T10:23:51.833Z**items/1WnYuQ5CxjWwqLg0ml8siUHmoEyx1wrKgUM7qX03Z5wk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
+105691286974033758655**2021-07-31T10:20:50.360Z**items/1WnYuQ5CxjWwqLg0ml8siUHmoEyx1wrKgUM7qX03Z5wk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 101369868465963170627**2021-07-20T22:10:33.489Z**items/1Iw0kDhhMbNWnw-4fbEzIs--komgkcABO0LT75pO8Okk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 101369868465963170627**2021-07-20T22:07:32.496Z**items/1Iw0kDhhMbNWnw-4fbEzIs--komgkcABO0LT75pO8Okk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 101369868465963170627**2021-07-20T22:04:31.528Z**items/1Iw0kDhhMbNWnw-4fbEzIs--komgkcABO0LT75pO8Okk**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
@@ -1051,6 +1235,8 @@
 100314075131639786780**2021-07-04T15:05:33.934Z**items/1wnJoZGae8WiUpofIMU3irDtEsW9nEn7vVh-eqTp3UA8**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 100314075131639786780**2021-07-04T15:02:33.247Z**items/1wnJoZGae8WiUpofIMU3irDtEsW9nEn7vVh-eqTp3UA8**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
 100314075131639786780**2021-07-04T14:57:15.467Z**items/1wnJoZGae8WiUpofIMU3irDtEsW9nEn7vVh-eqTp3UA8**Activity17: Write a program to find largest of three numbers using four functions and ladder if.
+105691286974033758655**2021-07-31T10:20:48.447Z**items/1Rktj7rSVN9I5aR5juGsxizTpiQzrBCw21afNICSOF9U**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
+105691286974033758655**2021-07-31T10:17:46.949Z**items/1Rktj7rSVN9I5aR5juGsxizTpiQzrBCw21afNICSOF9U**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 101369868465963170627**2021-07-20T21:50:29.873Z**items/18qUIKiL7zm_ChpwiW3oY1SMlV4Ft1FDlWf6LSlfQzUw**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 101369868465963170627**2021-07-20T21:47:29.059Z**items/18qUIKiL7zm_ChpwiW3oY1SMlV4Ft1FDlWf6LSlfQzUw**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
 101369868465963170627**2021-07-20T21:41:25.442Z**items/18qUIKiL7zm_ChpwiW3oY1SMlV4Ft1FDlWf6LSlfQzUw**Activity16: Write a program to find largest of three numbers using four functions and ternary operators.
@@ -1319,6 +1505,8 @@
 102776244482264404862**2021-06-16T05:06:45.310Z**items/1qVEkXVQSHABywBhxN8IXcmK7crvfG_u3ZysAfRB1ZVs**Activity6: Write a program to the find distance between two points on x, y plane
 101312145065749030854**2021-06-16T05:00:21.442Z**items/1Xsn0ib_OTFI1NZQMIymV2_fph8NfomVEyBnfAmu2Kkk**Activity6: Write a program to the find distance between two points on x, y plane
 101312145065749030854**2021-06-16T04:57:19.964Z**items/1Xsn0ib_OTFI1NZQMIymV2_fph8NfomVEyBnfAmu2Kkk**Activity6: Write a program to the find distance between two points on x, y plane
+105691286974033758655**2021-07-31T10:14:18.437Z**items/1fhAiMcPKXWVbf8noH1zQ7dqks7cLHFMHEQMVVQw3-Jo**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
+105691286974033758655**2021-07-31T10:11:17.018Z**items/1fhAiMcPKXWVbf8noH1zQ7dqks7cLHFMHEQMVVQw3-Jo**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 100314075131639786780**2021-07-20T05:24:19.151Z**items/1GpNO87iLLTxRRRyO_pr4fVfHYxrmUlF4adPyyz_u_ms**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 100314075131639786780**2021-07-20T05:14:22.574Z**items/1GpNO87iLLTxRRRyO_pr4fVfHYxrmUlF4adPyyz_u_ms**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 100314075131639786780**2021-07-20T05:11:21.024Z**items/1GpNO87iLLTxRRRyO_pr4fVfHYxrmUlF4adPyyz_u_ms**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
@@ -1402,6 +1590,8 @@
 100314075131639786780**2021-07-01T05:31:47.491Z**items/1GpNO87iLLTxRRRyO_pr4fVfHYxrmUlF4adPyyz_u_ms**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 100314075131639786780**2021-07-01T05:28:46.623Z**items/1GpNO87iLLTxRRRyO_pr4fVfHYxrmUlF4adPyyz_u_ms**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
 100314075131639786780**2021-07-01T05:12:33.960Z**items/1GpNO87iLLTxRRRyO_pr4fVfHYxrmUlF4adPyyz_u_ms**Activity14: Write a program to find largest of three numbers using four functions an only if statements and no else statement. Use four functions.
+105691286974033758655**2021-07-31T10:07:44.616Z**items/1Sb4RzrufFT4KUXO_tTGMs4MV1MYeUOAT46VQnWzSqxs**Activity13: Write a program to find largest two numbers using four functions
+105691286974033758655**2021-07-31T10:04:43.414Z**items/1Sb4RzrufFT4KUXO_tTGMs4MV1MYeUOAT46VQnWzSqxs**Activity13: Write a program to find largest two numbers using four functions
 101369868465963170627**2021-07-15T18:47:32.838Z**items/1IaTUwg2vWpYsssPLmWBMcWBrixOcgExkHJ32XXQqfGI**Activity13: Write a program to find largest two numbers using four functions
 101369868465963170627**2021-07-15T18:44:31.933Z**items/1IaTUwg2vWpYsssPLmWBMcWBrixOcgExkHJ32XXQqfGI**Activity13: Write a program to find largest two numbers using four functions
 101369868465963170627**2021-07-15T18:34:46.865Z**items/1IaTUwg2vWpYsssPLmWBMcWBrixOcgExkHJ32XXQqfGI**Activity13: Write a program to find largest two numbers using four functions
@@ -1451,6 +1641,10 @@
 100314075131639786780**2021-07-01T04:53:33.107Z**items/1xBoILpA_pVBi0hPmubJtTH5QUOayXowab09r-gcZ7NA**Activity13: Write a program to find largest two numbers using four functions
 100314075131639786780**2021-07-01T04:50:32.363Z**items/1xBoILpA_pVBi0hPmubJtTH5QUOayXowab09r-gcZ7NA**Activity13: Write a program to find largest two numbers using four functions
 100314075131639786780**2021-07-01T04:47:31.081Z**items/1xBoILpA_pVBi0hPmubJtTH5QUOayXowab09r-gcZ7NA**Activity13: Write a program to find largest two numbers using four functions
+105691286974033758655**2021-07-31T10:03:53.531Z**items/1W4DMz8l8gxMNo3RUnRy236AxT3aaetX23mO76pEqIWI**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
+105691286974033758655**2021-07-31T10:00:52.503Z**items/1W4DMz8l8gxMNo3RUnRy236AxT3aaetX23mO76pEqIWI**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
+105691286974033758655**2021-07-31T09:56:37.424Z**items/1W4DMz8l8gxMNo3RUnRy236AxT3aaetX23mO76pEqIWI**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
+105691286974033758655**2021-07-31T09:53:35.764Z**items/1W4DMz8l8gxMNo3RUnRy236AxT3aaetX23mO76pEqIWI**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 103271694592282740332**2021-07-19T07:37:08.617Z**items/13Zi2Xb7SKUI3bmFk1035a0hLIb7alfGLSTbiuc6X4ng**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 103271694592282740332**2021-07-19T07:34:08.007Z**items/13Zi2Xb7SKUI3bmFk1035a0hLIb7alfGLSTbiuc6X4ng**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 103271694592282740332**2021-07-19T07:31:07.405Z**items/13Zi2Xb7SKUI3bmFk1035a0hLIb7alfGLSTbiuc6X4ng**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
@@ -1490,6 +1684,9 @@
 102776244482264404862**2021-06-30T12:24:42.791Z**items/1cBbnrT3rPyifrzFUlGLd_5DFBSNqvj8AJJaOEW0f6ig**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 102776244482264404862**2021-06-30T12:21:41.211Z**items/1cBbnrT3rPyifrzFUlGLd_5DFBSNqvj8AJJaOEW0f6ig**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
 100314075131639786780**2021-06-30T06:11:07.505Z**items/12DgH9ivp5l8GoLBoyHTkthIAYsx0ntekXMAgiIvX-3Y**Activity12: Write a program to add two numbers using four functions and only pass by reference in input function.
+117219781815841279160**2021-07-29T07:26:09.532Z**items/1aOKMx0nS5-ilQ-Mm_i1ca2Fye5kc9-qWXNEudeartu4**Activity11: Write a program to add two numbers using four functions and only pass by value
+117219781815841279160**2021-07-29T07:23:08.537Z**items/1aOKMx0nS5-ilQ-Mm_i1ca2Fye5kc9-qWXNEudeartu4**Activity11: Write a program to add two numbers using four functions and only pass by value
+117219781815841279160**2021-07-29T07:19:29.037Z**items/1aOKMx0nS5-ilQ-Mm_i1ca2Fye5kc9-qWXNEudeartu4**Activity11: Write a program to add two numbers using four functions and only pass by value
 105691286974033758655**2021-07-27T12:36:02.421Z**items/1TCMZnRoKDVMem6LkwcjBJlw151VIfOQfImdCd_WxbcM**Activity11: Write a program to add two numbers using four functions and only pass by value
 105691286974033758655**2021-07-27T12:33:00.805Z**items/1TCMZnRoKDVMem6LkwcjBJlw151VIfOQfImdCd_WxbcM**Activity11: Write a program to add two numbers using four functions and only pass by value
 113074985464479285391**2021-07-12T07:58:57.169Z**items/13NnceZ74jDknqP1RX2G6R4YEkYEsNxar1zVMfUPOYe4**Activity11: Write a program to add two numbers using four functions and only pass by value

@@ -1,3 +1,13 @@
+Activity58: Write a function to concatenate two strings. ( Do not use std library function)**1wY42tZRWfaWilr430Y_aUKoGaXPhX46LtvN9TSINUPsv7mPUVwMoYMRencYyAzMlnirco38g
+Activity56: Write a function to find the length of a string. ( Do not use std library function)**1KW80_1ZinqAQp41ZA_Hfyctrb0CcoqDdqzYKpSnuztgxVQ-B1eWYVCmfBAXyczXNI09-siU5
+Activity54: Write a program using  functions to add 2 fractions.**14FQ5WePJXXHgfQNKXZeXbBxgTVAgDdHh9jkBD8osd839VqPeTKQ0eezRa-wpKzy3ChB1Pl8n
+Activity51: Write a program using four functions to compute the sum of N numbers.**1g1ORzqcMW_sFmwyD_c8deRxjP5E0KJAuDxPIqDFnH6StcWfewUlK1glBo_3G3uSWCUxdGy_5
+Activity48: Write a program to reverse the contents an array.**1RqYO9IFO3zjWSXYUuPLWo--DD9FXm4uxjwj-g7gdqkFeZiZa-CNtGtGq-HFzkeBdfwcePOtf
+Activity47: Write a function to find the product of two matrices.**1JXvdyh7FIJR7gxJX8d2ma7_4CL5TLVvvrflvgaJl2dyZWqi5s6nQcU8ppr9UARtQ6ZVaEGs7
+Activity46: Write a program to add two matrices.**1igRTgpYthCw9ASsqCJYiKGxuEkwyFWXCix7kYDZvyZCyZmPd04YQW3Q-f-xiMEYdnDL7TR9r
+Activity45: Write a program to find the largest two numbers out of N numbers.**1jpZYc4WAYkosgnzz5psB-H44xgFDap5yNOQ5pSm5qAyWADq7irz0ECJEhpm4Jqn4cFZqrS7u
+Activity44: Write a program to find the largest of N numbers.**1aU2Um7SJEgxqolBcOmz5aQmt-nXcy8fqYF1Y9IyhrnY_WK9-0aQBFCQWfWWAOaaAMneo8_to
+Activity43: Write a program to implement bubble sort on an array of numbers.**1mIHx43O-fA0JGSIsSn_oBCaBCkzfRuZUmOGKPKx645Czbkk_BrbLg7Kds_hgKVUCHXiQ26mL
 Activity42: Write a function to implement binary search for an array of numbers.**1dFWz-92AFvtvs67s8BeAHiJojazIVtX6PI5CWZHz_mYlKjMJ_tukpaknPnUtxMEX2B_hcCCj
 Activity41: Write a program to implement linear search on an array of numbers.**1fbtftN0UV9-oPTkJH2e4cYIDeScEyFn7-T1Y2CH-ZLYh0ZJhW9dehN6PQqCypTVd5fz7v_mN
 Activity36: Write a program using four functions to evaluate the square root by successive approximations.**1wscImR6tIHnvpS1KSofHis15iT3ehFQwkHr_CcKDRIce2XwCyEailm61iOaERY8AkBVkFVnI
