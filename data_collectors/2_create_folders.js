@@ -1,11 +1,12 @@
-  
+//creates a folder for each class
+ 
 const fs = require('fs')
 const lineReaderSync = require('line-reader-sync')
 
 
 function make_directories()
 {
-    var lrs = new lineReaderSync("../data_files/classroom_details.txt")
+    var lrs = new lineReaderSync("../data_files/classroom_details.txt");
     while(true)
     {
         var line = lrs.readline();
@@ -25,4 +26,4 @@ function make_directories()
     }
 }
 
-make_directories()
+make_directories();
