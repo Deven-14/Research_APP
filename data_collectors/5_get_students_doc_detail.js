@@ -42,34 +42,21 @@ function getAllData(drive, sname, ancestor_name, acname, page_Token) {
               ppl_id = activity.actors[0].user.knownUser[x];
               //console.log(ppl_id.slice(7)) 
               var allFiles = `${ppl_id.slice(7)}**${activity.timestamp}**${name.trim()}**${acname}\n`;
-              console.log(allFiles)
+              //console.log(allFiles)
 
-              fs.appendFileSync(
-                `../data_files/${sname.trim()}/student_activity_details.txt`,
-                allFiles,
-                (err) => {
-                  if (err) console.log(err);
-                }
-              );
+              // fs.appendFileSync(
+              //   `../data_files/${sname.trim()}/student_activity_details.txt`,
+              //   allFiles,
+              //   (err) => {
+              //     if (err) console.log(err);
+              //   }
+              // );
             }
 
           }
           
         });
       }
-
-      // if (res.data.nextPageToken) {
-      //   getAllData(
-      //     auth,
-      //     course_section,
-      //     ancestor_name,
-      //     res.data.nextPageToken
-      //   ).then((resAllFiles) => {
-      //     resolve(resAllFiles);
-      //   });
-      // } else {
-      //   resolve(allFiles);
-      // }
 
       if (res.data.nextPageToken) {
         await getAllData(drive, sname, ancestor_name, acname, res.data.nextPageToken);
