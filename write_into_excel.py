@@ -16,6 +16,7 @@ def get_time_diff(lst):
     
     for row in lst:
         sum_of_diff = timedelta(0)
+        temp_list = [row[0], row[1]]
         for i in range(3, len(row)):
             temp1 = row[i-1].replace('.', 'T').replace('Z', 'T').split('T')[:2]
             temp2 = row[i].replace('.', 'T').replace('Z', 'T').split('T')[:2]
@@ -25,9 +26,8 @@ def get_time_diff(lst):
             datetime1 = datetime(*temp1)
             datetime2 = datetime(*temp2)
             diff = datetime1 - datetime2
-            if(diff.total_seconds() <= 210):
-                sum_of_diff += diff
-        final_lst.append([row[0], row[1], str(sum_of_diff)] + row[2:])
+            temp_list.append(str(diff))
+        final_lst.append(temp_list)
     
     return final_lst
 
@@ -35,7 +35,7 @@ def get_time_diff(lst):
 def write_to_excel(final_lst, path):
     book = xlsxwriter.Workbook(path)     
     sheet = book.add_worksheet()
-    if "timestamps" in path:
+    if "timediff" in path:
         final_lst = get_time_diff(final_lst)
     row = 0
     column = 0
@@ -56,19 +56,20 @@ def make_dir(directory_name):
         os.mkdir(path)
 
 if __name__ == '__main__':
-    lst = ["days", "commits", "timestamps"]
+    csv_files = ["days", "commits", "timestamps", "timestamps"]
+    xlsx_files = ["days", "commits", "timestamps", "timediff"]
     path1 = 'data_files/classroom_details.txt'
     sep1 = ','
     lst1 = get_list(path1, sep1)
-    for k in lst:
+    for csv, xlsx in zip(csv_files, xlsx_files):
         for i in lst1:
             name = i[0]
             if i[1] != 'null':
                 name += '_'+i[1]
             try:
-                path2 = 'data_files/{}/{}.csv'.format(name, k)
+                path2 = 'data_files/{}/{}.csv'.format(name, csv)
                 lst2 = get_list(path2, '**')
-                path3 = 'DSU_FOP_Data/{}/{}.xlsx'.format(name, k)
+                path3 = 'DSU_FOP_Data/{}/{}.xlsx'.format(name, xlsx)
                 make_dir(name)
                 write_to_excel(lst2, path3)
                 #print(path3)
