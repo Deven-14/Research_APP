@@ -16,7 +16,7 @@ def get_time_diff(lst):
     
     for row in lst:
         sum_of_diff = timedelta(0)
-        temp_list = [row[0], row[1]]
+        temp_list = []
         for i in range(3, len(row)):
             temp1 = row[i-1].replace('.', 'T').replace('Z', 'T').split('T')[:2]
             temp2 = row[i].replace('.', 'T').replace('Z', 'T').split('T')[:2]
@@ -26,8 +26,10 @@ def get_time_diff(lst):
             datetime1 = datetime(*temp1)
             datetime2 = datetime(*temp2)
             diff = datetime1 - datetime2
-            temp_list.append(str(diff))
-        final_lst.append(temp_list)
+            if(diff.total_seconds() <= 600):
+                sum_of_diff += diff
+                temp_list.append(str(diff))
+        final_lst.append([row[0], row[1], str(sum_of_diff)] + temp_list)
     
     return final_lst
 
